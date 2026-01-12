@@ -8,7 +8,7 @@ from jobspy import scrape_jobs
 from datetime import datetime
 
 # --- CONFIGURATION ---
-# 1. Search Terms: Broader scope for a graduate/junior
+# 1. Search Terms
 SEARCH_TERMS = [
     "Java Developer", 
     "Junior Software Engineer", 
@@ -17,15 +17,14 @@ SEARCH_TERMS = [
 ]
 
 LOCATION = "Australia"
-RESULTS_PER_TERM = 10  # Keep low to avoid detection (4 terms x 10 = 40 max jobs)
+RESULTS_PER_TERM = 10  # Keep low to avoid detection
 HISTORY_FILE = "job_history.json"
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_TOKEN"]
+
 # Split the string by commas to get a list of IDs
-# Example Input: "123456, 987654" -> Output: ['123456', '987654']
 TELEGRAM_CHAT_IDS = [x.strip() for x in os.environ["CHAT_ID"].split(",") if x.strip()]
 
 # 2. Filters
-# Exclude these strictly (Visa hurdles)
 CITIZENSHIP_KEYWORDS = [
     "australian citizen", "citizenship required", "citizens only",
     "must be australian", "must be a citizen", "citizen of australia",
@@ -33,13 +32,10 @@ CITIZENSHIP_KEYWORDS = [
     "nv1", "baseline", "defence"
 ]
 
-# Exclude Senior roles (Student protection)
 SENIORITY_KEYWORDS = ["senior", "lead", "principal", "staff", "manager", "head of", "5+ years", "7+ years"]
 
-# Remote Validation
 REMOTE_KEYWORDS = ["remote", "work from home", "wfh", "anywhere", "virtual", "100% remote"]
 
-# Tech Stack Detection
 TECH_KEYWORDS = [
     'Spring Boot', 'Spring', 'Hibernate', 'AWS', 'Azure', 'GCP', 'Docker', 
     'Kubernetes', 'React', 'Angular', 'Vue', 'Node.js', 'SQL', 'PostgreSQL', 
@@ -52,7 +48,6 @@ logging.basicConfig(level=logging.INFO)
 def send_telegram(message):
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     
-    # Loop through ALL chat IDs and send the message to each one
     for chat_id in TELEGRAM_CHAT_IDS:
         payload = {
             "chat_id": chat_id,
@@ -73,19 +68,15 @@ def load_history():
     return []
 
 def save_history(history):
-    # Keep file size manageable
     with open(HISTORY_FILE, "w") as f:
         json.dump(history[-1000:], f)
 
 def extract_tech_stack(description):
     found = []
     desc_lower = description.lower()
-    # Check for keywords
     for tech in TECH_KEYWORDS:
-        # Simple check: is the tech word in the description?
         if tech.lower() in desc_lower:
             found.append(tech)
-    # Return top 5 to keep message clean
     return ', '.join(found[:5]) if found else 'Not specified'
 
 async def main():
@@ -98,12 +89,12 @@ async def main():
         print(f"🔍 Searching for '{term}'...")
         try:
             jobs = scrape_jobs(
-                site_name=["indeed", "google"],  # <--- Changed this
+                site_name=["indeed", "google"],
                 search_term=term,
                 location=LOCATION,
                 results_wanted=RESULTS_PER_TERM,
                 country_indeed='australia'
-        )
+            )
             if not jobs.empty:
                 all_jobs = pd.concat([all_jobs, jobs], ignore_index=True)
         except Exception as e:
@@ -114,11 +105,10 @@ async def main():
         print("❌ No raw jobs found this run.")
         return
 
-    # Remove duplicates (same job appearing in 'Java Developer' and 'Backend Developer')
+    # Remove duplicates
     if 'id' in all_jobs.columns:
         all_jobs = all_jobs.drop_duplicates(subset=['id'], keep='first')
     else:
-        # Fallback if ID is missing
         all_jobs = all_jobs.drop_duplicates(subset=['job_url'], keep='first')
 
     print(f"✅ Found {len(all_jobs)} unique raw jobs. Filtering...")
@@ -127,7 +117,8 @@ async def main():
     darwin_jobs = []
     remote_jobs = []
     
-for index, job in all_jobs.iterrows():
+    # --- FIX: THIS LOOP IS NOW CORRECTLY INDENTED INSIDE main() ---
+    for index, job in all_jobs.iterrows():
         title = str(job.get('title', 'Unknown Role'))
         location = str(job.get('location', '')).lower()
         description = str(job.get('description', '')).lower()
@@ -154,7 +145,6 @@ for index, job in all_jobs.iterrows():
         is_darwin = "darwin" in location or "northern territory" in location or "nt" in location
         is_remote = any(k in description or k in location for k in REMOTE_KEYWORDS)
         
-        # Tech Stack Extraction
         tech_stack = extract_tech_stack(description)
         
         formatted_job = (
@@ -172,7 +162,6 @@ for index, job in all_jobs.iterrows():
             remote_jobs.append(formatted_job)
             history.append(job_id)
         else:
-            # THIS IS LIKELY WHERE YOU ARE LOSING JOBS
             print(f"🗑️ Dropped '{title}': Not Darwin & Not Remote (Location: {location})")
 
     # --- NOTIFICATION ---
