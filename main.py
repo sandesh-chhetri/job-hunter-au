@@ -98,11 +98,12 @@ async def main():
         print(f"🔍 Searching for '{term}'...")
         try:
             jobs = scrape_jobs(
-                site_name=["indeed", "glassdoor"], 
+                # REMOVED "glassdoor", ADDED "zip_recruiter" and "google"
+                site_name=["indeed", "zip_recruiter", "google"], 
                 search_term=term,
                 location=LOCATION,
                 results_wanted=RESULTS_PER_TERM,
-                country_indeed='australia' # FIXED: Full country name required
+                country_indeed='australia'
             )
             if not jobs.empty:
                 all_jobs = pd.concat([all_jobs, jobs], ignore_index=True)
