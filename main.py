@@ -10,11 +10,26 @@ from datetime import datetime
 # --- CONFIGURATION ---
 # 1. Search Terms
 SEARCH_TERMS = [
+    # Core Java Roles
     "Java Developer", 
+    "Junior Java Developer",
+    "Backend Developer",
+    
+    # Generic Entry Level
     "Junior Software Engineer", 
     "Graduate Developer", 
-    "Backend Developer"
+    "Entry Level Software Engineer",
+    "Associate Software Engineer",
+    
+    # Broader Titles (Good for getting foot in the door)
+    "Software Developer",
+    "Programmer",
+    "Application Support Analyst",  # Often involves Java debugging
+    "Junior Full Stack Developer"
 ]
+
+# Reduce results per term slightly to keep total run time safe
+RESULTS_PER_TERM = 10
 
 LOCATION = "Australia"
 RESULTS_PER_TERM = 10  # Keep low to avoid detection
