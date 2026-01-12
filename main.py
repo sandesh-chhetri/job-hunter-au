@@ -98,13 +98,12 @@ async def main():
         print(f"🔍 Searching for '{term}'...")
         try:
             jobs = scrape_jobs(
-                # REMOVED "glassdoor", ADDED "zip_recruiter" and "google"
-                site_name=["indeed", "zip_recruiter", "google"], 
+                site_name=["indeed", "google"],  # <--- Changed this
                 search_term=term,
                 location=LOCATION,
                 results_wanted=RESULTS_PER_TERM,
                 country_indeed='australia'
-            )
+        )
             if not jobs.empty:
                 all_jobs = pd.concat([all_jobs, jobs], ignore_index=True)
         except Exception as e:
@@ -128,27 +127,30 @@ async def main():
     darwin_jobs = []
     remote_jobs = []
     
-    for index, job in all_jobs.iterrows():
+for index, job in all_jobs.iterrows():
         title = str(job.get('title', 'Unknown Role'))
-        company = str(job.get('company', 'Unknown Company'))
-        description = str(job.get('description', '')).lower()
         location = str(job.get('location', '')).lower()
+        description = str(job.get('description', '')).lower()
         job_url = job.get('job_url', 'N/A')
         job_id = job.get('id', job_url)
 
-        # --- FILTER 1: HISTORY ---
+        # --- DEBUG LOGGING ---
+        # 1. Check History
         if job_id in history:
+            print(f"🗑️ Dropped '{title}': Already in history")
             continue
 
-        # --- FILTER 2: CITIZENSHIP ---
+        # 2. Check Citizenship
         if any(keyword in description for keyword in CITIZENSHIP_KEYWORDS):
+            print(f"🗑️ Dropped '{title}': Citizenship keyword found")
             continue
 
-        # --- FILTER 3: SENIORITY (Student Check) ---
+        # 3. Check Seniority
         if any(keyword in title.lower() for keyword in SENIORITY_KEYWORDS):
+            print(f"🗑️ Dropped '{title}': Seniority keyword found")
             continue
 
-        # --- FILTER 4: LOCATION & TYPE ---
+        # 4. Check Location/Type
         is_darwin = "darwin" in location or "northern territory" in location or "nt" in location
         is_remote = any(k in description or k in location for k in REMOTE_KEYWORDS)
         
@@ -157,7 +159,7 @@ async def main():
         
         formatted_job = (
             f"*{title}*\n"
-            f"🏢 {company}\n"
+            f"🏢 {job.get('company', 'Unknown')}\n"
             f"📍 {job.get('location')}\n"
             f"💻 Tech: {tech_stack}\n"
             f"🔗 [Apply Here]({job_url})"
@@ -169,7 +171,9 @@ async def main():
         elif is_remote:
             remote_jobs.append(formatted_job)
             history.append(job_id)
-        # Else: It's an onsite job outside Darwin (e.g., Sydney Office) -> IGNORE
+        else:
+            # THIS IS LIKELY WHERE YOU ARE LOSING JOBS
+            print(f"🗑️ Dropped '{title}': Not Darwin & Not Remote (Location: {location})")
 
     # --- NOTIFICATION ---
     if darwin_jobs or remote_jobs:
