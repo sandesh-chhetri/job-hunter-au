@@ -20,7 +20,9 @@ LOCATION = "Australia"
 RESULTS_PER_TERM = 10  # Keep low to avoid detection (4 terms x 10 = 40 max jobs)
 HISTORY_FILE = "job_history.json"
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_TOKEN"]
-TELEGRAM_CHAT_ID = os.environ["CHAT_ID"]
+# Split the string by commas to get a list of IDs
+# Example Input: "123456, 987654" -> Output: ['123456', '987654']
+TELEGRAM_CHAT_IDS = [x.strip() for x in os.environ["CHAT_ID"].split(",") if x.strip()]
 
 # 2. Filters
 # Exclude these strictly (Visa hurdles)
@@ -49,16 +51,20 @@ logging.basicConfig(level=logging.INFO)
 
 def send_telegram(message):
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": TELEGRAM_CHAT_ID,
-        "text": message,
-        "parse_mode": "Markdown",
-        "disable_web_page_preview": True
-    }
-    try:
-        requests.post(url, json=payload)
-    except Exception as e:
-        print(f"Error sending telegram: {e}")
+    
+    # Loop through ALL chat IDs and send the message to each one
+    for chat_id in TELEGRAM_CHAT_IDS:
+        payload = {
+            "chat_id": chat_id,
+            "text": message,
+            "parse_mode": "Markdown",
+            "disable_web_page_preview": True
+        }
+        try:
+            requests.post(url, json=payload)
+            print(f"Sent to ID: {chat_id}")
+        except Exception as e:
+            print(f"Error sending telegram to {chat_id}: {e}")
 
 def load_history():
     if os.path.exists(HISTORY_FILE):
