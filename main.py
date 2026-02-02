@@ -176,8 +176,12 @@ async def main():
 
     history = load_history()
     # Extract just the keys for comparison (ignoring timestamps)
-    existing_keys = [k.split('|')[0:3] for k in history]
-    existing_keys = ["|".join(k) for k in existing_keys]
+    existing_keys = set()
+    for k in history:
+        parts = k.split('|')
+        if len(parts) >= 3:
+            key = f"{parts[0]}|{parts[1]}|{parts[2]}"
+            existing_keys.add(key)
 
     darwin_jobs = []
     remote_jobs = []
@@ -191,6 +195,7 @@ async def main():
         job_key = f"{title.lower().strip()}|{company.lower().strip()}|{location.lower().strip()}"
         
         if job_key in existing_keys:
+            print(f"🗑️ Dropped '{title}': Already in history")
             continue
         if any(k in description for k in CITIZENSHIP_KEYWORDS):
             continue
