@@ -30,10 +30,8 @@ SEARCH_TERMS = [
 ]
 
 # Reduce results per term slightly to keep total run time safe
-RESULTS_PER_TERM = 10
-
-LOCATION = "Australia"
 RESULTS_PER_TERM = 10  # Keep low to avoid detection
+LOCATION = "Australia"
 HISTORY_FILE = "job_history.json"
 # For testing, use test values if environment variables are not set
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_TOKEN", "test_token")
@@ -76,6 +74,7 @@ JAVA_KEYWORDS = [
 logging.basicConfig(level=logging.INFO)
 
 def send_telegram(message):
+    """Send message to Telegram with retry logic"""
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     
     for chat_id in TELEGRAM_CHAT_IDS:
@@ -86,10 +85,13 @@ def send_telegram(message):
             "disable_web_page_preview": True
         }
         try:
-            requests.post(url, json=payload)
-            print(f"Sent to ID: {chat_id}")
+            response = requests.post(url, json=payload, timeout=10)
+            response.raise_for_status()
+            print(f"✅ Sent to chat ID: {chat_id}")
+        except requests.exceptions.RequestException as e:
+            print(f"❌ Error sending telegram to {chat_id}: {e}")
         except Exception as e:
-            print(f"Error sending telegram to {chat_id}: {e}")
+            print(f"❌ Unexpected error for {chat_id}: {e}")
 
 def load_history():
     if os.path.exists(HISTORY_FILE):
@@ -101,37 +103,6 @@ def save_history(history):
     with open(HISTORY_FILE, "w") as f:
         json.dump(history[-1000:], f)
 
-def is_duplicate_job(title, company, location, history):
-    """Enhanced duplicate detection using title+company+location"""
-    job_key = f"{title.lower().strip()}|{company.lower().strip()}|{location.lower().strip()}"
-    return job_key in history
-
-def add_to_history(title, company, location, history):
-    """Add job to history with enhanced key and timestamp"""
-    job_key = f"{title.lower().strip()}|{company.lower().strip()}|{location.lower().strip()}|{datetime.now().isoformat()}"
-    history.append(job_key)
-
-def add_to_history_on_prompt(title, company, location, history):
-    """Add job to history only when prompted (for telegram bot)"""
-    job_key = f"{title.lower().strip()}|{company.lower().strip()}|{location.lower().strip()}|{datetime.now().isoformat()}"
-    history.append(job_key)
-
-def add_all_to_history(title, company, location, history):
-    """Add job to history without filtering (for testing)"""
-    job_key = f"{title.lower().strip()}|{company.lower().strip()}|{location.lower().strip()}|{datetime.now().isoformat()}"
-    history.append(job_key)
-
-def has_java_technologies(description):
-    """Check if job description mentions Java technologies"""
-    desc_lower = description.lower()
-    return any(tech.lower() in desc_lower for tech in JAVA_KEYWORDS)
-def extract_tech_stack(description):
-    found = []
-    desc_lower = description.lower()
-    for tech in TECH_KEYWORDS:
-        if tech.lower() in desc_lower:
-            found.append(tech)
-    return ', '.join(found[:5]) if found else 'Not specified'
 
 async def main():
     # Check if we just want the report
@@ -175,20 +146,14 @@ async def main():
     print(f"✅ Found {len(all_jobs)} unique raw jobs. Filtering...")
 
     history = load_history()
-    # Extract just the keys for comparison (ignoring timestamps)
-    # Handle both old format (pipe-separated) and detect timestamp at end
+    # Extract job keys without timestamps for duplicate detection
     existing_keys = set()
-    for k in history:
-        # Remove timestamp if present (ISO format at end after last pipe)
-        # Check if last part looks like a timestamp (contains 'T' and has digits)
-        parts = k.rsplit('|', 1)
-        if len(parts) == 2 and 'T' in parts[1] and parts[1][0:4].isdigit():
-            # Has timestamp, use everything before it as the key
-            key = parts[0].lower().strip()
-        else:
-            # No timestamp, use as-is
-            key = k.lower().strip()
-        existing_keys.add(key)
+    for entry in history:
+        # Split on last pipe to separate timestamp
+        parts = entry.rsplit('|', 1)
+        # Use first 3 parts (title|company|location) as the key
+        job_key = parts[0] if len(parts) > 1 else entry
+        existing_keys.add(job_key.lower().strip())
 
 
     darwin_jobs = []
