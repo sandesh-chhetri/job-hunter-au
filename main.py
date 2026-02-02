@@ -176,12 +176,20 @@ async def main():
 
     history = load_history()
     # Extract just the keys for comparison (ignoring timestamps)
+    # Handle both old format (pipe-separated) and detect timestamp at end
     existing_keys = set()
     for k in history:
-        parts = k.split('|')
-        if len(parts) >= 3:
-            key = f"{parts[0]}|{parts[1]}|{parts[2]}"
-            existing_keys.add(key)
+        # Remove timestamp if present (ISO format at end after last pipe)
+        # Check if last part looks like a timestamp (contains 'T' and has digits)
+        parts = k.rsplit('|', 1)
+        if len(parts) == 2 and 'T' in parts[1] and parts[1][0:4].isdigit():
+            # Has timestamp, use everything before it as the key
+            key = parts[0].lower().strip()
+        else:
+            # No timestamp, use as-is
+            key = k.lower().strip()
+        existing_keys.add(key)
+
 
     darwin_jobs = []
     remote_jobs = []
@@ -195,8 +203,8 @@ async def main():
         job_key = f"{title.lower().strip()}|{company.lower().strip()}|{location.lower().strip()}"
         
         if job_key in existing_keys:
-            print(f"🗑️ Dropped '{title}': Already in history")
             continue
+        
         if any(k in description for k in CITIZENSHIP_KEYWORDS):
             continue
         if any(k in title.lower() for k in SENIORITY_KEYWORDS):
