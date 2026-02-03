@@ -1,126 +1,44 @@
-<<<<<<< Updated upstream
-["backend engineer, user platform - java (remote across anz)|canva|sydney, nsw, au", "smartcomm developer|insurance australia group|brisbane, qld, au", "expression of interest_ java developer|fujitsu|sydney, nsw, au", "test engineer|duxxel|sydney, nsw, au", "software maintenance engineer (chinese speaking, middleware, java, troubleshooting)|red hat|remote, au", "experienced linux / kernel engineer|qualcomm|sydney, nsw, au", "software engineer ii|microsoft|au", "ethical hacker (australia)|packetlabs|remote, au", "backend engineer (paid internship) - australian only|arc system|remote, au", "online english writing and analysis course developer - all levels|jadeclass education|remote, au", "prototyping engineer, apj prototyping and cloud engineering (pace)|amazon web services|melbourne, vic, au|2026-02-02T23:07:31.389576", "prototyping engineer, apj prototyping and cloud engineering (pace)|amazon web services|perth, wa, au|2026-02-02T23:07:31.389720", "prototyping engineer, apj prototyping and cloud engineering (pace)|amazon web services|canberra, act, au|2026-02-02T23:07:31.390012", "prototyping engineer, apj prototyping and cloud engineering (pace)|amazon web services|sydney, nsw, au|2026-02-02T23:07:31.390327", "prototyping engineer, apj prototyping and cloud engineering (pace)|amazon web services|brisbane, qld, au|2026-02-02T23:07:31.390552", "web scrape developer (python)|shopgrok|chippendale, nsw, au|2026-02-02T23:07:31.392152", "full stack engineer|unleash live|sydney, nsw, au|2026-02-02T23:07:31.392901", "quality assurance tester|big red group|the rocks, nsw, au|2026-02-02T23:07:31.393106", "pontoon engineer | cruise whitsundays|journey beyond|airlie beach, qld, au|2026-02-02T23:07:31.397644", "sr. tier iii o&m engineer|leidos|alice springs, nt, au|2026-02-02T23:07:31.399655", "positive behaviour support practitioner|the ors group|stirling, wa, au|2026-02-02T23:07:31.404064", "site reliability engineer, anz|partly|sydney, nsw, au|2026-02-02T23:07:31.407423", "junior web developer|hismile|burleigh waters, qld, au|2026-02-02T23:07:31.407764", "pontoon engineer | cruise whitsundays|journey beyond|airlie beach, qld, au|2026-02-02T15:12:47.676945", "expression of interest_ java developer|fujitsu|sydney, nsw, au|2026-02-02T16:29:55.927888", "expression of interest_ java developer|fujitsu|sydney, nsw, au|2026-02-02T16:29:55.928034", "test engineer|duxxel|sydney, nsw, au|2026-02-02T16:29:55.928503", "azure cloud engineer(australian citizen)|strategicpartners|canberra, act, au|2026-02-03T05:12:23.992079", "civil engineer|northrop consulting engineers|newcastle, nsw, au|2026-02-03T08:29:01.350012", "network quality assurance engineer|megaport|brisbane, qld, au|2026-02-03T08:29:01.353164", "full stack developer|uniquehire|sydney, nsw, au|2026-02-03T12:41:45.335517"]
-=======
 [
-  {
-    "title": "Java Developer",
-    "company": "Virtusa",
-    "url": "https://www.glassdoor.com.au/job-listing/j?jl=1010009530552",
-    "scraped_at": "2026-02-03T18:52:08.947916"
-  },
-  {
-    "title": "Sailpoint Developer",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=81b242698d84cb7c",
-    "scraped_at": "2026-02-03T18:52:08.949413"
-  },
-  {
-    "title": "Expression of Interest_ Java Developer",
-    "company": "Fujitsu",
-    "url": "https://www.glassdoor.com.au/job-listing/j?jl=1010005408863",
-    "scraped_at": "2026-02-03T18:52:08.950159"
-  },
-  {
-    "title": "Software Maintenance Engineer (Chinese speaking, Middleware, Java, Troubleshooting)",
-    "company": "Red Hat, Inc.",
-    "url": "https://www.glassdoor.com.au/job-listing/j?jl=1009987151324",
-    "scraped_at": "2026-02-03T18:52:08.950316"
-  },
-  {
-    "title": "Android Developer",
-    "company": "Luxury Escapes",
-    "url": "https://au.indeed.com/viewjob?jk=b92f46998e275947",
-    "scraped_at": "2026-02-03T18:52:08.951071"
-  },
-  {
-    "title": "Graduate Civil Engineer - Springfield Community Development",
-    "company": "Stantec",
-    "url": "https://www.glassdoor.com.au/job-listing/j?jl=1009950965211",
-    "scraped_at": "2026-02-03T18:52:08.957349"
-  },
-  {
-    "title": "Full Stack Software Engineer",
-    "company": "ServiceM8",
-    "url": "https://www.glassdoor.com.au/job-listing/j?jl=1007902771886",
-    "scraped_at": "2026-02-03T19:06:12.330837"
-  },
-  {
-    "title": "eLearning Developer",
-    "company": "Department of Children and Families",
-    "url": "https://www.glassdoor.com.au/job-listing/j?jl=1010020092797",
-    "scraped_at": "2026-02-03T19:06:12.349627"
-  },
-  {
-    "title": "Software Engineer II_Azure Core Storage",
-    "company": "Microsoft",
-    "url": "https://au.indeed.com/viewjob?jk=7ca89973db421e83",
-    "scraped_at": "2026-02-03T19:06:12.353213"
-  },
-  {
-    "title": "Graduate Web Developer",
-    "company": "Michael Hill",
-    "url": "https://www.glassdoor.com.au/job-listing/j?jl=1010000252387",
-    "scraped_at": "2026-02-03T19:06:12.357083"
-  },
-  {
-    "title": "Graduate Web Developer",
-    "company": "Michael Hill",
-    "url": "https://au.indeed.com/viewjob?jk=062452d1e225950a",
-    "scraped_at": "2026-02-03T19:06:12.364344"
-  },
-  {
-    "title": "iOS Developer",
-    "company": "ServiceM8",
-    "url": "https://www.glassdoor.com.au/job-listing/j?jl=1007902771874",
-    "scraped_at": "2026-02-03T19:06:12.370471"
-  },
-  {
-    "title": "Android Developer (Minimum 2 Year)",
-    "company": "Vibidsoft",
-    "url": "https://www.glassdoor.com.au/job-listing/j?jl=1008363643797",
-    "scraped_at": "2026-02-03T19:06:12.373365"
-  },
-  {
-    "title": "Database Administrator",
-    "company": "CareMaster Global",
-    "url": "https://www.glassdoor.com.au/job-listing/j?jl=1010007590793",
-    "scraped_at": "2026-02-03T19:06:12.398933"
-  },
-  {
-    "title": "Software Engineer - Functional Programming (AU & NZ)",
-    "company": "Bellroy",
-    "url": "https://www.glassdoor.com.au/job-listing/j?jl=1009808545414",
-    "scraped_at": "2026-02-03T19:24:25.713150"
-  },
   {
     "title": "Service Desk Analyst - Digital Workplace",
     "company": "Centorrino Technologies",
     "url": "https://au.indeed.com/viewjob?jk=c8f453a8263e9ae0",
-    "scraped_at": "2026-02-04T00:33:52.646560"
+    "scraped_at": "2026-02-03T15:21:53.202058"
   },
   {
-    "title": "Child and Adult Therapeutic Practitioner",
-    "company": "Scout Talent",
-    "url": "https://www.glassdoor.com.au/job-listing/j?jl=1010019429619",
-    "scraped_at": "2026-02-04T00:33:52.659889"
+    "title": "Level 1 Information Technology Help Desk Technician",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=0377e8abe4441902",
+    "scraped_at": "2026-02-03T15:21:53.205050"
   },
   {
-    "title": "Junior Office Administrator",
-    "company": "Swan Group WA",
-    "url": "https://au.indeed.com/viewjob?jk=e31ba1262a273c4b",
-    "scraped_at": "2026-02-04T00:33:52.679659"
+    "title": "Logistics Assistant",
+    "company": "Le Creuset",
+    "url": "https://au.indeed.com/viewjob?jk=79af6c099ad2264b",
+    "scraped_at": "2026-02-03T15:21:53.229748"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Light & Wonder",
+    "url": "https://au.indeed.com/viewjob?jk=c5d930e53f24962b",
+    "scraped_at": "2026-02-03T15:21:53.236910"
   },
   {
     "title": "Automation Tester",
     "company": "Micromine",
     "url": "https://au.indeed.com/viewjob?jk=8cec403b878f23ad",
-    "scraped_at": "2026-02-04T00:33:52.713971"
+    "scraped_at": "2026-02-03T15:21:53.241021"
   },
   {
     "title": "QA Analyst",
     "company": "Cuscal",
     "url": "https://au.indeed.com/viewjob?jk=e2439fe6357d45fc",
-    "scraped_at": "2026-02-04T00:33:52.715815"
+    "scraped_at": "2026-02-03T15:21:53.242109"
+  },
+  {
+    "title": "DC Functional Tester",
+    "company": "Cognizant Technology Solutions",
+    "url": "https://au.indeed.com/viewjob?jk=c00378c481c6172b",
+    "scraped_at": "2026-02-03T15:21:53.243222"
   }
 ]
->>>>>>> Stashed changes
