@@ -18,6 +18,7 @@ from job_history_reviewer import get_job_stats, get_recent_jobs, format_report
 
 # Configuration
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_TOKEN")
+TELEGRAM_CHAT_IDS = [x.strip() for x in os.environ.get("CHAT_ID", "").split(",") if x.strip()]
 
 # Setup logging
 logging.basicConfig(
@@ -135,6 +136,10 @@ def main() -> None:
     """Start the Telegram bot."""
     if not TELEGRAM_BOT_TOKEN:
         logger.error("TELEGRAM_TOKEN environment variable not set.")
+        return
+    
+    if not TELEGRAM_CHAT_IDS:
+        logger.error("CHAT_ID environment variable not set or empty.")
         return
     
     application = Application.builder().token(TELEGRAM_BOT_TOKEN).build()
