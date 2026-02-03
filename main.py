@@ -58,7 +58,7 @@ def run_scraper():
         logger.info(f"🔎 Searching: {term}")
         try:
             jobs = scrape_jobs(
-                site_name=["indeed", "glassdoor", "google"], # LinkedIn is very strict on bots, keeping it simple
+                site_name=["indeed", "google"], # Removed glassdoor due to 403 blocking
                 search_term=term,
                 location=config.LOCATION,
                 results_wanted=config.RESULTS_PER_TERM,

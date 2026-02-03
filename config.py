@@ -83,10 +83,8 @@ BLACKLIST_KEYWORDS = [
     "permanent resident", "pr or citizen", "security clearance", 
     "nv1", "baseline", "defence", "clearance required", "defence clearance",
     "citizenship", "citizenship needed", "citizenship essential",
-    # Work Type Exclusions
-    "full-time", "full time", "fte", "permanent", "permanent position",
-    "contract", "contractor", "freelance", "part-time contract",
-    "casual"  # Exclude casual positions for now
+    # Work Type Exclusions (only exclude full-time for non-Darwin jobs)
+    "contract", "contractor", "freelance", "part-time contract"
 ]
 
 # Technology Keywords: Jobs MUST mention at least one of these to be relevant
