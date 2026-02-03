@@ -3,206 +3,185 @@ import pandas as pd
 import json
 import os
 import requests
-import asyncio
-import sys
-from jobspy import scrape_jobs
+import time
 from datetime import datetime
+from jobspy import scrape_jobs
+import config  # Import our new config file
 
-# --- CONFIGURATION ---
-# 1. Search Terms
-SEARCH_TERMS = [
-    # Core Java Roles
-    "Java Developer", 
-    "Junior Java Developer",
-    "Backend Developer",
-    
-    # Generic Entry Level
-    "Junior Software Engineer", 
-    "Graduate Developer", 
-    "Entry Level Software Engineer",
-    "Associate Software Engineer",
-    
-    # Broader Titles (Good for getting foot in the door)
-    "Software Developer",
-    "Programmer",
-    "Application Support Analyst",  # Often involves Java debugging
-    "Junior Full Stack Developer"
-]
+# Setup Logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-# Reduce results per term slightly to keep total run time safe
-RESULTS_PER_TERM = 10  # Keep low to avoid detection
-LOCATION = "Australia"
 HISTORY_FILE = "job_history.json"
-# For testing, use test values if environment variables are not set
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_TOKEN", "test_token")
-
-# Split the string by commas to get a list of IDs
-TELEGRAM_CHAT_IDS = [x.strip() for x in os.environ.get("CHAT_ID", "test_chat").split(",") if x.strip()]
-
-# 2. Filters
-CITIZENSHIP_KEYWORDS = [
-    "australian citizen", "citizenship required", "citizens only",
-    "must be australian", "must be a citizen", "citizen of australia",
-    "permanent resident", "pr or citizen", "security clearance", 
-    "nv1", "baseline", "defence"
-]
-
-SENIORITY_KEYWORDS = ["senior", "lead", "principal", "staff", "manager", "head of", "5+ years", "7+ years"]
-
-REMOTE_KEYWORDS = ["remote", "work from home", "wfh", "anywhere", "virtual", "100% remote"]
-
-TECH_KEYWORDS = [
-    'Spring Boot', 'Spring', 'Hibernate', 'AWS', 'Azure', 'GCP', 'Docker', 
-    'Kubernetes', 'React', 'Angular', 'Vue', 'Node.js', 'SQL', 'PostgreSQL', 
-    'MongoDB', 'Redis', 'Kafka', 'CI/CD', 'Git', 'Maven', 'Gradle'
-]
-
-# AWS reposting blacklist - Targeted to block only AWS PACE jobs
-AWS_BLACKLIST = [
-    "prototyping engineer", "pace", "apj prototyping", 
-    "aws web services", "amazon web services",
-    "aws prototyping", "amazon prototyping", "aws pace", "amazon pace"
-]
-
-# Java-specific technology filter
-JAVA_KEYWORDS = [
-    'Java', 'Spring', 'Hibernate', 'Maven', 'Gradle', 'JPA', 
-    'REST', 'Microservices', 'JDBC', 'JVM', 'J2EE', 'Servlet',
-    'JSP', 'Struts', 'JSF', 'EJB', 'JMS', 'JNDI'
-]
-# --- SETUP LOGGING ---
-logging.basicConfig(level=logging.INFO)
-
-def send_telegram(message):
-    """Send message to Telegram with retry logic"""
-    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    
-    for chat_id in TELEGRAM_CHAT_IDS:
-        payload = {
-            "chat_id": chat_id,
-            "text": message,
-            "parse_mode": "Markdown",
-            "disable_web_page_preview": True
-        }
-        try:
-            response = requests.post(url, json=payload, timeout=10)
-            response.raise_for_status()
-            print(f"✅ Sent to chat ID: {chat_id}")
-        except requests.exceptions.RequestException as e:
-            print(f"❌ Error sending telegram to {chat_id}: {e}")
-        except Exception as e:
-            print(f"❌ Unexpected error for {chat_id}: {e}")
+TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
+TELEGRAM_CHAT_ID = os.environ.get("CHAT_ID")
 
 def load_history():
     if os.path.exists(HISTORY_FILE):
-        with open(HISTORY_FILE, "r") as f:
-            return json.load(f)
+        try:
+            with open(HISTORY_FILE, "r") as f:
+                return json.load(f)
+        except json.JSONDecodeError:
+            return []
     return []
 
 def save_history(history):
+    # Keep only the last 1000 entries to prevent the file from growing infinitely
     with open(HISTORY_FILE, "w") as f:
-        json.dump(history[-1000:], f)
+        json.dump(history[-1000:], f, indent=2)
 
-
-async def main():
-    # Check if we just want the report
-    if len(sys.argv) > 1 and sys.argv[1] == "--report":
-        from job_history_reviewer import analyze_job_history
-        report = analyze_job_history()
-        send_telegram(f"📜 *JOB HISTORY REPORT*\n{report}")
+def send_telegram(message):
+    if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
+        logger.error("❌ Telegram credentials missing.")
         return
 
-    print(f"🚀 Starting Job Hunt Routine...")
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
+    payload = {
+        "chat_id": TELEGRAM_CHAT_ID,
+        "text": message,
+        "parse_mode": "Markdown",
+        "disable_web_page_preview": True
+    }
+    try:
+        requests.post(url, json=payload, timeout=10)
+        time.sleep(1) # Be nice to Telegram API
+    except Exception as e:
+        logger.error(f"❌ Failed to send Telegram message: {e}")
+
+def run_scraper():
+    logger.info("🚀 Starting Job Hunt...")
     
     all_jobs = pd.DataFrame()
     
-    # 1. Loop through search terms
-    for term in SEARCH_TERMS:
-        print(f"🔍 Searching for '{term}'...")
+    # 1. Scrape for each search term
+    for term in config.SEARCH_TERMS:
+        logger.info(f"🔎 Searching: {term}")
         try:
             jobs = scrape_jobs(
-                site_name=["indeed", "google"],
+                site_name=["indeed", "glassdoor", "google"], # LinkedIn is very strict on bots, keeping it simple
                 search_term=term,
-                location=LOCATION,
-                results_wanted=RESULTS_PER_TERM,
+                location=config.LOCATION,
+                results_wanted=config.RESULTS_PER_TERM,
                 country_indeed='australia'
             )
             if not jobs.empty:
                 all_jobs = pd.concat([all_jobs, jobs], ignore_index=True)
         except Exception as e:
-            print(f"⚠️ Error searching '{term}': {e}")
+            logger.warning(f"⚠️ Error scraping '{term}': {e}")
             continue
 
     if all_jobs.empty:
-        print("❌ No raw jobs found this run.")
+        logger.info("❌ No jobs found this run.")
         return
 
-    # Remove duplicates
-    if 'id' in all_jobs.columns:
-        all_jobs = all_jobs.drop_duplicates(subset=['id'], keep='first')
-    else:
+    # 2. Filter Duplicates from this run
+    # Drop duplicates based on URL or ID
+    if 'job_url' in all_jobs.columns:
         all_jobs = all_jobs.drop_duplicates(subset=['job_url'], keep='first')
+    
+    logger.info(f"✅ Found {len(all_jobs)} raw jobs. Filtering...")
 
-    print(f"✅ Found {len(all_jobs)} unique raw jobs. Filtering...")
-
+    # 3. Load History
     history = load_history()
-    # Extract job keys without timestamps for duplicate detection
-    existing_keys = set()
-    for entry in history:
-        # Split on last pipe to separate timestamp
-        parts = entry.rsplit('|', 1)
-        # Use first 3 parts (title|company|location) as the key
-        job_key = parts[0] if len(parts) > 1 else entry
-        existing_keys.add(job_key.lower().strip())
-
-
+    # Create a set of previously seen URLs for fast lookup
+    seen_urls = {entry.get('url') for entry in history}
+    
+    new_history_entries = []
     darwin_jobs = []
     remote_jobs = []
-    
+    other_jobs = []
+
     for _, job in all_jobs.iterrows():
         title = str(job.get('title', 'Unknown'))
         company = str(job.get('company', 'Unknown'))
         location = str(job.get('location', '')).lower()
         description = str(job.get('description', '')).lower()
+        job_url = str(job.get('job_url', ''))
         
-        job_key = f"{title.lower().strip()}|{company.lower().strip()}|{location.lower().strip()}"
+        # --- FILTERS ---
         
-        if job_key in existing_keys:
+        # A. Already seen?
+        if job_url in seen_urls:
             continue
-        
-        if any(k in description for k in CITIZENSHIP_KEYWORDS):
-            continue
-        if any(k in title.lower() for k in SENIORITY_KEYWORDS):
-            continue
-        if not any(k.lower() in description for k in JAVA_KEYWORDS):
-            continue
-
-        # --- ADD THIS BLOCK ---
-        # Check Blacklist (AWS Spam)
-        if any(keyword in title.lower() for keyword in AWS_BLACKLIST):
-            print(f"🗑️ Dropped '{title}': Blacklisted keyword")
-            continue
-        # ----------------------
-
-        is_darwin = any(k in location for k in ["darwin", "nt", "northern territory"])
-        is_remote = any(k in description or k in location for k in REMOTE_KEYWORDS)
-        
-        if is_darwin or is_remote:
-            formatted = f"*{title}*\n🏢 {company}\n📍 {location}\n🔗 [Apply]({job.get('job_url')})"
-            if is_darwin: darwin_jobs.append(formatted)
-            else: remote_jobs.append(formatted)
             
-            # Add to history with timestamp
-            history.append(f"{job_key}|{datetime.now().isoformat()}")
+        # B. Blacklisted words (Senior, Citizen)?
+        # Check title
+        if any(bad_word in title.lower() for bad_word in config.BLACKLIST_KEYWORDS):
+            continue
+        # Check description (optional, sometimes too aggressive)
+        if any(bad_word in description for bad_word in config.BLACKLIST_KEYWORDS):
+            continue
+            
+        # C. Must have tech keywords?
+        # We combine title and description for this check
+        full_text = (title + " " + description).lower()
+        if not any(req_word.lower() in full_text for req_word in config.REQUIRED_KEYWORDS):
+            continue
 
-    # Send alerts only for NEW jobs
-    if darwin_jobs:
-        send_telegram("🐊 *NEW DARWIN JOBS*\n" + "\n\n".join(darwin_jobs))
-    if remote_jobs:
-        send_telegram("🌏 *NEW REMOTE JOBS*\n" + "\n\n".join(remote_jobs))
+        # --- LOCATION AND WORK TYPE FILTERS ---
+        
+        is_darwin = any(term in location for term in config.DARWIN_LOCATION_TERMS)
+        is_remote = any(term in description or term in location for term in config.REMOTE_TERMS)
+        
+        # D. Location-based filtering logic:
+        # - If in Darwin: Accept all (flexible criteria)
+        # - If outside Darwin: Must be remote or part-time
+        # - If location is not specified: Assume remote or accept if it matches tech requirements
+        
+        if is_darwin:
+            # Darwin jobs: Flexible criteria - accept if it passed previous filters
+            formatted = f"*{title}*\n🏢 {company}\n📍 {location.title()}\n🔗 [Apply Here]({job_url})"
+            darwin_jobs.append(formatted)
+        elif is_remote:
+            # Remote jobs outside Darwin: Accept if it passed previous filters
+            formatted = f"*{title}*\n🏢 {company}\n📍 {location.title()} (Remote)\n🔗 [Apply Here]({job_url})"
+            remote_jobs.append(formatted)
+        else:
+            # Non-remote, non-Darwin jobs: Only accept if part-time is mentioned
+            if "part-time" in description.lower():
+                formatted = f"*{title}*\n🏢 {company}\n📍 {location.title()} (Part-time)\n🔗 [Apply Here]({job_url})"
+                other_jobs.append(formatted)
+            else:
+                # Skip non-remote, non-Darwin, non-part-time jobs
+                continue
+
+        # Prepare History Entry
+        new_history_entries.append({
+            "title": title,
+            "company": company,
+            "url": job_url,
+            "scraped_at": datetime.now().isoformat()
+        })
+
+    # 4. Send Alerts
+    all_jobs_to_alert = []
+    all_jobs_to_alert.extend(darwin_jobs)
+    all_jobs_to_alert.extend(remote_jobs)
+    all_jobs_to_alert.extend(other_jobs)
     
-    if darwin_jobs or remote_jobs:
+    if all_jobs_to_alert:
+        logger.info(f"💌 Sending {len(all_jobs_to_alert)} alerts...")
+        intro = f"👋 *Found {len(all_jobs_to_alert)} new jobs for you!*"
+        send_telegram(intro)
+        
+        # Send Darwin jobs first
+        if darwin_jobs:
+            send_telegram("🐊 *NEW DARWIN JOBS*\n" + "\n\n".join(darwin_jobs))
+        
+        # Send remote jobs
+        if remote_jobs:
+            send_telegram("🌏 *NEW REMOTE JOBS*\n" + "\n\n".join(remote_jobs))
+        
+        # Send other part-time jobs
+        if other_jobs:
+            send_telegram("💼 *NEW PART-TIME JOBS*\n" + "\n\n".join(other_jobs))
+            
+        # 5. Save History
+        history.extend(new_history_entries)
         save_history(history)
+        logger.info("💾 History updated.")
+    else:
+        logger.info("😴 No new matching jobs found.")
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    run_scraper()

@@ -1,0 +1,39 @@
+name: Job Scraper Bot
+
+on:
+  schedule:
+    - cron: '0 */4 * * *' # Run every 4 hours
+  workflow_dispatch:      # Allows manual trigger button
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write     # REQUIRED to commit the history file
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Scraper
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: python main.py
+
+      - name: Commit and Push History
+        run: |
+          git config --global user.name "JobBot"
+          git config --global user.email "bot@users.noreply.github.com"
+          git add job_history.json
+          # Only commit if the file has changed
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update job history [skip ci]" && git push)
