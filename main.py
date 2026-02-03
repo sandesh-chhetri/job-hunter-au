@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 HISTORY_FILE = "job_history.json"
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
-TELEGRAM_CHAT_ID = os.environ.get("CHAT_ID")
+TELEGRAM_CHAT_IDS = [x.strip() for x in os.environ.get("CHAT_ID", "").split(",") if x.strip()]
 
 def load_history():
     if os.path.exists(HISTORY_FILE):
@@ -31,22 +31,25 @@ def save_history(history):
         json.dump(history[-1000:], f, indent=2)
 
 def send_telegram(message):
-    if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
+    if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_IDS:
         logger.error("❌ Telegram credentials missing.")
         return
 
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": TELEGRAM_CHAT_ID,
-        "text": message,
-        "parse_mode": "Markdown",
-        "disable_web_page_preview": True
-    }
-    try:
-        requests.post(url, json=payload, timeout=10)
-        time.sleep(1) # Be nice to Telegram API
-    except Exception as e:
-        logger.error(f"❌ Failed to send Telegram message: {e}")
+    
+    for chat_id in TELEGRAM_CHAT_IDS:
+        payload = {
+            "chat_id": chat_id,
+            "text": message,
+            "parse_mode": "Markdown",
+            "disable_web_page_preview": True
+        }
+        try:
+            requests.post(url, json=payload, timeout=10)
+            logger.info(f"✅ Sent to chat ID: {chat_id}")
+            time.sleep(1) # Be nice to Telegram API
+        except Exception as e:
+            logger.error(f"❌ Failed to send to {chat_id}: {e}")
 
 def run_scraper():
     logger.info("🚀 Starting Job Hunt...")
