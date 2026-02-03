@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
-Job History Reviewer - Returns string for Telegram
+Job History Reviewer - Analyzes job history and returns structured data
 """
-
 import json
 import os
 from datetime import datetime, timedelta
@@ -11,80 +10,145 @@ from collections import defaultdict
 HISTORY_FILE = "job_history.json"
 
 def load_job_history():
-    if os.path.exists(HISTORY_FILE):
-        with open(HISTORY_FILE, "r") as f:
+    """Loads job history from the JSON file."""
+    if not os.path.exists(HISTORY_FILE):
+        return []
+    with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+        try:
             return json.load(f)
-    return []
+        except json.JSONDecodeError:
+            return []
 
-def parse_job_key(job_key):
-    try:
-        parts = job_key.split("|")
-        # Handle both old format (3 parts) and new format (4 parts)
-        if len(parts) >= 3:
-            return {
-                "title": parts[0].strip(),
-                "company": parts[1].strip(),
-                "location": parts[2].strip(),
-                "timestamp": parts[3] if len(parts) > 3 else None
-            }
-        return {"title": "Unknown", "company": "Unknown", "location": "Unknown", "timestamp": None}
-    except ValueError:
-        return {"title": "Unknown", "company": "Unknown", "location": "Unknown", "timestamp": None}
-
-def analyze_job_history():
-    """Analyze job history and return a formatted string"""
+def get_jobs_in_range(days=14):
+    """
+    Retrieves jobs from the history within a specified date range.
+    
+    Args:
+        days (int): The number of days to look back.
+    
+    Returns:
+        list: A list of job dictionaries.
+    """
     history = load_job_history()
-    current_time = datetime.now()
-    cutoff_time = current_time - timedelta(days=14) # Changed to 2 weeks to match description
+    cutoff_date = datetime.now() - timedelta(days=days)
     
-    filtered_jobs = []
-    for job_key in history:
-        job = parse_job_key(job_key)
-        if job["timestamp"]:
+    recent_jobs = []
+    for entry in history:
+        if 'timestamp' in entry and 'job_key' in entry:
             try:
-                job_time = datetime.fromisoformat(job["timestamp"])
-                if job_time >= cutoff_time:
-                    filtered_jobs.append(job)
-            except ValueError:
-                filtered_jobs.append(job)
-        else:
-            # Include older jobs without timestamps if you want, or exclude them
-            filtered_jobs.append(job)
+                job_time = datetime.fromisoformat(entry["timestamp"])
+                if job_time >= cutoff_date:
+                    job_details = entry['job_key'].split('|')
+                    if len(job_details) == 3:
+                        recent_jobs.append({
+                            "title": job_details[0],
+                            "company": job_details[1],
+                            "location": job_details[2],
+                            "timestamp": entry["timestamp"]
+                        })
+            except (ValueError, TypeError):
+                continue # Skip jobs with invalid timestamps
             
-    # Start building the report string
-    output = []
-    
-    # Stats
-    companies = defaultdict(list)
-    locations = defaultdict(list)
-    for job in filtered_jobs:
-        companies[job["company"]].append(job)
-        locations[job["location"]].append(job)
+    return recent_jobs
 
-    output.append(f"📈 *Job Stats (Last 14 Days)*")
-    output.append(f"Total Found: {len(filtered_jobs)}")
-    output.append(f"Unique Companies: {len(companies)}\n")
+def get_job_stats(days=14):
+    """
+    Generates statistics about jobs found in the last `days`.
     
-    # Top Companies
-    output.append("*🏢 TOP COMPANIES*")
-    sorted_companies = sorted(companies.items(), key=lambda x: len(x[1]), reverse=True)
-    for company, jobs in sorted_companies[:5]:
-        output.append(f"• {company}: {len(jobs)}")
-    
-    # Recent Jobs (Limit to 10 to avoid Telegram message length limits)
-    output.append("\n*🆕 LATEST 10 JOBS*")
-    for i, job in enumerate(filtered_jobs[-10:], 1):
-        output.append(f"{i}. {job['title']} @ {job['company']}")
+    Args:
+        days (int): The number of days to analyze.
         
-    # Recommendations
-    output.append("\n*💡 INSIGHTS*")
-    remote_count = sum(1 for job in filtered_jobs if "remote" in job["location"].lower())
-    if remote_count > len(filtered_jobs) * 0.5:
-        output.append(f"• Remote market is hot ({remote_count} jobs)")
-    else:
-        output.append(f"• Mostly onsite roles ({len(filtered_jobs) - remote_count} jobs)")
+    Returns:
+        dict: A dictionary containing job statistics.
+    """
+    jobs = get_jobs_in_range(days)
+    
+    stats = {
+        "total_jobs": len(jobs),
+        "unique_companies": len(set(job["company"] for job in jobs)),
+        "unique_locations": len(set(job["location"] for job in jobs)),
+        "top_companies": defaultdict(int),
+        "top_locations": defaultdict(int),
+        "remote_jobs": 0,
+        "days": days
+    }
+    
+    for job in jobs:
+        stats["top_companies"][job["company"]] += 1
+        stats["top_locations"][job["location"]] += 1
+        if "remote" in job["location"].lower():
+            stats["remote_jobs"] += 1
+            
+    # Sort top companies and locations
+    stats["top_companies"] = sorted(stats["top_companies"].items(), key=lambda x: x[1], reverse=True)[:5]
+    stats["top_locations"] = sorted(stats["top_locations"].items(), key=lambda x: x[1], reverse=True)[:5]
+    
+    return stats
 
-    return "\n".join(output)
+def get_recent_jobs(days=7, limit=10):
+    """
+    Retrieves the most recent jobs.
+    
+    Args:
+        days (int): The number of days to look back.
+        limit (int): The maximum number of jobs to return.
+        
+    Returns:
+        list: A list of the most recent job dictionaries.
+    """
+    jobs = get_jobs_in_range(days)
+    jobs.sort(key=lambda x: x["timestamp"], reverse=True)
+    return jobs[:limit]
+
+def format_report(stats, recent_jobs):
+    """
+    Formats the job report for display.
+    
+    Args:
+        stats (dict): Job statistics from get_job_stats.
+        recent_jobs (list): A list of recent jobs.
+        
+    Returns:
+        str: A formatted string for the report.
+    """
+    report = [
+        f"📈 *Job Stats (Last {stats.get('days', 14)} Days)*",
+        f"Total Found: {stats['total_jobs']}",
+        f"Unique Companies: {stats['unique_companies']}\n",
+        "*🏢 TOP COMPANIES*",
+    ]
+    
+    for company, count in stats["top_companies"]:
+        report.append(f"• {company}: {count}")
+        
+    report.append("\n*🆕 LATEST JOBS*")
+    if recent_jobs:
+        for i, job in enumerate(recent_jobs, 1):
+            report.append(f"{i}. {job['title']} @ {job['company']}")
+    else:
+        report.append("No recent jobs found.")
+        
+    report.append(f"\n*💡 INSIGHTS*")
+    if stats['total_jobs'] > 0 and stats['remote_jobs'] > stats['total_jobs'] * 0.5:
+        report.append(f"• Remote market is hot ({stats['remote_jobs']} jobs)")
+    elif stats['total_jobs'] > 0:
+        report.append(f"• Mostly onsite roles ({stats['total_jobs'] - stats['remote_jobs']} jobs)")
+    else:
+        report.append("No job data to generate insights.")
+        
+    return "\n".join(report)
 
 if __name__ == "__main__":
-    print(analyze_job_history())
+    # Demonstrate the new functions
+    job_stats = get_job_stats()
+    latest_jobs = get_recent_jobs()
+    
+    print("--- Job Stats ---")
+    print(job_stats)
+    
+    print("\n--- Recent Jobs ---")
+    for job in latest_jobs:
+        print(job)
+        
+    print("\n--- Formatted Report ---")
+    print(format_report(job_stats, latest_jobs))
