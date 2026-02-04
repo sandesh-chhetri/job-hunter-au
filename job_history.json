@@ -70,5 +70,17 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=dd4ae63d0725dd46",
     "scraped_at": "2026-02-03T20:49:09.648723"
+  },
+  {
+    "title": "Registered Nurse",
+    "company": "St Vincent\u2019s Health Australia",
+    "url": "https://au.indeed.com/viewjob?jk=86b2b2917422e782",
+    "scraped_at": "2026-02-04T02:42:09.070510"
+  },
+  {
+    "title": "Infrastructure Security Engineer",
+    "company": "David Jones",
+    "url": "https://au.indeed.com/viewjob?jk=b258651bf4bf267e",
+    "scraped_at": "2026-02-04T02:42:09.093550"
   }
 ]
