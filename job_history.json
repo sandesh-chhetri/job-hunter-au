@@ -82,5 +82,23 @@
     "company": "David Jones",
     "url": "https://au.indeed.com/viewjob?jk=b258651bf4bf267e",
     "scraped_at": "2026-02-04T02:42:09.093550"
+  },
+  {
+    "title": "IT Technician",
+    "company": "LifeByte Systems",
+    "url": "https://au.indeed.com/viewjob?jk=3a351e3a1f8cd446",
+    "scraped_at": "2026-02-04T05:14:00.256133"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Colonial First State",
+    "url": "https://au.indeed.com/viewjob?jk=f6540d554301b442",
+    "scraped_at": "2026-02-04T05:14:00.274962"
+  },
+  {
+    "title": "Supported Playgroup Officer",
+    "company": "Yarra Ranges Council",
+    "url": "https://au.indeed.com/viewjob?jk=ede0c6a7f091f8b0",
+    "scraped_at": "2026-02-04T05:14:00.276949"
   }
 ]
