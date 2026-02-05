@@ -190,5 +190,17 @@
     "company": "NSW Health",
     "url": "https://au.indeed.com/viewjob?jk=39084d8a03152459",
     "scraped_at": "2026-02-05T17:00:43.304444"
+  },
+  {
+    "title": "Mortuary Technician",
+    "company": "NT Health",
+    "url": "https://au.indeed.com/viewjob?jk=090348b01f5ce83a",
+    "scraped_at": "2026-02-05T20:43:07.608473"
+  },
+  {
+    "title": "Customer Service Assistant",
+    "company": "NT Government - Department of Tourism and Hospitality",
+    "url": "https://au.indeed.com/viewjob?jk=003c85affd3deb73",
+    "scraped_at": "2026-02-05T20:43:07.608874"
   }
 ]
