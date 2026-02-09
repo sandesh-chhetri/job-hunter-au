@@ -316,5 +316,11 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=eb235ad1ce47fcdb",
     "scraped_at": "2026-02-09T02:52:13.464497"
+  },
+  {
+    "title": "Warehouse Storeperson",
+    "company": "Harvey Norman",
+    "url": "https://au.indeed.com/viewjob?jk=b3def2781478b3a9",
+    "scraped_at": "2026-02-09T05:41:08.723137"
   }
 ]
