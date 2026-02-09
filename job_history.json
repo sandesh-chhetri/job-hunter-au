@@ -334,5 +334,17 @@
     "company": "Marriott International",
     "url": "https://au.indeed.com/viewjob?jk=d1eea2fa0dad00bd",
     "scraped_at": "2026-02-09T13:27:09.383243"
+  },
+  {
+    "title": "Platform Engineer",
+    "company": "McMillan Shakespeare",
+    "url": "https://au.indeed.com/viewjob?jk=de773b04fb4a5454",
+    "scraped_at": "2026-02-09T20:53:28.528134"
+  },
+  {
+    "title": "Power Platform Engineer",
+    "company": "McMillan Shakespeare",
+    "url": "https://au.indeed.com/viewjob?jk=fcfc269639247406",
+    "scraped_at": "2026-02-09T20:53:28.529481"
   }
 ]
