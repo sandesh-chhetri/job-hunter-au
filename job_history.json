@@ -418,5 +418,23 @@
     "company": "UST",
     "url": "https://au.indeed.com/viewjob?jk=cf06eb08691500a8",
     "scraped_at": "2026-02-11T08:59:34.465986"
+  },
+  {
+    "title": "Customer Support, Technical Specialist, Powerwall",
+    "company": "Tesla",
+    "url": "https://au.indeed.com/viewjob?jk=3a541b05c1c4939e",
+    "scraped_at": "2026-02-11T13:28:07.097927"
+  },
+  {
+    "title": "Overnight Welcome Agent",
+    "company": "Marriott International",
+    "url": "https://au.indeed.com/viewjob?jk=5c82f84af0e57dd9",
+    "scraped_at": "2026-02-11T13:28:07.100159"
+  },
+  {
+    "title": "Full Stack Engineer (Mid Level)",
+    "company": "Kogan",
+    "url": "https://au.indeed.com/viewjob?jk=ca40c07b3bc8aaac",
+    "scraped_at": "2026-02-11T13:28:07.126788"
   }
 ]
