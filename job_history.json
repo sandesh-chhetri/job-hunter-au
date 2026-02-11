@@ -406,5 +406,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=6f87a6966eea519a",
     "scraped_at": "2026-02-11T02:58:36.456903"
+  },
+  {
+    "title": "Finance Business Analyst",
+    "company": "QBE",
+    "url": "https://au.indeed.com/viewjob?jk=5d0c953c7db9c25e",
+    "scraped_at": "2026-02-11T08:59:34.455261"
+  },
+  {
+    "title": "Azure .Net Developer",
+    "company": "UST",
+    "url": "https://au.indeed.com/viewjob?jk=cf06eb08691500a8",
+    "scraped_at": "2026-02-11T08:59:34.465986"
   }
 ]
