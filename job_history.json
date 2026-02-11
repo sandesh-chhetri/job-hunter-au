@@ -436,5 +436,23 @@
     "company": "Kogan",
     "url": "https://au.indeed.com/viewjob?jk=ca40c07b3bc8aaac",
     "scraped_at": "2026-02-11T13:28:07.126788"
+  },
+  {
+    "title": "Technical Support Engineer",
+    "company": "Subs Solutions",
+    "url": "https://au.indeed.com/viewjob?jk=7d0c364102573aba",
+    "scraped_at": "2026-02-11T17:12:27.321125"
+  },
+  {
+    "title": "Assistant Cyber Security Analyst",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=c3be731302b5135a",
+    "scraped_at": "2026-02-11T17:12:27.341063"
+  },
+  {
+    "title": "Trading Operations Engineer",
+    "company": "Pepperstone Group",
+    "url": "https://au.indeed.com/viewjob?jk=1ad18e252d12c41b",
+    "scraped_at": "2026-02-11T17:12:27.341368"
   }
 ]
