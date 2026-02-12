@@ -502,5 +502,29 @@
     "company": "The ORS Group",
     "url": "https://au.indeed.com/viewjob?jk=2b0e761d75f0d4e8",
     "scraped_at": "2026-02-12T05:37:33.380369"
+  },
+  {
+    "title": "Registered Nurse",
+    "company": "St Vincent\u2019s Health Australia",
+    "url": "https://au.indeed.com/viewjob?jk=92592f98adf7d188",
+    "scraped_at": "2026-02-12T08:58:47.829593"
+  },
+  {
+    "title": "Clinical Psychologist",
+    "company": "St Vincent\u2019s Health Australia",
+    "url": "https://au.indeed.com/viewjob?jk=31aea6ed98cf6d57",
+    "scraped_at": "2026-02-12T08:58:47.829904"
+  },
+  {
+    "title": "Plan Administrator",
+    "company": "McMillan Shakespeare",
+    "url": "https://au.indeed.com/viewjob?jk=a70989de5ad61678",
+    "scraped_at": "2026-02-12T08:58:47.840361"
+  },
+  {
+    "title": "Junior Dev Support Engineer",
+    "company": "tripleSdata Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=d280dce4dbc74bf2",
+    "scraped_at": "2026-02-12T08:58:47.849591"
   }
 ]
