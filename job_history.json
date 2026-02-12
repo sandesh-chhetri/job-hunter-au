@@ -460,5 +460,23 @@
     "company": "Concentrix",
     "url": "https://au.indeed.com/viewjob?jk=b9093fb94cbad588",
     "scraped_at": "2026-02-11T20:49:54.315924"
+  },
+  {
+    "title": "Implementation Specialist, IT IM",
+    "company": "Rippling",
+    "url": "https://au.indeed.com/viewjob?jk=d14ed941b588de4a",
+    "scraped_at": "2026-02-12T02:54:23.226097"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Acira Consultancy Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=1057bc29db2a9fc2",
+    "scraped_at": "2026-02-12T02:54:23.256367"
+  },
+  {
+    "title": "Cloud Database Engineer",
+    "company": "Suncorp Group",
+    "url": "https://au.indeed.com/viewjob?jk=5c94edb940a5a1c4",
+    "scraped_at": "2026-02-12T02:54:23.256607"
   }
 ]
