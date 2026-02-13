@@ -598,5 +598,41 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=a4b0c7d3d3f3b6ba",
     "scraped_at": "2026-02-13T08:55:21.673967"
+  },
+  {
+    "title": "Administration Officer",
+    "company": "Queensland Government",
+    "url": "https://au.indeed.com/viewjob?jk=764015d15fce9836",
+    "scraped_at": "2026-02-13T13:18:45.102347"
+  },
+  {
+    "title": "IT Support Engineer",
+    "company": "Blinq",
+    "url": "https://au.indeed.com/viewjob?jk=d5468def0e352184",
+    "scraped_at": "2026-02-13T13:18:45.108148"
+  },
+  {
+    "title": "IT Support Engineer",
+    "company": "Blinq",
+    "url": "https://au.indeed.com/viewjob?jk=50d86b5bb056f151",
+    "scraped_at": "2026-02-13T13:18:45.108403"
+  },
+  {
+    "title": "Front Desk Agent",
+    "company": "Marriott International",
+    "url": "https://au.indeed.com/viewjob?jk=1bc8a40f5a5fd8e8",
+    "scraped_at": "2026-02-13T13:18:45.110981"
+  },
+  {
+    "title": "Power Platform Developer",
+    "company": "Royal Automobile Club of WA",
+    "url": "https://au.indeed.com/viewjob?jk=f1cf7088bcf35f35",
+    "scraped_at": "2026-02-13T13:18:45.134422"
+  },
+  {
+    "title": "Engineer - Developer Experience",
+    "company": "Xero",
+    "url": "https://au.indeed.com/viewjob?jk=11848bfd2a15eba8",
+    "scraped_at": "2026-02-13T13:18:45.134706"
   }
 ]
