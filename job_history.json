@@ -580,5 +580,17 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=9e3c7d3fae651d9b",
     "scraped_at": "2026-02-13T02:54:35.083082"
+  },
+  {
+    "title": "Business Data Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=2101cdbeec8c8a8a",
+    "scraped_at": "2026-02-13T05:25:04.827670"
+  },
+  {
+    "title": "Product Analyst",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=f03eb6170c1eb33e",
+    "scraped_at": "2026-02-13T05:25:04.828234"
   }
 ]
