@@ -592,5 +592,11 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=f03eb6170c1eb33e",
     "scraped_at": "2026-02-13T05:25:04.828234"
+  },
+  {
+    "title": "Java Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=a4b0c7d3d3f3b6ba",
+    "scraped_at": "2026-02-13T08:55:21.673967"
   }
 ]
