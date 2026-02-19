@@ -934,5 +934,29 @@
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=44fbf247470226f1",
     "scraped_at": "2026-02-19T17:04:12.154374"
+  },
+  {
+    "title": "Patient Support Assistant",
+    "company": "NT Health",
+    "url": "https://au.indeed.com/viewjob?jk=a03c41745470726c",
+    "scraped_at": "2026-02-19T20:41:12.154993"
+  },
+  {
+    "title": "Registered Nurse - St Vincent's Public Hospital, Sydney",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=328afb9147a200a7",
+    "scraped_at": "2026-02-19T20:41:12.166897"
+  },
+  {
+    "title": "Data Analyst - Associate",
+    "company": "EY",
+    "url": "https://au.indeed.com/viewjob?jk=ef3dae8d41bd03d4",
+    "scraped_at": "2026-02-19T20:41:12.181879"
+  },
+  {
+    "title": "Cloud Support Engineer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=eaa610c62806eebd",
+    "scraped_at": "2026-02-19T20:41:12.191882"
   }
 ]
