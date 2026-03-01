@@ -1372,5 +1372,17 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=4fe14b152c602ab8",
     "scraped_at": "2026-03-01T08:40:57.144466"
+  },
+  {
+    "title": "Audit Officer",
+    "company": "NT Government - Attorney-General's Department",
+    "url": "https://au.indeed.com/viewjob?jk=e29cfb87b0a8e2b1",
+    "scraped_at": "2026-03-01T20:36:44.360608"
+  },
+  {
+    "title": "Reporting Data Analyst",
+    "company": "NT Government - Department of Education and Training",
+    "url": "https://au.indeed.com/viewjob?jk=3d32fd76a4db3762",
+    "scraped_at": "2026-03-01T20:36:44.385889"
   }
 ]
