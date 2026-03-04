@@ -1486,5 +1486,17 @@
     "company": "NT Health",
     "url": "https://au.indeed.com/viewjob?jk=d768ecaca703a7b8",
     "scraped_at": "2026-03-03T20:40:44.969792"
+  },
+  {
+    "title": "Computer Network and Systems Engineer",
+    "company": "Dipole Group",
+    "url": "https://au.indeed.com/viewjob?jk=b9708196dc667d3e",
+    "scraped_at": "2026-03-04T02:41:07.780234"
+  },
+  {
+    "title": "Conversational AI Chat Bot Developer, NICE",
+    "company": "TTEC Digital",
+    "url": "https://au.indeed.com/viewjob?jk=5ba46cabad873dbf",
+    "scraped_at": "2026-03-04T02:41:07.805207"
   }
 ]
