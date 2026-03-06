@@ -1624,5 +1624,17 @@
     "company": "Fetch Pet",
     "url": "https://au.indeed.com/viewjob?jk=11f402f02e50f42c",
     "scraped_at": "2026-03-05T13:18:13.243610"
+  },
+  {
+    "title": "Help Desk Support",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=ab5fcda0fc8eb71d",
+    "scraped_at": "2026-03-06T02:41:43.734842"
+  },
+  {
+    "title": "Analyst",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=271482f54d89fb07",
+    "scraped_at": "2026-03-06T02:41:43.761111"
   }
 ]
