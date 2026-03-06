@@ -1654,5 +1654,11 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=18741d4fe36815be",
     "scraped_at": "2026-03-06T05:13:35.330377"
+  },
+  {
+    "title": "Rating",
+    "company": "Svitzer",
+    "url": "https://au.indeed.com/viewjob?jk=f05dd2126fd5c513",
+    "scraped_at": "2026-03-06T08:50:50.261273"
   }
 ]
