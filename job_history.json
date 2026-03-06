@@ -1660,5 +1660,23 @@
     "company": "Svitzer",
     "url": "https://au.indeed.com/viewjob?jk=f05dd2126fd5c513",
     "scraped_at": "2026-03-06T08:50:50.261273"
+  },
+  {
+    "title": "Program Officer",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=be817f5eabd3760d",
+    "scraped_at": "2026-03-06T13:13:56.123303"
+  },
+  {
+    "title": "Graduate Physiotherapist",
+    "company": "genu",
+    "url": "https://au.indeed.com/viewjob?jk=811da50a0c311964",
+    "scraped_at": "2026-03-06T13:13:56.131902"
+  },
+  {
+    "title": "AI Native Platform Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=84b610c897eb3772",
+    "scraped_at": "2026-03-06T13:13:56.154571"
   }
 ]
