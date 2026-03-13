@@ -2032,5 +2032,23 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=339a90cced6cf44f",
     "scraped_at": "2026-03-12T17:04:57.711129"
+  },
+  {
+    "title": "Service Desk Analyst",
+    "company": "SBS",
+    "url": "https://au.indeed.com/viewjob?jk=8c10b1ccb6edba81",
+    "scraped_at": "2026-03-13T02:43:35.479165"
+  },
+  {
+    "title": "Market Analyst",
+    "company": "Modo Energy",
+    "url": "https://au.indeed.com/viewjob?jk=eca380d4aa5ebd01",
+    "scraped_at": "2026-03-13T02:43:35.502957"
+  },
+  {
+    "title": "Investment Analyst - Total Portfolio",
+    "company": "Aware Super",
+    "url": "https://au.indeed.com/viewjob?jk=fe9790ae13c8af18",
+    "scraped_at": "2026-03-13T02:43:35.504210"
   }
 ]
