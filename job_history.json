@@ -2272,5 +2272,29 @@
     "company": "QBE",
     "url": "https://au.indeed.com/viewjob?jk=46b775552a6cfecb",
     "scraped_at": "2026-03-17T09:01:52.931074"
+  },
+  {
+    "title": "Brigade Admin Support Officer",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=3cdf74c87575887d",
+    "scraped_at": "2026-03-17T13:42:15.205874"
+  },
+  {
+    "title": "Brigade Admin Support Officer",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=f492d51523a99aab",
+    "scraped_at": "2026-03-17T13:42:15.206975"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "7-Eleven",
+    "url": "https://au.indeed.com/viewjob?jk=58bf3df4b159fbb1",
+    "scraped_at": "2026-03-17T13:42:15.232549"
+  },
+  {
+    "title": "QA Tester",
+    "company": "Mobility Company",
+    "url": "https://au.indeed.com/viewjob?jk=fde238ff595746f0",
+    "scraped_at": "2026-03-17T13:42:15.243651"
   }
 ]
