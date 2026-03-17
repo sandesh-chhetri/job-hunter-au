@@ -2194,5 +2194,29 @@
     "company": "Qube",
     "url": "https://au.indeed.com/viewjob?jk=e32ca0e9c838cd79",
     "scraped_at": "2026-03-16T17:12:34.872025"
+  },
+  {
+    "title": "Analyst Android Engineer",
+    "company": "NAB - National Australia Bank",
+    "url": "https://au.indeed.com/viewjob?jk=88f8668c3637062c",
+    "scraped_at": "2026-03-17T02:45:38.296119"
+  },
+  {
+    "title": "Analyst iOS Engineer",
+    "company": "NAB - National Australia Bank",
+    "url": "https://au.indeed.com/viewjob?jk=72dbcf1c7ce84de4",
+    "scraped_at": "2026-03-17T02:45:38.296335"
+  },
+  {
+    "title": "HR & Development Advisor",
+    "company": "Etex",
+    "url": "https://au.indeed.com/viewjob?jk=27c55798f5e26d1e",
+    "scraped_at": "2026-03-17T02:45:38.299839"
+  },
+  {
+    "title": "Cloud Security Engineer",
+    "company": "Nuix",
+    "url": "https://au.indeed.com/viewjob?jk=17d3663ee8d65ae2",
+    "scraped_at": "2026-03-17T02:45:38.307574"
   }
 ]
