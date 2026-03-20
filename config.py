@@ -5,7 +5,7 @@ Targeting specific roles for BIT + MICT + nursing background that support PR goa
 
 # Job Search Settings
 LOCATION = "Australia"
-RESULTS_PER_TERM = 15  # Keep low to avoid being blocked
+RESULTS_PER_TERM = 25  # Keep low to avoid being blocked
 
 # Search Terms: Focused on PR-relevant ICT roles
 SEARCH_TERMS = [
