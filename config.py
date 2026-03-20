@@ -89,21 +89,19 @@ BLACKLIST_KEYWORDS = [
 
 # Technology Keywords: Jobs MUST mention at least one of these to be relevant
 REQUIRED_KEYWORDS = [
-    # Core IT Skills
-    "IT", "ICT", "Information Technology", "Technology", "Systems",
-    "Technical", "Support", "Helpdesk", "Service Desk",
+    # Core IT Skills (Removed generic words like "IT", "Support", "Systems")
+    "ICT", "Information Technology", "Helpdesk", "Service Desk", "Technical Support", 
+    "IT Support", "Desktop Support", "Systems Administration", "SysAdmin",
     
-    # Technical Skills
-    "Network", "Networking", "System Administration", "Systems Admin",
-    "Database", "SQL", "Data", "Reporting", "Business Intelligence",
-    "Analysis", "Business Analysis", "Process Analysis",
-    "Software", "Development", "Programming", "Web Development",
-    "Testing", "QA", "Quality Assurance", "UAT",
-    "Security", "Cybersecurity", "Cloud", "Azure", "AWS",
-    "Microsoft", "Office", "365", "Exchange", "SharePoint",
-    "Linux", "Windows", "VMware", "Virtualization",
-    "Agile", "Scrum", "Project Management",
-    "Power BI", "Tableau", "BI Tools", "Reporting Tools"
+    # Technical Skills (Made more specific to avoid matching random jobs)
+    "Network", "Networking", "Database", "SQL", "Business Intelligence", 
+    "Data Analysis", "Business Analysis",
+    "Software Development", "Programming", "Web Development",
+    "Software Testing", "QA", "Quality Assurance", "UAT",
+    "Cybersecurity", "Cloud", "Azure", "AWS",
+    "Microsoft", "Office 365", "Exchange", "SharePoint",
+    "Linux", "Windows Server", "VMware", "Virtualization",
+    "Agile", "Scrum", "Power BI", "Tableau"
 ]
 
 # Role-Specific Keywords (additional requirements for certain categories)
