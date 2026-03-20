@@ -2530,5 +2530,17 @@
     "company": "MUFG",
     "url": "https://au.indeed.com/viewjob?jk=e1f243a001a8ceb3",
     "scraped_at": "2026-03-20T13:17:05.879581"
+  },
+  {
+    "title": "Administrative Support Officer",
+    "company": "NSW Health",
+    "url": "https://au.indeed.com/viewjob?jk=fbafe817d80b8005",
+    "scraped_at": "2026-03-20T14:07:36.890721"
+  },
+  {
+    "title": "Software Engineer - Core",
+    "company": "EasyGo",
+    "url": "https://au.indeed.com/viewjob?jk=51b2e65afb625327",
+    "scraped_at": "2026-03-20T14:07:36.948553"
   }
 ]
