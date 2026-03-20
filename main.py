@@ -4,6 +4,7 @@ import json
 import os
 import requests
 import time
+import re  # <-- ADDED: Required for the matches_keywords function
 from datetime import datetime
 from jobspy import scrape_jobs
 import config  # Import our new config file
@@ -51,6 +52,24 @@ def send_telegram(message):
         except Exception as e:
             logger.error(f"❌ Failed to send to {chat_id}: {e}")
 
+def matches_keywords(text, keywords):
+    """
+    Safely checks if keywords are in the text.
+    Uses word boundaries (\b) for short abbreviations to prevent substring matching.
+    """
+    text_lower = text.lower()
+    for kw in keywords:
+        kw_lower = kw.lower()
+        if len(kw_lower) <= 3:
+            # Use regex for short words (e.g., "nt", "qa", "sql", "sr") so they don't match inside larger words
+            if re.search(r'\b' + re.escape(kw_lower) + r'\b', text_lower):
+                return True
+        else:
+            # Normal substring match for longer words
+            if kw_lower in text_lower:
+                return True
+    return False
+    
 def run_scraper():
     logger.info("🚀 Starting Job Hunt...")
     
@@ -108,23 +127,21 @@ def run_scraper():
             continue
             
         # B. Blacklisted words (Senior, Citizen)?
-        # Check title
-        if any(bad_word in title.lower() for bad_word in config.BLACKLIST_KEYWORDS):
-            continue
-        # Check description (optional, sometimes too aggressive)
-        if any(bad_word in description for bad_word in config.BLACKLIST_KEYWORDS):
+        # <-- UPDATED: Now uses matches_keywords instead of the buggy any() loop
+        if matches_keywords(title, config.BLACKLIST_KEYWORDS) or matches_keywords(description, config.BLACKLIST_KEYWORDS):
             continue
             
         # C. Must have tech keywords?
-        # We combine title and description for this check
-        full_text = (title + " " + description).lower()
-        if not any(req_word.lower() in full_text for req_word in config.REQUIRED_KEYWORDS):
+        # <-- UPDATED: Now uses matches_keywords
+        full_text = title + " " + description
+        if not matches_keywords(full_text, config.REQUIRED_KEYWORDS):
             continue
 
         # --- LOCATION AND WORK TYPE FILTERS ---
         
-        is_darwin = any(term in location for term in config.DARWIN_LOCATION_TERMS)
-        is_remote = any(term in description or term in location for term in config.REMOTE_TERMS)
+        # <-- UPDATED: Now uses matches_keywords to prevent "nt" matching "Centre"
+        is_darwin = matches_keywords(location, config.DARWIN_LOCATION_TERMS)
+        is_remote = matches_keywords(description + " " + location, config.REMOTE_TERMS)
         
         # D. Location-based filtering logic:
         # - If in Darwin: Accept all (flexible criteria)
