@@ -2656,5 +2656,11 @@
     "company": "Kogan",
     "url": "https://au.indeed.com/viewjob?jk=0a9d5df2d277334a",
     "scraped_at": "2026-03-25T09:01:10.962944"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=a5affa4c2f3d3943",
+    "scraped_at": "2026-03-25T13:41:00.725879"
   }
 ]
