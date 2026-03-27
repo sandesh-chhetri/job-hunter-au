@@ -2716,5 +2716,23 @@
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=02ed022c282698a6",
     "scraped_at": "2026-03-26T13:46:22.819897"
+  },
+  {
+    "title": "Full Stack Software Engineer",
+    "company": "Bupa",
+    "url": "https://au.indeed.com/viewjob?jk=76ba1d3e5b0fab19",
+    "scraped_at": "2026-03-27T05:46:06.473296"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=f56f72431e9fb0d7",
+    "scraped_at": "2026-03-27T05:46:06.474179"
+  },
+  {
+    "title": "Plant Operator Grade 2",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=a78a84771d737605",
+    "scraped_at": "2026-03-27T05:46:06.476902"
   }
 ]
