@@ -2854,5 +2854,23 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=2d47754a84ad5f47",
     "scraped_at": "2026-03-30T17:06:05.673051"
+  },
+  {
+    "title": "Storesperson",
+    "company": "Dnata",
+    "url": "https://au.indeed.com/viewjob?jk=914d65834323ccd0",
+    "scraped_at": "2026-03-30T20:56:22.590114"
+  },
+  {
+    "title": "Market Analyst",
+    "company": "Modo Energy",
+    "url": "https://au.indeed.com/viewjob?jk=f8bcfcdf3ee2da99",
+    "scraped_at": "2026-03-30T20:56:22.654596"
+  },
+  {
+    "title": "Software Engineer - Core",
+    "company": "EasyGo",
+    "url": "https://au.indeed.com/viewjob?jk=2f7de4f59c0b7c66",
+    "scraped_at": "2026-03-30T20:56:22.672316"
   }
 ]
