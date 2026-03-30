@@ -2842,5 +2842,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=118cd998615005df",
     "scraped_at": "2026-03-30T13:51:47.656031"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=5841a6d17c747b2e",
+    "scraped_at": "2026-03-30T17:06:05.669134"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=2d47754a84ad5f47",
+    "scraped_at": "2026-03-30T17:06:05.673051"
   }
 ]
