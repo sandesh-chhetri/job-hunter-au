@@ -3178,5 +3178,29 @@
     "company": "Great Southern Bank",
     "url": "https://au.indeed.com/viewjob?jk=9cd1aab99175fd62",
     "scraped_at": "2026-04-09T05:53:24.970687"
+  },
+  {
+    "title": "Product Data Analyst",
+    "company": "Cuscal",
+    "url": "https://au.indeed.com/viewjob?jk=848783e5c81120b5",
+    "scraped_at": "2026-04-09T09:19:59.706587"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Suncorp Group",
+    "url": "https://au.indeed.com/viewjob?jk=cc016ebdca9402ba",
+    "scraped_at": "2026-04-09T09:19:59.723945"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Matter Solutions",
+    "url": "https://au.indeed.com/viewjob?jk=bae01c09a8de12b1",
+    "scraped_at": "2026-04-09T09:19:59.724637"
+  },
+  {
+    "title": "Web Developer",
+    "company": "CMSN Group Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=61d2544c3ea546fd",
+    "scraped_at": "2026-04-09T09:19:59.725417"
   }
 ]
