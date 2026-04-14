@@ -3352,5 +3352,23 @@
     "company": "SSI",
     "url": "https://au.indeed.com/viewjob?jk=320b45f9d80eb912",
     "scraped_at": "2026-04-14T03:29:07.200233"
+  },
+  {
+    "title": "Social Worker - Burton Street Centre - St Vincent's Public Hospital, Sydney",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=457fa3ee3419a5b1",
+    "scraped_at": "2026-04-14T09:27:27.277106"
+  },
+  {
+    "title": "Data Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=a674c25c614b60e1",
+    "scraped_at": "2026-04-14T09:27:27.307633"
+  },
+  {
+    "title": "Fraud Analyst",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=62d2dc4ff5ee81c1",
+    "scraped_at": "2026-04-14T09:27:27.312453"
   }
 ]
