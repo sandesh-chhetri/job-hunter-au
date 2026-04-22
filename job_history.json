@@ -3904,5 +3904,11 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=8de4a580a0955aff",
     "scraped_at": "2026-04-22T03:30:14.993846"
+  },
+  {
+    "title": "Transport Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=4b1d00f15c736c59",
+    "scraped_at": "2026-04-22T06:06:00.433507"
   }
 ]
