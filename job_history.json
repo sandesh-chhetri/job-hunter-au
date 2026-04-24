@@ -4246,5 +4246,35 @@
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=1f8f3bab8d948c5f",
     "scraped_at": "2026-04-24T03:35:48.410280"
+  },
+  {
+    "title": "RFQ - .NET Developer",
+    "company": "NTT DATA",
+    "url": "https://au.indeed.com/viewjob?jk=18f4fdbd4ac02e95",
+    "scraped_at": "2026-04-24T06:16:38.543740"
+  },
+  {
+    "title": "Founding AI / Software Engineer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=420098239baee4da",
+    "scraped_at": "2026-04-24T06:16:38.550268"
+  },
+  {
+    "title": "Coastal Infrastructure Maintenance Specialist Regional",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=4b95205b9ff0238f",
+    "scraped_at": "2026-04-24T06:16:38.553100"
+  },
+  {
+    "title": "Field Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=ee52afe34e74e60a",
+    "scraped_at": "2026-04-24T06:16:38.553618"
+  },
+  {
+    "title": "Coastal Infrastructure Maintenance Specialist Metro",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=81150b3bd698cf7d",
+    "scraped_at": "2026-04-24T06:16:38.554119"
   }
 ]
