@@ -4456,5 +4456,23 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=e1bb30c5b7e0cac1",
     "scraped_at": "2026-04-28T03:52:55.519553"
+  },
+  {
+    "title": "IT Support Technician - Field Operations",
+    "company": "V4 Services Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=d6c3b610f209c5ff",
+    "scraped_at": "2026-04-28T06:36:41.964001"
+  },
+  {
+    "title": "Operational Technology (OT) System Administrator",
+    "company": "Hydro Tasmania",
+    "url": "https://au.indeed.com/viewjob?jk=89c9c9fea7272e60",
+    "scraped_at": "2026-04-28T06:36:41.968722"
+  },
+  {
+    "title": "Finance Systems Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=ae70aca90d921a0d",
+    "scraped_at": "2026-04-28T06:36:42.007117"
   }
 ]
