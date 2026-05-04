@@ -4852,5 +4852,35 @@
     "company": "Conn3cted",
     "url": "https://au.indeed.com/viewjob?jk=1beaff41af0a81bc",
     "scraped_at": "2026-05-04T10:21:28.733962"
+  },
+  {
+    "title": "Change Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=45648b430e24a471",
+    "scraped_at": "2026-05-04T14:21:11.385465"
+  },
+  {
+    "title": "Web Developer",
+    "company": "Wintons",
+    "url": "https://au.indeed.com/viewjob?jk=31d32114b8222d25",
+    "scraped_at": "2026-05-04T14:21:11.409260"
+  },
+  {
+    "title": "Korean - Fluent Speakers - AI Training - Brisbane, Australia",
+    "company": "Prolific Academic Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=f69ed1200f09565b",
+    "scraped_at": "2026-05-04T14:21:11.413483"
+  },
+  {
+    "title": "Korean - Fluent Speakers - AI Training - Sydney, Australia",
+    "company": "Prolific Academic Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=b668e7337b7c900b",
+    "scraped_at": "2026-05-04T14:21:11.413906"
+  },
+  {
+    "title": "Korean - Fluent Speakers - AI Training - Melbourne, Australia",
+    "company": "Prolific Academic Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=07f71c3c3edbe360",
+    "scraped_at": "2026-05-04T14:21:11.414332"
   }
 ]
