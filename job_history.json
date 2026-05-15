@@ -5674,5 +5674,17 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=2b0a5514d678030c",
     "scraped_at": "2026-05-14T21:16:58.496162"
+  },
+  {
+    "title": "IT Support Analyst",
+    "company": "SRG Global",
+    "url": "https://au.indeed.com/viewjob?jk=d83fc8ae4fc97551",
+    "scraped_at": "2026-05-15T10:34:17.913123"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Centorrino Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=fabbdfabd9a5183e",
+    "scraped_at": "2026-05-15T10:34:17.948380"
   }
 ]
