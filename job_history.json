@@ -5740,5 +5740,29 @@
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=cccc3dc8f2952a47",
     "scraped_at": "2026-05-18T18:06:15.777775"
+  },
+  {
+    "title": "Network Administrator",
+    "company": "Cyber Computer Recycling & Disposal Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=d0396577b9ba6bb2",
+    "scraped_at": "2026-05-19T04:14:19.821599"
+  },
+  {
+    "title": "Network Analyst",
+    "company": "Cyber Computer Recycling & Disposal Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=a75407cb911f0305",
+    "scraped_at": "2026-05-19T04:14:19.864085"
+  },
+  {
+    "title": "Test Analyst",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=138f7e551711095b",
+    "scraped_at": "2026-05-19T04:14:19.864609"
+  },
+  {
+    "title": "Associate Analyst (Investment Operations)",
+    "company": "University of Sydney",
+    "url": "https://au.indeed.com/viewjob?jk=7e138b00a6e4136d",
+    "scraped_at": "2026-05-19T04:14:19.871575"
   }
 ]
