@@ -5806,5 +5806,17 @@
     "company": "Employment Hero",
     "url": "https://au.indeed.com/viewjob?jk=742720ca63ee6d8c",
     "scraped_at": "2026-05-20T04:15:14.626917"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "WeBuild",
+    "url": "https://au.indeed.com/viewjob?jk=7b53d4d343b5049e",
+    "scraped_at": "2026-05-20T11:13:59.439786"
+  },
+  {
+    "title": "Junior GCP Data Engineer (BigQuery / Python / Cloud Operations)",
+    "company": "Neuronimbus Digital Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=f667e5a759256f97",
+    "scraped_at": "2026-05-20T11:13:59.453656"
   }
 ]
