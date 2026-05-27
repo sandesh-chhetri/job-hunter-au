@@ -1,23 +1,5 @@
 [
   {
-    "title": "Service Desk Analyst - Digital Workplace",
-    "company": "Centorrino Technologies",
-    "url": "https://au.indeed.com/viewjob?jk=c8f453a8263e9ae0",
-    "scraped_at": "2026-02-03T15:21:53.202058"
-  },
-  {
-    "title": "Level 1 Information Technology Help Desk Technician",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=0377e8abe4441902",
-    "scraped_at": "2026-02-03T15:21:53.205050"
-  },
-  {
-    "title": "Logistics Assistant",
-    "company": "Le Creuset",
-    "url": "https://au.indeed.com/viewjob?jk=79af6c099ad2264b",
-    "scraped_at": "2026-02-03T15:21:53.229748"
-  },
-  {
     "title": "Software Engineer",
     "company": "Light & Wonder",
     "url": "https://au.indeed.com/viewjob?jk=c5d930e53f24962b",
@@ -5992,5 +5974,29 @@
     "company": "NCS",
     "url": "https://au.indeed.com/viewjob?jk=b0c13545c1e2f87e",
     "scraped_at": "2026-05-27T04:27:19.569282"
+  },
+  {
+    "title": "District Support Officer",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=9052b3ec9ecf15d1",
+    "scraped_at": "2026-05-27T11:45:12.487063"
+  },
+  {
+    "title": "Service Desk Analyst for an Apple-based ICT department (ANZSCO 313112)",
+    "company": "PRINTFORCE",
+    "url": "https://au.indeed.com/viewjob?jk=bfe2731d883768a3",
+    "scraped_at": "2026-05-27T11:45:12.492310"
+  },
+  {
+    "title": "Systems Analyst",
+    "company": "Cornetts Supermarkets",
+    "url": "https://au.indeed.com/viewjob?jk=1180a83ebefa5717",
+    "scraped_at": "2026-05-27T11:45:12.492772"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=85d7e07d68de502b",
+    "scraped_at": "2026-05-27T11:45:12.550628"
   }
 ]
