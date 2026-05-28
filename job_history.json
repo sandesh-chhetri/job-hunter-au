@@ -1,53 +1,5 @@
 [
   {
-    "title": "Automation Tester",
-    "company": "Micromine",
-    "url": "https://au.indeed.com/viewjob?jk=8cec403b878f23ad",
-    "scraped_at": "2026-02-03T15:21:53.241021"
-  },
-  {
-    "title": "QA Analyst",
-    "company": "Cuscal",
-    "url": "https://au.indeed.com/viewjob?jk=e2439fe6357d45fc",
-    "scraped_at": "2026-02-03T15:21:53.242109"
-  },
-  {
-    "title": "DC Functional Tester",
-    "company": "Cognizant Technology Solutions",
-    "url": "https://au.indeed.com/viewjob?jk=c00378c481c6172b",
-    "scraped_at": "2026-02-03T15:21:53.243222"
-  },
-  {
-    "title": "Specialist GPs (FRACGP), Physicians (FRACP) & Surgeons (FRACS) \u2014 EUCA Match",
-    "company": "EUCA Match",
-    "url": "https://au.indeed.com/viewjob?jk=42368304e30f215d",
-    "scraped_at": "2026-02-03T15:45:45.922363"
-  },
-  {
-    "title": "Full Stack Engineer",
-    "company": "Unleash Live",
-    "url": "https://au.indeed.com/viewjob?jk=9990404b63ebbb66",
-    "scraped_at": "2026-02-03T15:45:45.941242"
-  },
-  {
-    "title": "ICT Software Tester",
-    "company": "Simplus Australia",
-    "url": "https://au.indeed.com/viewjob?jk=a78f36db576a121a",
-    "scraped_at": "2026-02-03T15:45:45.945379"
-  },
-  {
-    "title": "TEST ANALYST",
-    "company": "HBF Health",
-    "url": "https://au.indeed.com/viewjob?jk=fc348beffa1499a2",
-    "scraped_at": "2026-02-03T15:45:45.946427"
-  },
-  {
-    "title": "Java Developer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=dd4ae63d0725dd46",
-    "scraped_at": "2026-02-03T20:49:09.648723"
-  },
-  {
     "title": "Registered Nurse",
     "company": "St Vincent\u2019s Health Australia",
     "url": "https://au.indeed.com/viewjob?jk=86b2b2917422e782",
@@ -5998,5 +5950,53 @@
     "company": "MEGT Australia Ltd",
     "url": "https://au.indeed.com/viewjob?jk=ea9e0aaeb3babaee",
     "scraped_at": "2026-05-28T04:17:25.680872"
+  },
+  {
+    "title": "Service Desk Analyst \u2013 Level 2",
+    "company": "Conferma Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=4380bd431e62a850",
+    "scraped_at": "2026-05-28T11:45:05.038789"
+  },
+  {
+    "title": "IT Support (Medical Centre) \u2013 Casual / Part-Time (ABN)",
+    "company": "myhealth E",
+    "url": "https://au.indeed.com/viewjob?jk=469e7f26806f47ba",
+    "scraped_at": "2026-05-28T11:45:05.046564"
+  },
+  {
+    "title": "IT Support (Medical Centre) \u2013 Casual / Part-Time (ABN)",
+    "company": "Playford Medical Centre",
+    "url": "https://au.indeed.com/viewjob?jk=f9196c9ae29b2a01",
+    "scraped_at": "2026-05-28T11:45:05.046752"
+  },
+  {
+    "title": "SAP Master Data Analyst",
+    "company": "7-Eleven",
+    "url": "https://au.indeed.com/viewjob?jk=5d26c56ccb0d6d34",
+    "scraped_at": "2026-05-28T11:45:05.084897"
+  },
+  {
+    "title": "Roster Officer - Home and Community Services",
+    "company": "Catholic Healthcare Limited",
+    "url": "https://au.indeed.com/viewjob?jk=b4e0d013f23c32d0",
+    "scraped_at": "2026-05-28T11:45:05.089657"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Aware Super",
+    "url": "https://au.indeed.com/viewjob?jk=a142c8b5bdf8a6b0",
+    "scraped_at": "2026-05-28T11:45:05.104701"
+  },
+  {
+    "title": "Investment Coordination Advisor",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=5244491ce0ac287e",
+    "scraped_at": "2026-05-28T11:45:05.109114"
+  },
+  {
+    "title": "Integration Advisor",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=6233141d66afd8ba",
+    "scraped_at": "2026-05-28T11:45:05.109707"
   }
 ]
