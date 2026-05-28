@@ -1,11 +1,5 @@
 [
   {
-    "title": "Registered Nurse",
-    "company": "St Vincent\u2019s Health Australia",
-    "url": "https://au.indeed.com/viewjob?jk=86b2b2917422e782",
-    "scraped_at": "2026-02-04T02:42:09.070510"
-  },
-  {
     "title": "Infrastructure Security Engineer",
     "company": "David Jones",
     "url": "https://au.indeed.com/viewjob?jk=b258651bf4bf267e",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=6233141d66afd8ba",
     "scraped_at": "2026-05-28T11:45:05.109707"
+  },
+  {
+    "title": "Hospital Scientist",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=2c98fb8875e80992",
+    "scraped_at": "2026-05-28T16:17:23.803446"
   }
 ]
