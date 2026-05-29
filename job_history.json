@@ -1,23 +1,5 @@
 [
   {
-    "title": "Infrastructure Security Engineer",
-    "company": "David Jones",
-    "url": "https://au.indeed.com/viewjob?jk=b258651bf4bf267e",
-    "scraped_at": "2026-02-04T02:42:09.093550"
-  },
-  {
-    "title": "IT Technician",
-    "company": "LifeByte Systems",
-    "url": "https://au.indeed.com/viewjob?jk=3a351e3a1f8cd446",
-    "scraped_at": "2026-02-04T05:14:00.256133"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Colonial First State",
-    "url": "https://au.indeed.com/viewjob?jk=f6540d554301b442",
-    "scraped_at": "2026-02-04T05:14:00.274962"
-  },
-  {
     "title": "Supported Playgroup Officer",
     "company": "Yarra Ranges Council",
     "url": "https://au.indeed.com/viewjob?jk=ede0c6a7f091f8b0",
@@ -5998,5 +5980,23 @@
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=2c98fb8875e80992",
     "scraped_at": "2026-05-28T16:17:23.803446"
+  },
+  {
+    "title": "Policy & Compliance - Officer",
+    "company": "Water Corporation",
+    "url": "https://au.indeed.com/viewjob?jk=d035588ed5fd4b6a",
+    "scraped_at": "2026-05-29T11:36:11.501432"
+  },
+  {
+    "title": "CRM Project Specialist",
+    "company": "EasyGo",
+    "url": "https://au.indeed.com/viewjob?jk=ed8eaf1aa9acc474",
+    "scraped_at": "2026-05-29T11:36:11.533655"
+  },
+  {
+    "title": "AWS Cloud Engineer",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=10c3441b9c19dfd2",
+    "scraped_at": "2026-05-29T11:36:11.560746"
   }
 ]
