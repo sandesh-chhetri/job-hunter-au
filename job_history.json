@@ -1,17 +1,5 @@
 [
   {
-    "title": "Supported Playgroup Officer",
-    "company": "Yarra Ranges Council",
-    "url": "https://au.indeed.com/viewjob?jk=ede0c6a7f091f8b0",
-    "scraped_at": "2026-02-04T05:14:00.276949"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=0d9593113260d5c8",
-    "scraped_at": "2026-02-04T08:55:07.586775"
-  },
-  {
     "title": "Associate AI Solutions Engineer - UX",
     "company": "Transurban",
     "url": "https://au.indeed.com/viewjob?jk=56485df4a9a33b46",
@@ -5998,5 +5986,17 @@
     "company": "Capgemini",
     "url": "https://au.indeed.com/viewjob?jk=10c3441b9c19dfd2",
     "scraped_at": "2026-05-29T11:36:11.560746"
+  },
+  {
+    "title": "IT Operations Specialist (MachShip AU)",
+    "company": "Machship",
+    "url": "https://au.indeed.com/viewjob?jk=64a1a4be3ce6fa92",
+    "scraped_at": "2026-05-29T16:00:02.957337"
+  },
+  {
+    "title": "AI Solutions Analyst | Commodities",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=8720f42c4a76cfa3",
+    "scraped_at": "2026-05-29T16:00:03.000618"
   }
 ]
