@@ -1,11 +1,5 @@
 [
   {
-    "title": "Software Developer (Web, AI, RPA)",
-    "company": "Suncorp Group",
-    "url": "https://au.indeed.com/viewjob?jk=ac7619e9935245f5",
-    "scraped_at": "2026-02-04T08:55:07.596302"
-  },
-  {
     "title": "Receptionist/Administration Assistant- Fixed Term",
     "company": "Juniper",
     "url": "https://au.indeed.com/viewjob?jk=1e631a5776a2b7d3",
@@ -5998,5 +5992,11 @@
     "company": "NORTHERN STAR RESOURCES",
     "url": "https://au.indeed.com/viewjob?jk=a092fde31463ad03",
     "scraped_at": "2026-05-30T17:17:49.568485"
+  },
+  {
+    "title": "Junior IT Support",
+    "company": "Thomas IT",
+    "url": "https://au.indeed.com/viewjob?jk=5229968a392b68fe",
+    "scraped_at": "2026-05-31T04:40:07.734186"
   }
 ]
