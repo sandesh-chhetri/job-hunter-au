@@ -1,11 +1,5 @@
 [
   {
-    "title": "Receptionist/Administration Assistant- Fixed Term",
-    "company": "Juniper",
-    "url": "https://au.indeed.com/viewjob?jk=1e631a5776a2b7d3",
-    "scraped_at": "2026-02-04T13:18:00.243729"
-  },
-  {
     "title": "IT Support Technician",
     "company": "Midfield Meat International",
     "url": "https://au.indeed.com/viewjob?jk=e8f5481c36c5f56e",
@@ -5998,5 +5992,11 @@
     "company": "Thomas IT",
     "url": "https://au.indeed.com/viewjob?jk=5229968a392b68fe",
     "scraped_at": "2026-05-31T04:40:07.734186"
+  },
+  {
+    "title": "Visitor Engagement Officer",
+    "company": "NT Government - Department of Tourism and Hospitality",
+    "url": "https://au.indeed.com/viewjob?jk=245260a298255bbd",
+    "scraped_at": "2026-05-31T21:09:56.828510"
   }
 ]
