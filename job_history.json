@@ -1,11 +1,5 @@
 [
   {
-    "title": "District Support Officer",
-    "company": "Country Fire Authority",
-    "url": "https://au.indeed.com/viewjob?jk=1c3972feba7c01b1",
-    "scraped_at": "2026-02-05T08:56:17.980113"
-  },
-  {
     "title": "Administration and Warehouse Support Officer",
     "company": "Country Fire Authority",
     "url": "https://au.indeed.com/viewjob?jk=154bd1168eaac451",
@@ -5998,5 +5992,11 @@
     "company": "ALDI",
     "url": "https://au.indeed.com/viewjob?jk=7c3fd2f5f879b410",
     "scraped_at": "2026-06-01T13:44:59.947012"
+  },
+  {
+    "title": "SSO Payroll",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=8a796ba9ffb834fd",
+    "scraped_at": "2026-06-01T20:22:21.718234"
   }
 ]
