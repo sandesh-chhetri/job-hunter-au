@@ -1,11 +1,5 @@
 [
   {
-    "title": "QA Engineer",
-    "company": "youXpowered",
-    "url": "https://au.indeed.com/viewjob?jk=5f0dcc24c5ae9ed2",
-    "scraped_at": "2026-02-05T05:20:39.880919"
-  },
-  {
     "title": "District Support Officer",
     "company": "Country Fire Authority",
     "url": "https://au.indeed.com/viewjob?jk=1c3972feba7c01b1",
@@ -5998,5 +5992,11 @@
     "company": "Up Way Global Markets Limited",
     "url": "https://au.indeed.com/viewjob?jk=de9f2b32b496c7e3",
     "scraped_at": "2026-06-01T05:01:41.545026"
+  },
+  {
+    "title": "Supply Chain Analyst (Forecasting & Data Analytics)",
+    "company": "ALDI",
+    "url": "https://au.indeed.com/viewjob?jk=7c3fd2f5f879b410",
+    "scraped_at": "2026-06-01T13:44:59.947012"
   }
 ]
