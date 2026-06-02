@@ -1,23 +1,5 @@
 [
   {
-    "title": "VDBA Support Administrator",
-    "company": "Brennan IT",
-    "url": "https://au.indeed.com/viewjob?jk=b781bee29fa7cbb7",
-    "scraped_at": "2026-02-05T08:56:17.982375"
-  },
-  {
-    "title": "District Support Officer",
-    "company": "Victorian Government",
-    "url": "https://au.indeed.com/viewjob?jk=04960172fc6a26d1",
-    "scraped_at": "2026-02-05T08:56:18.003104"
-  },
-  {
-    "title": "Training Administrator",
-    "company": "Monadelphous",
-    "url": "https://au.indeed.com/viewjob?jk=6b9c84a3d57fcc21",
-    "scraped_at": "2026-02-05T08:56:18.003639"
-  },
-  {
     "title": "Product, Knowledge and Procedures Analyst",
     "company": "Safety Champion Software",
     "url": "https://au.indeed.com/viewjob?jk=c20a21e5a1f40fac",
@@ -5998,5 +5980,23 @@
     "company": "Renegade Gaming",
     "url": "https://au.indeed.com/viewjob?jk=99df160db2ccb32d",
     "scraped_at": "2026-06-02T04:48:06.722771"
+  },
+  {
+    "title": "Network Administrator",
+    "company": "AI Talent",
+    "url": "https://au.indeed.com/viewjob?jk=3316947ff2cf01bf",
+    "scraped_at": "2026-06-02T12:12:39.507133"
+  },
+  {
+    "title": "Web Administrator",
+    "company": "AI Talent",
+    "url": "https://au.indeed.com/viewjob?jk=7230e2a9a6ca2bbe",
+    "scraped_at": "2026-06-02T12:12:39.551454"
+  },
+  {
+    "title": "Analyst - Independent Valuation Control",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=65a0e02ea756e9ca",
+    "scraped_at": "2026-06-02T12:12:39.561770"
   }
 ]
