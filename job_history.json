@@ -1,11 +1,5 @@
 [
   {
-    "title": "Administration and Warehouse Support Officer",
-    "company": "Country Fire Authority",
-    "url": "https://au.indeed.com/viewjob?jk=154bd1168eaac451",
-    "scraped_at": "2026-02-05T08:56:17.980349"
-  },
-  {
     "title": "VDBA Support Administrator",
     "company": "Brennan IT",
     "url": "https://au.indeed.com/viewjob?jk=b781bee29fa7cbb7",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=8a796ba9ffb834fd",
     "scraped_at": "2026-06-01T20:22:21.718234"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Renegade Gaming",
+    "url": "https://au.indeed.com/viewjob?jk=99df160db2ccb32d",
+    "scraped_at": "2026-06-02T04:48:06.722771"
   }
 ]
