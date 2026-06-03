@@ -1,11 +1,5 @@
 [
   {
-    "title": "Mortuary Technician",
-    "company": "NT Health",
-    "url": "https://au.indeed.com/viewjob?jk=090348b01f5ce83a",
-    "scraped_at": "2026-02-05T20:43:07.608473"
-  },
-  {
     "title": "Customer Service Assistant",
     "company": "NT Government - Department of Tourism and Hospitality",
     "url": "https://au.indeed.com/viewjob?jk=003c85affd3deb73",
@@ -5998,5 +5992,11 @@
     "company": "JCICare Support Services",
     "url": "https://au.indeed.com/viewjob?jk=eecb229394e8a35b",
     "scraped_at": "2026-06-02T19:49:56.799568"
+  },
+  {
+    "title": "Preservation Material Officer G4",
+    "company": "Qube",
+    "url": "https://au.indeed.com/viewjob?jk=69ce03637a2a113e",
+    "scraped_at": "2026-06-03T04:57:59.433633"
   }
 ]
