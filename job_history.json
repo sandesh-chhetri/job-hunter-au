@@ -1,17 +1,5 @@
 [
   {
-    "title": "Psychologist - North Queensland Region",
-    "company": "Queensland Government",
-    "url": "https://au.indeed.com/viewjob?jk=4754d03339573c7a",
-    "scraped_at": "2026-02-07T02:40:30.340346"
-  },
-  {
-    "title": "Telecommunications Technical Officer or Technologist",
-    "company": "AI Talent",
-    "url": "https://au.indeed.com/viewjob?jk=b6eb156060913a1d",
-    "scraped_at": "2026-02-08T05:28:07.383136"
-  },
-  {
     "title": "Data Analyst",
     "company": "AI Talent",
     "url": "https://au.indeed.com/viewjob?jk=799bc93fe9598545",
@@ -5998,5 +5986,17 @@
     "company": "Great Southern Bank",
     "url": "https://au.indeed.com/viewjob?jk=68a2d1a0839ea7c2",
     "scraped_at": "2026-06-03T12:47:31.322247"
+  },
+  {
+    "title": "Casual IT Support Technician \u2013 Ad-Hoc Field Services & Remote Support",
+    "company": "swazzy",
+    "url": "https://au.indeed.com/viewjob?jk=c9e0122609060cef",
+    "scraped_at": "2026-06-03T19:54:46.425598"
+  },
+  {
+    "title": "Web Developer advertising specialist",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=132e7e2f4a8b8209",
+    "scraped_at": "2026-06-03T19:54:46.491156"
   }
 ]
