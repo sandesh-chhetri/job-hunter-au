@@ -1,53 +1,5 @@
 [
   {
-    "title": "Customer Service Assistant",
-    "company": "NT Government - Department of Tourism and Hospitality",
-    "url": "https://au.indeed.com/viewjob?jk=003c85affd3deb73",
-    "scraped_at": "2026-02-05T20:43:07.608874"
-  },
-  {
-    "title": "Data Analyst (Product Data Analyst - Mid)",
-    "company": "Revolut Payments Australia Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=0a1246c4bbdd110f",
-    "scraped_at": "2026-02-06T02:44:50.496147"
-  },
-  {
-    "title": "Data Analyst (Product Data Analyst - Mid)",
-    "company": "Revolut Payments Australia Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=e7836da7e8cbb00f",
-    "scraped_at": "2026-02-06T02:44:50.496266"
-  },
-  {
-    "title": "Analyst, Digital Sales \u2013 Melbourne CBD, VIC",
-    "company": "NAB - National Australia Bank",
-    "url": "https://au.indeed.com/viewjob?jk=1d0399043282fadc",
-    "scraped_at": "2026-02-06T02:44:50.496564"
-  },
-  {
-    "title": "Insights Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=bd110e8a2362e4da",
-    "scraped_at": "2026-02-06T05:19:03.004976"
-  },
-  {
-    "title": "Change Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=6b862c31b286eb14",
-    "scraped_at": "2026-02-06T08:55:56.269965"
-  },
-  {
-    "title": "Application and Systems Software Engineer",
-    "company": "EyeSpace",
-    "url": "https://au.indeed.com/viewjob?jk=ee00942e0f309e39",
-    "scraped_at": "2026-02-06T08:55:56.279563"
-  },
-  {
-    "title": "Visitors Services Officer",
-    "company": "Rural City of Wangaratta",
-    "url": "https://au.indeed.com/viewjob?jk=684319dcc7b7c547",
-    "scraped_at": "2026-02-06T16:57:22.533661"
-  },
-  {
     "title": "Psychologist - North Queensland Region",
     "company": "Queensland Government",
     "url": "https://au.indeed.com/viewjob?jk=4754d03339573c7a",
@@ -5998,5 +5950,53 @@
     "company": "Qube",
     "url": "https://au.indeed.com/viewjob?jk=69ce03637a2a113e",
     "scraped_at": "2026-06-03T04:57:59.433633"
+  },
+  {
+    "title": "Associate Technical Support Engineer, Supercharger",
+    "company": "Tesla",
+    "url": "https://au.indeed.com/viewjob?jk=c08e6b45c88882bc",
+    "scraped_at": "2026-06-03T12:47:31.257860"
+  },
+  {
+    "title": "ServiceNow Business Analyst / System Analyst",
+    "company": "Sysintegra Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=9fd22a1862d82843",
+    "scraped_at": "2026-06-03T12:47:31.299350"
+  },
+  {
+    "title": "ServiceNow Business Analyst / System Analyst",
+    "company": "Sysintegra Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=8cb7f4e4197fb8c3",
+    "scraped_at": "2026-06-03T12:47:31.299878"
+  },
+  {
+    "title": "ServiceNow Business Analyst / System Analyst",
+    "company": "Sysintegra Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=533694b39fdc9fc8",
+    "scraped_at": "2026-06-03T12:47:31.300236"
+  },
+  {
+    "title": "ServiceNow Business Analyst / System Analyst",
+    "company": "Sysintegra Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=fe4a968e96bb6137",
+    "scraped_at": "2026-06-03T12:47:31.300559"
+  },
+  {
+    "title": "Software Engineer / Network Automation Developer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=e074436b1178aa98",
+    "scraped_at": "2026-06-03T12:47:31.314027"
+  },
+  {
+    "title": "TM1 Developer",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=4951aad3aeee2078",
+    "scraped_at": "2026-06-03T12:47:31.319472"
+  },
+  {
+    "title": "Test Analyst",
+    "company": "Great Southern Bank",
+    "url": "https://au.indeed.com/viewjob?jk=68a2d1a0839ea7c2",
+    "scraped_at": "2026-06-03T12:47:31.322247"
   }
 ]
