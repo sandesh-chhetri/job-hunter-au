@@ -1,17 +1,5 @@
 [
   {
-    "title": "Store Person",
-    "company": "Building Systems Group",
-    "url": "https://au.indeed.com/viewjob?jk=867b174b735e4a1e",
-    "scraped_at": "2026-02-09T02:52:13.455326"
-  },
-  {
-    "title": "Data and Systems Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=eb235ad1ce47fcdb",
-    "scraped_at": "2026-02-09T02:52:13.464497"
-  },
-  {
     "title": "Warehouse Storeperson",
     "company": "Harvey Norman",
     "url": "https://au.indeed.com/viewjob?jk=b3def2781478b3a9",
@@ -5998,5 +5986,17 @@
     "company": "Compass Group Australia",
     "url": "https://au.indeed.com/viewjob?jk=e6efc8c5474f26ef",
     "scraped_at": "2026-06-04T11:21:34.600848"
+  },
+  {
+    "title": "SVHN Emergency Department Administration Officer",
+    "company": "NSW Health",
+    "url": "https://au.indeed.com/viewjob?jk=fcc29ef486556fd4",
+    "scraped_at": "2026-06-04T15:33:40.602268"
+  },
+  {
+    "title": "Salesforce Administrator",
+    "company": "FLEETCARE",
+    "url": "https://au.indeed.com/viewjob?jk=ccab5aa99cd4400a",
+    "scraped_at": "2026-06-04T15:33:40.631824"
   }
 ]
