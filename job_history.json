@@ -1,17 +1,5 @@
 [
   {
-    "title": "Data Analyst",
-    "company": "AI Talent",
-    "url": "https://au.indeed.com/viewjob?jk=799bc93fe9598545",
-    "scraped_at": "2026-02-08T05:28:07.398637"
-  },
-  {
-    "title": "Software and Applications Programmer",
-    "company": "AI Talent",
-    "url": "https://au.indeed.com/viewjob?jk=7afbd70c1c4e183e",
-    "scraped_at": "2026-02-08T05:28:07.398825"
-  },
-  {
     "title": "DevOps Engineer",
     "company": "AI Talent",
     "url": "https://au.indeed.com/viewjob?jk=9972c92eda7cc9a4",
@@ -5998,5 +5986,17 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=132e7e2f4a8b8209",
     "scraped_at": "2026-06-03T19:54:46.491156"
+  },
+  {
+    "title": "Field Service Technician",
+    "company": "ASI Solutions",
+    "url": "https://au.indeed.com/viewjob?jk=0e2757694e19f336",
+    "scraped_at": "2026-06-04T04:51:18.271360"
+  },
+  {
+    "title": "Housing Officer",
+    "company": "Mission Australia",
+    "url": "https://au.indeed.com/viewjob?jk=dcf3d4c956d5dccf",
+    "scraped_at": "2026-06-04T04:51:18.332103"
   }
 ]
