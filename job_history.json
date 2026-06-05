@@ -1,17 +1,5 @@
 [
   {
-    "title": "Warehouse Storeperson",
-    "company": "Harvey Norman",
-    "url": "https://au.indeed.com/viewjob?jk=b3def2781478b3a9",
-    "scraped_at": "2026-02-09T05:41:08.723137"
-  },
-  {
-    "title": "Payroll Systems Support Analyst",
-    "company": "HammondCare",
-    "url": "https://au.indeed.com/viewjob?jk=f2273f9d53d53165",
-    "scraped_at": "2026-02-09T09:04:06.691835"
-  },
-  {
     "title": "Multi-Property Finance Officer",
     "company": "Marriott International",
     "url": "https://au.indeed.com/viewjob?jk=d1eea2fa0dad00bd",
@@ -5998,5 +5986,17 @@
     "company": "FLEETCARE",
     "url": "https://au.indeed.com/viewjob?jk=ccab5aa99cd4400a",
     "scraped_at": "2026-06-04T15:33:40.631824"
+  },
+  {
+    "title": "SVHN Emergency Department Administration Officer",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=2abf042fa3d0b4e3",
+    "scraped_at": "2026-06-05T04:26:16.818241"
+  },
+  {
+    "title": "SVHN Pharmacy Stores Administrative Officer",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=12615ea681e357f7",
+    "scraped_at": "2026-06-05T04:26:16.819323"
   }
 ]
