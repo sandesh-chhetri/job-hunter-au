@@ -1,11 +1,5 @@
 [
   {
-    "title": "Platform Engineer",
-    "company": "McMillan Shakespeare",
-    "url": "https://au.indeed.com/viewjob?jk=de773b04fb4a5454",
-    "scraped_at": "2026-02-09T20:53:28.528134"
-  },
-  {
     "title": "Power Platform Engineer",
     "company": "McMillan Shakespeare",
     "url": "https://au.indeed.com/viewjob?jk=fcfc269639247406",
@@ -5998,5 +5992,11 @@
     "company": "Starling",
     "url": "https://au.indeed.com/viewjob?jk=40908546855c85c7",
     "scraped_at": "2026-06-05T18:02:55.890883"
+  },
+  {
+    "title": "Content Design - Officer",
+    "company": "Water Corporation",
+    "url": "https://au.indeed.com/viewjob?jk=94090d18189ccc78",
+    "scraped_at": "2026-06-08T04:49:35.640745"
   }
 ]
