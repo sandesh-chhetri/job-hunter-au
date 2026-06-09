@@ -1,17 +1,5 @@
 [
   {
-    "title": "Power Platform Engineer",
-    "company": "McMillan Shakespeare",
-    "url": "https://au.indeed.com/viewjob?jk=fcfc269639247406",
-    "scraped_at": "2026-02-09T20:53:28.529481"
-  },
-  {
-    "title": "Part-Time Designer Opportunity (Adobe, Canva, Email, Web)",
-    "company": "Salesinc",
-    "url": "https://au.indeed.com/viewjob?jk=8fdebb56a5bb9091",
-    "scraped_at": "2026-02-10T03:17:18.726178"
-  },
-  {
     "title": "Desktop Support Engineer - TechHub",
     "company": "Origin Energy",
     "url": "https://au.indeed.com/viewjob?jk=9e9d3883673b187c",
@@ -5998,5 +5986,17 @@
     "company": "Water Corporation",
     "url": "https://au.indeed.com/viewjob?jk=94090d18189ccc78",
     "scraped_at": "2026-06-08T04:49:35.640745"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=a64d29e14e6433f7",
+    "scraped_at": "2026-06-09T04:12:19.878303"
+  },
+  {
+    "title": "HR Support Officer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=01c0f4cd61e01dfb",
+    "scraped_at": "2026-06-09T04:12:19.879442"
   }
 ]
