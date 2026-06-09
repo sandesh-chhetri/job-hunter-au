@@ -1,17 +1,5 @@
 [
   {
-    "title": "Officer People Services",
-    "company": "Downer Group",
-    "url": "https://au.indeed.com/viewjob?jk=c1184987f1d850e6",
-    "scraped_at": "2026-02-10T05:41:59.346165"
-  },
-  {
-    "title": "Full Stack Software Engineer \u00e2\u20ac\u201d Recently Acquired & Growing Australian FinTech!",
-    "company": "The Argyle Network",
-    "url": "https://au.indeed.com/viewjob?jk=ccd3624d9cfb6d91",
-    "scraped_at": "2026-02-10T13:43:05.011140"
-  },
-  {
     "title": "AI Co-Pilot Full Stack Developer",
     "company": "FORWOOD SAFETY",
     "url": "https://au.indeed.com/viewjob?jk=33a9a313cfd5b4ae",
@@ -5998,5 +5986,17 @@
     "company": "BAI Communications",
     "url": "https://au.indeed.com/viewjob?jk=3fbd0d8b9da04567",
     "scraped_at": "2026-06-09T11:24:27.558658"
+  },
+  {
+    "title": "Digital Sales Representative 2",
+    "company": "Twilio",
+    "url": "https://au.indeed.com/viewjob?jk=063df3bb7cdfa6fc",
+    "scraped_at": "2026-06-09T15:20:54.237232"
+  },
+  {
+    "title": "Digital Sales Representative 2",
+    "company": "Twilio",
+    "url": "https://au.indeed.com/viewjob?jk=80d50493732fdae5",
+    "scraped_at": "2026-06-09T15:20:54.240007"
   }
 ]
