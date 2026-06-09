@@ -1,29 +1,5 @@
 [
   {
-    "title": "AI Co-Pilot Full Stack Developer",
-    "company": "FORWOOD SAFETY",
-    "url": "https://au.indeed.com/viewjob?jk=33a9a313cfd5b4ae",
-    "scraped_at": "2026-02-10T13:43:05.011337"
-  },
-  {
-    "title": "Australian Charities and Not-for-profits Commission Cyber Security Analyst - APS 6",
-    "company": "Australian Taxation Office",
-    "url": "https://au.indeed.com/viewjob?jk=ab8104c3657eda71",
-    "scraped_at": "2026-02-10T20:55:08.872286"
-  },
-  {
-    "title": "Compliance Officer",
-    "company": "NT Government - Department of Tourism and Hospitality",
-    "url": "https://au.indeed.com/viewjob?jk=4f2e190a0e59c8ff",
-    "scraped_at": "2026-02-10T20:55:08.876572"
-  },
-  {
-    "title": "Occupational Therapist | Mt Isa QLD | With sponsorship",
-    "company": "MEDIIX",
-    "url": "https://au.indeed.com/viewjob?jk=8d20f96f48d79f47",
-    "scraped_at": "2026-02-11T02:58:36.435160"
-  },
-  {
     "title": "Business Analyst, Consumer Data Right (CDR)",
     "company": "Cuscal",
     "url": "https://au.indeed.com/viewjob?jk=f79971de05f6b831",
@@ -5998,5 +5974,29 @@
     "company": "Twilio",
     "url": "https://au.indeed.com/viewjob?jk=80d50493732fdae5",
     "scraped_at": "2026-06-09T15:20:54.240007"
+  },
+  {
+    "title": "Production Support Analyst - Payments (Officer)",
+    "company": "Citi",
+    "url": "https://au.indeed.com/viewjob?jk=9e699c2f00e344c6",
+    "scraped_at": "2026-06-09T18:15:00.272460"
+  },
+  {
+    "title": "Access & Enquiry Officer",
+    "company": "genu",
+    "url": "https://au.indeed.com/viewjob?jk=0d356bce03c68ac9",
+    "scraped_at": "2026-06-09T18:15:00.290088"
+  },
+  {
+    "title": "Clinical Operations Nurse",
+    "company": "Medibank",
+    "url": "https://au.indeed.com/viewjob?jk=fb9d0e9dbc5799a1",
+    "scraped_at": "2026-06-09T18:15:00.301817"
+  },
+  {
+    "title": "Customer Service Representative",
+    "company": "Medibank",
+    "url": "https://au.indeed.com/viewjob?jk=6e93891fe94ac05c",
+    "scraped_at": "2026-06-09T18:15:00.302320"
   }
 ]
