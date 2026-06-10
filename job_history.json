@@ -1,11 +1,5 @@
 [
   {
-    "title": "Azure .Net Developer",
-    "company": "UST",
-    "url": "https://au.indeed.com/viewjob?jk=cf06eb08691500a8",
-    "scraped_at": "2026-02-11T08:59:34.465986"
-  },
-  {
     "title": "Customer Support, Technical Specialist, Powerwall",
     "company": "Tesla",
     "url": "https://au.indeed.com/viewjob?jk=3a541b05c1c4939e",
@@ -5998,5 +5992,11 @@
     "company": "Australian Red Cross Lifeblood",
     "url": "https://au.indeed.com/viewjob?jk=64acae5d6f7e882c",
     "scraped_at": "2026-06-10T11:44:48.055196"
+  },
+  {
+    "title": "Registered Nurse (Transitional Aged Care Program) - St Vincent's Public Hospital, Sydney",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=025264e6c7d2bb4d",
+    "scraped_at": "2026-06-10T15:55:44.953254"
   }
 ]
