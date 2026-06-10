@@ -1,23 +1,5 @@
 [
   {
-    "title": "Business Analyst, Consumer Data Right (CDR)",
-    "company": "Cuscal",
-    "url": "https://au.indeed.com/viewjob?jk=f79971de05f6b831",
-    "scraped_at": "2026-02-11T02:58:36.445970"
-  },
-  {
-    "title": "Engineering Operator / Painter",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=6f87a6966eea519a",
-    "scraped_at": "2026-02-11T02:58:36.456903"
-  },
-  {
-    "title": "Finance Business Analyst",
-    "company": "QBE",
-    "url": "https://au.indeed.com/viewjob?jk=5d0c953c7db9c25e",
-    "scraped_at": "2026-02-11T08:59:34.455261"
-  },
-  {
     "title": "Azure .Net Developer",
     "company": "UST",
     "url": "https://au.indeed.com/viewjob?jk=cf06eb08691500a8",
@@ -5998,5 +5980,23 @@
     "company": "Medibank",
     "url": "https://au.indeed.com/viewjob?jk=6e93891fe94ac05c",
     "scraped_at": "2026-06-09T18:15:00.302320"
+  },
+  {
+    "title": "Collections Analyst",
+    "company": "Meltwater",
+    "url": "https://au.indeed.com/viewjob?jk=2c4450a0247bdfde",
+    "scraped_at": "2026-06-10T11:44:48.050275"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Bailey Abbott",
+    "url": "https://au.indeed.com/viewjob?jk=3e1cfa5ab2387158",
+    "scraped_at": "2026-06-10T11:44:48.053152"
+  },
+  {
+    "title": "Business Intelligence Developer",
+    "company": "Australian Red Cross Lifeblood",
+    "url": "https://au.indeed.com/viewjob?jk=64acae5d6f7e882c",
+    "scraped_at": "2026-06-10T11:44:48.055196"
   }
 ]
