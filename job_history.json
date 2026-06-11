@@ -1,17 +1,5 @@
 [
   {
-    "title": "Customer Support, Technical Specialist, Powerwall",
-    "company": "Tesla",
-    "url": "https://au.indeed.com/viewjob?jk=3a541b05c1c4939e",
-    "scraped_at": "2026-02-11T13:28:07.097927"
-  },
-  {
-    "title": "Overnight Welcome Agent",
-    "company": "Marriott International",
-    "url": "https://au.indeed.com/viewjob?jk=5c82f84af0e57dd9",
-    "scraped_at": "2026-02-11T13:28:07.100159"
-  },
-  {
     "title": "Full Stack Engineer (Mid Level)",
     "company": "Kogan",
     "url": "https://au.indeed.com/viewjob?jk=ca40c07b3bc8aaac",
@@ -5998,5 +5986,17 @@
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=025264e6c7d2bb4d",
     "scraped_at": "2026-06-10T15:55:44.953254"
+  },
+  {
+    "title": "District Support Officer",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=4d66a15a6b2c1f98",
+    "scraped_at": "2026-06-11T04:45:38.650344"
+  },
+  {
+    "title": "DevOps Reliability Engineer",
+    "company": "Advanced Solutions International",
+    "url": "https://au.indeed.com/viewjob?jk=ad2a97443d2227d0",
+    "scraped_at": "2026-06-11T04:45:38.736641"
   }
 ]
