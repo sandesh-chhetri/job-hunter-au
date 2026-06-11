@@ -1,17 +1,5 @@
 [
   {
-    "title": "Assistant Cyber Security Analyst",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=c3be731302b5135a",
-    "scraped_at": "2026-02-11T17:12:27.341063"
-  },
-  {
-    "title": "Trading Operations Engineer",
-    "company": "Pepperstone Group",
-    "url": "https://au.indeed.com/viewjob?jk=1ad18e252d12c41b",
-    "scraped_at": "2026-02-11T17:12:27.341368"
-  },
-  {
     "title": "Customer Service Officer",
     "company": "Concentrix",
     "url": "https://au.indeed.com/viewjob?jk=b9093fb94cbad588",
@@ -5998,5 +5986,17 @@
     "company": "REA Group",
     "url": "https://au.indeed.com/viewjob?jk=1461468cad76d93b",
     "scraped_at": "2026-06-11T12:15:35.154879"
+  },
+  {
+    "title": "Salesforce Administrator",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=cffab450e392c4ba",
+    "scraped_at": "2026-06-11T22:06:40.298405"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=c57fa4230990963b",
+    "scraped_at": "2026-06-11T22:06:40.298938"
   }
 ]
