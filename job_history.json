@@ -1,17 +1,5 @@
 [
   {
-    "title": "Full Stack Engineer (Mid Level)",
-    "company": "Kogan",
-    "url": "https://au.indeed.com/viewjob?jk=ca40c07b3bc8aaac",
-    "scraped_at": "2026-02-11T13:28:07.126788"
-  },
-  {
-    "title": "Technical Support Engineer",
-    "company": "Subs Solutions",
-    "url": "https://au.indeed.com/viewjob?jk=7d0c364102573aba",
-    "scraped_at": "2026-02-11T17:12:27.321125"
-  },
-  {
     "title": "Assistant Cyber Security Analyst",
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=c3be731302b5135a",
@@ -5998,5 +5986,17 @@
     "company": "Advanced Solutions International",
     "url": "https://au.indeed.com/viewjob?jk=ad2a97443d2227d0",
     "scraped_at": "2026-06-11T04:45:38.736641"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Wipro Australia",
+    "url": "https://au.indeed.com/viewjob?jk=af2cca2d3c8977e2",
+    "scraped_at": "2026-06-11T12:15:35.135513"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "REA Group",
+    "url": "https://au.indeed.com/viewjob?jk=1461468cad76d93b",
+    "scraped_at": "2026-06-11T12:15:35.154879"
   }
 ]
