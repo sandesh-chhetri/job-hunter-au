@@ -1,11 +1,5 @@
 [
   {
-    "title": "Salesforce Commerce Cloud Administrator",
-    "company": "NCS",
-    "url": "https://au.indeed.com/viewjob?jk=1216d9e8243ffedb",
-    "scraped_at": "2026-02-12T05:37:33.373974"
-  },
-  {
     "title": "Client Services Officer",
     "company": "The ORS Group",
     "url": "https://au.indeed.com/viewjob?jk=2b0e761d75f0d4e8",
@@ -5998,5 +5992,11 @@
     "company": "IKEA",
     "url": "https://au.indeed.com/viewjob?jk=1ec718079f3915b4",
     "scraped_at": "2026-06-12T11:49:53.038000"
+  },
+  {
+    "title": "IT Help Desk Technician",
+    "company": "ConsMin",
+    "url": "https://au.indeed.com/viewjob?jk=914bd728d456cc26",
+    "scraped_at": "2026-06-12T21:56:38.636684"
   }
 ]
