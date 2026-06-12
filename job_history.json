@@ -1,35 +1,5 @@
 [
   {
-    "title": "Implementation Specialist, IT IM",
-    "company": "Rippling",
-    "url": "https://au.indeed.com/viewjob?jk=d14ed941b588de4a",
-    "scraped_at": "2026-02-12T02:54:23.226097"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Acira Consultancy Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=1057bc29db2a9fc2",
-    "scraped_at": "2026-02-12T02:54:23.256367"
-  },
-  {
-    "title": "Cloud Database Engineer",
-    "company": "Suncorp Group",
-    "url": "https://au.indeed.com/viewjob?jk=5c94edb940a5a1c4",
-    "scraped_at": "2026-02-12T02:54:23.256607"
-  },
-  {
-    "title": "Workplace Services Support Officer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=009f64ee4329b02a",
-    "scraped_at": "2026-02-12T05:37:33.352546"
-  },
-  {
-    "title": "Yardperson",
-    "company": "Coates",
-    "url": "https://au.indeed.com/viewjob?jk=602925258f08b1ec",
-    "scraped_at": "2026-02-12T05:37:33.362682"
-  },
-  {
     "title": "Salesforce Commerce Cloud Administrator",
     "company": "NCS",
     "url": "https://au.indeed.com/viewjob?jk=1216d9e8243ffedb",
@@ -5998,5 +5968,35 @@
     "company": "Finders Ports",
     "url": "https://au.indeed.com/viewjob?jk=f47d260dbc40f93f",
     "scraped_at": "2026-06-12T04:48:27.266405"
+  },
+  {
+    "title": "IT Help Desk Technician",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=d41a7b396b193b40",
+    "scraped_at": "2026-06-12T11:49:52.987928"
+  },
+  {
+    "title": "Workplace Technology Engineer-UC",
+    "company": "NATIONAL HEAVY VEHICLE REGULATOR",
+    "url": "https://au.indeed.com/viewjob?jk=338f0ab4777fdbc8",
+    "scraped_at": "2026-06-12T11:49:53.026467"
+  },
+  {
+    "title": "Data Processing Analyst",
+    "company": "Circana",
+    "url": "https://au.indeed.com/viewjob?jk=a9d5dbc92e010bf9",
+    "scraped_at": "2026-06-12T11:49:53.034925"
+  },
+  {
+    "title": "Data Processing Analyst",
+    "company": "IRI Worldwide (Australia)",
+    "url": "https://au.indeed.com/viewjob?jk=afa3e5c1722e82f3",
+    "scraped_at": "2026-06-12T11:49:53.036725"
+  },
+  {
+    "title": "Remote Analytics Specialist",
+    "company": "IKEA",
+    "url": "https://au.indeed.com/viewjob?jk=1ec718079f3915b4",
+    "scraped_at": "2026-06-12T11:49:53.038000"
   }
 ]
