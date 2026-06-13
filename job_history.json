@@ -1,11 +1,5 @@
 [
   {
-    "title": "Registered Nurse",
-    "company": "St Vincent\u2019s Health Australia",
-    "url": "https://au.indeed.com/viewjob?jk=92592f98adf7d188",
-    "scraped_at": "2026-02-12T08:58:47.829593"
-  },
-  {
     "title": "Clinical Psychologist",
     "company": "St Vincent\u2019s Health Australia",
     "url": "https://au.indeed.com/viewjob?jk=31aea6ed98cf6d57",
@@ -5998,5 +5992,11 @@
     "company": "DKSH",
     "url": "https://au.indeed.com/viewjob?jk=f206c434565d4578",
     "scraped_at": "2026-06-13T04:26:58.223101"
+  },
+  {
+    "title": "IT Helpdesk Assistant",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=8c2bfd16f8dbf5be",
+    "scraped_at": "2026-06-13T14:16:52.417276"
   }
 ]
