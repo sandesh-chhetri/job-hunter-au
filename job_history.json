@@ -1,17 +1,5 @@
 [
   {
-    "title": "Clinical Psychologist",
-    "company": "St Vincent\u2019s Health Australia",
-    "url": "https://au.indeed.com/viewjob?jk=31aea6ed98cf6d57",
-    "scraped_at": "2026-02-12T08:58:47.829904"
-  },
-  {
-    "title": "Plan Administrator",
-    "company": "McMillan Shakespeare",
-    "url": "https://au.indeed.com/viewjob?jk=a70989de5ad61678",
-    "scraped_at": "2026-02-12T08:58:47.840361"
-  },
-  {
     "title": "Junior Dev Support Engineer",
     "company": "tripleSdata Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=d280dce4dbc74bf2",
@@ -5998,5 +5986,17 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=8c2bfd16f8dbf5be",
     "scraped_at": "2026-06-13T14:16:52.417276"
+  },
+  {
+    "title": "Investment Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=a9050165a6f341f6",
+    "scraped_at": "2026-06-13T17:39:38.512668"
+  },
+  {
+    "title": "Developer",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=2b18286f81d16848",
+    "scraped_at": "2026-06-13T17:39:38.531459"
   }
 ]
