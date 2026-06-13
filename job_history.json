@@ -1,11 +1,5 @@
 [
   {
-    "title": "Client Services Officer",
-    "company": "The ORS Group",
-    "url": "https://au.indeed.com/viewjob?jk=2b0e761d75f0d4e8",
-    "scraped_at": "2026-02-12T05:37:33.380369"
-  },
-  {
     "title": "Registered Nurse",
     "company": "St Vincent\u2019s Health Australia",
     "url": "https://au.indeed.com/viewjob?jk=92592f98adf7d188",
@@ -5998,5 +5992,11 @@
     "company": "ConsMin",
     "url": "https://au.indeed.com/viewjob?jk=914bd728d456cc26",
     "scraped_at": "2026-06-12T21:56:38.636684"
+  },
+  {
+    "title": "Medical Sales Rep - Brisbane South",
+    "company": "DKSH",
+    "url": "https://au.indeed.com/viewjob?jk=f206c434565d4578",
+    "scraped_at": "2026-06-13T04:26:58.223101"
   }
 ]
