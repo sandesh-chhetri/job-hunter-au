@@ -1,11 +1,5 @@
 [
   {
-    "title": "Junior Dev Support Engineer",
-    "company": "tripleSdata Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=d280dce4dbc74bf2",
-    "scraped_at": "2026-02-12T08:58:47.849591"
-  },
-  {
     "title": "Regulatory Reporting Analyst",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=67620870cea81afd",
@@ -5998,5 +5992,11 @@
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=2b18286f81d16848",
     "scraped_at": "2026-06-13T17:39:38.531459"
+  },
+  {
+    "title": "G&PS Operational Improvement Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=2b211337b5db9974",
+    "scraped_at": "2026-06-14T17:27:10.895825"
   }
 ]
