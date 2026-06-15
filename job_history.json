@@ -1,11 +1,5 @@
 [
   {
-    "title": "Product Analyst",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=f03eb6170c1eb33e",
-    "scraped_at": "2026-02-13T05:25:04.828234"
-  },
-  {
     "title": "Java Engineer",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=a4b0c7d3d3f3b6ba",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=648d4a98f8eb285a",
     "scraped_at": "2026-06-15T19:53:17.263391"
+  },
+  {
+    "title": "Risk Services Officer",
+    "company": "CAPRICORN",
+    "url": "https://au.indeed.com/viewjob?jk=16d1d0a18934510e",
+    "scraped_at": "2026-06-15T22:24:17.571371"
   }
 ]
