@@ -1,23 +1,5 @@
 [
   {
-    "title": "Associate Support Engineer",
-    "company": "Coalesce",
-    "url": "https://au.indeed.com/viewjob?jk=c9944df63d83abd6",
-    "scraped_at": "2026-02-13T02:54:35.075170"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=9e3c7d3fae651d9b",
-    "scraped_at": "2026-02-13T02:54:35.083082"
-  },
-  {
-    "title": "Business Data Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=2101cdbeec8c8a8a",
-    "scraped_at": "2026-02-13T05:25:04.827670"
-  },
-  {
     "title": "Product Analyst",
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=f03eb6170c1eb33e",
@@ -5998,5 +5980,23 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=081f353f16cecd59",
     "scraped_at": "2026-06-15T14:31:06.395270"
+  },
+  {
+    "title": "Assistant Precinct Safety Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=476be90e96e5dce8",
+    "scraped_at": "2026-06-15T19:53:17.225733"
+  },
+  {
+    "title": "Precinct Safety Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=7f4eadfa099269ec",
+    "scraped_at": "2026-06-15T19:53:17.252873"
+  },
+  {
+    "title": "Workforce Relations Advisor",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=648d4a98f8eb285a",
+    "scraped_at": "2026-06-15T19:53:17.263391"
   }
 ]
