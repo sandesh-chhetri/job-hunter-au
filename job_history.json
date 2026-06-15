@@ -1,23 +1,5 @@
 [
   {
-    "title": "Regulatory Reporting Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=67620870cea81afd",
-    "scraped_at": "2026-02-12T13:27:01.622420"
-  },
-  {
-    "title": "ICT Support Engineer",
-    "company": "Cygen Consulting Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=9c6e56e9ae63862a",
-    "scraped_at": "2026-02-12T17:07:30.653143"
-  },
-  {
-    "title": "Test Analyst, APS5, Information Management and Technology Services",
-    "company": "Australian Competition & Consumer Commission (ACCC)",
-    "url": "https://au.indeed.com/viewjob?jk=b0c69f1005480531",
-    "scraped_at": "2026-02-12T20:44:05.134421"
-  },
-  {
     "title": "General Practitioner \u2013 Mala\u2019la Health Service \u2013 Maningrida",
     "company": "Northern Territory PHN",
     "url": "https://au.indeed.com/viewjob?jk=8848914d418a997b",
@@ -5998,5 +5980,23 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=2b211337b5db9974",
     "scraped_at": "2026-06-14T17:27:10.895825"
+  },
+  {
+    "title": "Customer Support, Technical Specialist, Powerwall",
+    "company": "Tesla",
+    "url": "https://au.indeed.com/viewjob?jk=c066a7ecb4ba01e0",
+    "scraped_at": "2026-06-15T05:11:09.954392"
+  },
+  {
+    "title": "Systems Administrator (Level 2 / MSP)",
+    "company": "All Managed IT",
+    "url": "https://au.indeed.com/viewjob?jk=bebd989f0ab0171c",
+    "scraped_at": "2026-06-15T05:11:09.954651"
+  },
+  {
+    "title": "Analyst, Counterparty Credit Modelling and Exposures",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=e4e193600b7ba5a9",
+    "scraped_at": "2026-06-15T05:11:10.003465"
   }
 ]
