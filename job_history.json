@@ -1,11 +1,5 @@
 [
   {
-    "title": "Java Engineer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=a4b0c7d3d3f3b6ba",
-    "scraped_at": "2026-02-13T08:55:21.673967"
-  },
-  {
     "title": "Administration Officer",
     "company": "Queensland Government",
     "url": "https://au.indeed.com/viewjob?jk=764015d15fce9836",
@@ -5998,5 +5992,11 @@
     "company": "CAPRICORN",
     "url": "https://au.indeed.com/viewjob?jk=16d1d0a18934510e",
     "scraped_at": "2026-06-15T22:24:17.571371"
+  },
+  {
+    "title": "Business & Operations Analyst - Transaction Reporting",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=fc4ae18c2d472ba1",
+    "scraped_at": "2026-06-16T05:14:03.688711"
   }
 ]
