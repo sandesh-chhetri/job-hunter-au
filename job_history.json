@@ -1,11 +1,5 @@
 [
   {
-    "title": "Administration Officer",
-    "company": "Queensland Government",
-    "url": "https://au.indeed.com/viewjob?jk=764015d15fce9836",
-    "scraped_at": "2026-02-13T13:18:45.102347"
-  },
-  {
     "title": "IT Support Engineer",
     "company": "Blinq",
     "url": "https://au.indeed.com/viewjob?jk=d5468def0e352184",
@@ -5998,5 +5992,11 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=fc4ae18c2d472ba1",
     "scraped_at": "2026-06-16T05:14:03.688711"
+  },
+  {
+    "title": "Engineering Reporting Analyst",
+    "company": "Virgin Australia",
+    "url": "https://au.indeed.com/viewjob?jk=3238029fdf9c2ede",
+    "scraped_at": "2026-06-16T13:00:44.797485"
   }
 ]
