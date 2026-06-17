@@ -1,11 +1,5 @@
 [
   {
-    "title": "Web Chat Representative",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=41cc6f70f7514cd2",
-    "scraped_at": "2026-02-15T02:55:36.730770"
-  },
-  {
     "title": "Webchat Advisor",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=25139ddace6010b1",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=c4765990ad0aef5b",
     "scraped_at": "2026-06-17T18:27:24.745332"
+  },
+  {
+    "title": "Disaster Recovery Officer - Capability and Operations",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=f6685dcf47b059d4",
+    "scraped_at": "2026-06-17T22:07:45.281423"
   }
 ]
