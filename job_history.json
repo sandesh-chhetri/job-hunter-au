@@ -1,29 +1,5 @@
 [
   {
-    "title": "Customer Support Agent - L1",
-    "company": "Phorest",
-    "url": "https://au.indeed.com/viewjob?jk=a1c4ecf1c26925b6",
-    "scraped_at": "2026-02-13T20:50:36.509889"
-  },
-  {
-    "title": "Systems Administrator",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=705a663ac7700fcd",
-    "scraped_at": "2026-02-13T20:50:36.514275"
-  },
-  {
-    "title": "Field-Based Outreach & Partnerships Officer (NDIS)",
-    "company": "Nad Care pty ltd",
-    "url": "https://au.indeed.com/viewjob?jk=dde538c2275cbe52",
-    "scraped_at": "2026-02-14T08:43:00.271870"
-  },
-  {
-    "title": "Accredited Exercise Physiologist",
-    "company": "Belgravia Health & Leisure Group Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=3d8de606aae655ea",
-    "scraped_at": "2026-02-14T20:36:22.525377"
-  },
-  {
     "title": "Web Chat Representative",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=41cc6f70f7514cd2",
@@ -5998,5 +5974,29 @@
     "company": "Agilent Technologies",
     "url": "https://au.indeed.com/viewjob?jk=59751fe3e82c4961",
     "scraped_at": "2026-06-17T12:23:11.269473"
+  },
+  {
+    "title": "Assistant Vice President, Prime Finance Middle Office Analyst",
+    "company": "Citi",
+    "url": "https://au.indeed.com/viewjob?jk=90c153ff65ea056f",
+    "scraped_at": "2026-06-17T18:27:24.684445"
+  },
+  {
+    "title": "Advanced Trainee",
+    "company": "NSW Health",
+    "url": "https://au.indeed.com/viewjob?jk=593825c15bc0492e",
+    "scraped_at": "2026-06-17T18:27:24.685584"
+  },
+  {
+    "title": "Functional Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=e38c8d9b82732d39",
+    "scraped_at": "2026-06-17T18:27:24.744851"
+  },
+  {
+    "title": "Functional Analyst Health & Safety CRM",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=c4765990ad0aef5b",
+    "scraped_at": "2026-06-17T18:27:24.745332"
   }
 ]
