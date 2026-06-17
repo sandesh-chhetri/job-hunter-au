@@ -1,17 +1,5 @@
 [
   {
-    "title": "IT Support Engineer",
-    "company": "Blinq",
-    "url": "https://au.indeed.com/viewjob?jk=d5468def0e352184",
-    "scraped_at": "2026-02-13T13:18:45.108148"
-  },
-  {
-    "title": "IT Support Engineer",
-    "company": "Blinq",
-    "url": "https://au.indeed.com/viewjob?jk=50d86b5bb056f151",
-    "scraped_at": "2026-02-13T13:18:45.108403"
-  },
-  {
     "title": "Front Desk Agent",
     "company": "Marriott International",
     "url": "https://au.indeed.com/viewjob?jk=1bc8a40f5a5fd8e8",
@@ -5998,5 +5986,17 @@
     "company": "Virgin Australia",
     "url": "https://au.indeed.com/viewjob?jk=3238029fdf9c2ede",
     "scraped_at": "2026-06-16T13:00:44.797485"
+  },
+  {
+    "title": "Project Officer",
+    "company": "Victorian Government",
+    "url": "https://au.indeed.com/viewjob?jk=7d523dd44f9db167",
+    "scraped_at": "2026-06-17T04:56:37.635851"
+  },
+  {
+    "title": "HR Operations Officer",
+    "company": "Kanda",
+    "url": "https://au.indeed.com/viewjob?jk=1aa1e27c631452ae",
+    "scraped_at": "2026-06-17T04:56:37.645494"
   }
 ]
