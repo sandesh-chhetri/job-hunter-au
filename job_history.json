@@ -1,29 +1,5 @@
 [
   {
-    "title": "Front Desk Agent",
-    "company": "Marriott International",
-    "url": "https://au.indeed.com/viewjob?jk=1bc8a40f5a5fd8e8",
-    "scraped_at": "2026-02-13T13:18:45.110981"
-  },
-  {
-    "title": "Power Platform Developer",
-    "company": "Royal Automobile Club of WA",
-    "url": "https://au.indeed.com/viewjob?jk=f1cf7088bcf35f35",
-    "scraped_at": "2026-02-13T13:18:45.134422"
-  },
-  {
-    "title": "Engineer - Developer Experience",
-    "company": "Xero",
-    "url": "https://au.indeed.com/viewjob?jk=11848bfd2a15eba8",
-    "scraped_at": "2026-02-13T13:18:45.134706"
-  },
-  {
-    "title": "AI Full Stack Software Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=d6a682f6d6d0a0a9",
-    "scraped_at": "2026-02-13T16:58:48.368173"
-  },
-  {
     "title": "Customer Support Agent - L1",
     "company": "Phorest",
     "url": "https://au.indeed.com/viewjob?jk=a1c4ecf1c26925b6",
@@ -5998,5 +5974,29 @@
     "company": "Kanda",
     "url": "https://au.indeed.com/viewjob?jk=1aa1e27c631452ae",
     "scraped_at": "2026-06-17T04:56:37.645494"
+  },
+  {
+    "title": "Advanced Trainee",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=7a8b8df68a0ee6ca",
+    "scraped_at": "2026-06-17T12:23:11.250191"
+  },
+  {
+    "title": "DEVOPS Full Stack Developer Websites",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=77ad1f43e9f680c3",
+    "scraped_at": "2026-06-17T12:23:11.262626"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Bupa",
+    "url": "https://au.indeed.com/viewjob?jk=23b5013e0f8b7314",
+    "scraped_at": "2026-06-17T12:23:11.265594"
+  },
+  {
+    "title": "Authentication Service Product Owner",
+    "company": "Agilent Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=59751fe3e82c4961",
+    "scraped_at": "2026-06-17T12:23:11.269473"
   }
 ]
