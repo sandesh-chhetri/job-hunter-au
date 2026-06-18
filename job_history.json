@@ -1,29 +1,5 @@
 [
   {
-    "title": "Junior Data Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=fa9a7cef854aaa79",
-    "scraped_at": "2026-02-15T02:55:36.754447"
-  },
-  {
-    "title": "Cloud Support Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=59f77e13397f6bd1",
-    "scraped_at": "2026-02-15T20:36:55.855813"
-  },
-  {
-    "title": "Fund Confirmation Officer",
-    "company": "St Vincent\u2019s Health Australia",
-    "url": "https://au.indeed.com/viewjob?jk=532922a3bb391518",
-    "scraped_at": "2026-02-16T02:50:58.756144"
-  },
-  {
-    "title": "APS Level 6 - Microsoft Cloud Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=ae48f365fc9227a2",
-    "scraped_at": "2026-02-16T02:50:58.778737"
-  },
-  {
     "title": "System Administrator",
     "company": "Medibank",
     "url": "https://au.indeed.com/viewjob?jk=015a1c1c7af70c8e",
@@ -5998,5 +5974,29 @@
     "company": "DingGo",
     "url": "https://au.indeed.com/viewjob?jk=3a18bee6ada0c0e2",
     "scraped_at": "2026-06-18T04:47:21.724332"
+  },
+  {
+    "title": "Payroll Administrator",
+    "company": "Coles Group",
+    "url": "https://au.indeed.com/viewjob?jk=5740d49f631e5ca7",
+    "scraped_at": "2026-06-18T11:55:24.981830"
+  },
+  {
+    "title": "Retail Systems Analyst",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=84db518c43064079",
+    "scraped_at": "2026-06-18T11:55:24.988721"
+  },
+  {
+    "title": "Retail Systems Analyst",
+    "company": "OROTON",
+    "url": "https://au.indeed.com/viewjob?jk=bd303d65e686282e",
+    "scraped_at": "2026-06-18T11:55:24.990517"
+  },
+  {
+    "title": "Full Stack Engineer (NodeJS, React, Flutter, AI, AWS)",
+    "company": "MGD",
+    "url": "https://au.indeed.com/viewjob?jk=101391987095893a",
+    "scraped_at": "2026-06-18T11:55:25.011138"
   }
 ]
