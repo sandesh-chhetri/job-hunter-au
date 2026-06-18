@@ -1,23 +1,5 @@
 [
   {
-    "title": "Webchat Advisor",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=25139ddace6010b1",
-    "scraped_at": "2026-02-15T02:55:36.730941"
-  },
-  {
-    "title": "Web Chat Representative",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=8969e2a7aa4336c8",
-    "scraped_at": "2026-02-15T02:55:36.731126"
-  },
-  {
-    "title": "Web Chat Representative",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=9f4384a748dd907f",
-    "scraped_at": "2026-02-15T02:55:36.731296"
-  },
-  {
     "title": "Junior Data Analyst",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=fa9a7cef854aaa79",
@@ -5998,5 +5980,23 @@
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=f6685dcf47b059d4",
     "scraped_at": "2026-06-17T22:07:45.281423"
+  },
+  {
+    "title": "Regional Project Officer - CFC",
+    "company": "Northern Land Council",
+    "url": "https://au.indeed.com/viewjob?jk=ff7b0aeb6719d0b2",
+    "scraped_at": "2026-06-18T04:47:21.658417"
+  },
+  {
+    "title": "Process Analyst - Business Optimisation",
+    "company": "Anglicare Southern Queensland",
+    "url": "https://au.indeed.com/viewjob?jk=334faa83deca0cf9",
+    "scraped_at": "2026-06-18T04:47:21.710630"
+  },
+  {
+    "title": "Junior/Associate Full Stack Engineer",
+    "company": "DingGo",
+    "url": "https://au.indeed.com/viewjob?jk=3a18bee6ada0c0e2",
+    "scraped_at": "2026-06-18T04:47:21.724332"
   }
 ]
