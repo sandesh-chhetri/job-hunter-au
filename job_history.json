@@ -1,17 +1,5 @@
 [
   {
-    "title": "System Administrator",
-    "company": "Medibank",
-    "url": "https://au.indeed.com/viewjob?jk=015a1c1c7af70c8e",
-    "scraped_at": "2026-02-16T05:40:47.078300"
-  },
-  {
-    "title": "Early Childhood Educator",
-    "company": "YMCAWA",
-    "url": "https://au.indeed.com/viewjob?jk=78cc04e06b7b0410",
-    "scraped_at": "2026-02-16T05:40:47.088339"
-  },
-  {
     "title": "Early Childhood Teacher \u2013 Karratha ELC",
     "company": "YMCAWA",
     "url": "https://au.indeed.com/viewjob?jk=e5856567e7980e3f",
@@ -5998,5 +5986,17 @@
     "company": "MGD",
     "url": "https://au.indeed.com/viewjob?jk=101391987095893a",
     "scraped_at": "2026-06-18T11:55:25.011138"
+  },
+  {
+    "title": "Network Engineer / IT Support Engineer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=6edcdd01f8683b82",
+    "scraped_at": "2026-06-18T22:21:17.340539"
+  },
+  {
+    "title": "Network Engineer / IT Support Engineer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=77fd65711cbac1a7",
+    "scraped_at": "2026-06-18T22:21:17.340785"
   }
 ]
