@@ -1,11 +1,5 @@
 [
   {
-    "title": "Officer - Airport Reporting",
-    "company": "Compass Group Australia",
-    "url": "https://au.indeed.com/viewjob?jk=f9e938409d73de54",
-    "scraped_at": "2026-02-16T16:56:29.483927"
-  },
-  {
     "title": "Specialist, IT Service Continuity",
     "company": "Woolworths Group Limited",
     "url": "https://au.indeed.com/viewjob?jk=b36390e8bb3f8d38",
@@ -5998,5 +5992,11 @@
     "company": "City People Solutions",
     "url": "https://au.indeed.com/viewjob?jk=9481860119fcbfbc",
     "scraped_at": "2026-06-19T05:07:35.627384"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=928770ea58518331",
+    "scraped_at": "2026-06-19T12:14:47.367148"
   }
 ]
