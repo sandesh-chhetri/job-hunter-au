@@ -1,23 +1,5 @@
 [
   {
-    "title": "Early Childhood Teacher \u2013 Karratha ELC",
-    "company": "YMCAWA",
-    "url": "https://au.indeed.com/viewjob?jk=e5856567e7980e3f",
-    "scraped_at": "2026-02-16T05:40:47.088550"
-  },
-  {
-    "title": "Information Systems Support Analyst",
-    "company": "Compass Group Australia",
-    "url": "https://au.indeed.com/viewjob?jk=33a68fd53c49eba9",
-    "scraped_at": "2026-02-16T16:56:29.455135"
-  },
-  {
-    "title": "Electrician- South Australia",
-    "company": "Compass Group Australia",
-    "url": "https://au.indeed.com/viewjob?jk=ed6376c42c7f463c",
-    "scraped_at": "2026-02-16T16:56:29.471580"
-  },
-  {
     "title": "Officer - Airport Reporting",
     "company": "Compass Group Australia",
     "url": "https://au.indeed.com/viewjob?jk=f9e938409d73de54",
@@ -5998,5 +5980,23 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=77fd65711cbac1a7",
     "scraped_at": "2026-06-18T22:21:17.340785"
+  },
+  {
+    "title": "Cyber Security Analyst - Detection & Response",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=fc396b530c1f6bb6",
+    "scraped_at": "2026-06-19T05:07:35.603957"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "NATIONAL HEAVY VEHICLE REGULATOR",
+    "url": "https://au.indeed.com/viewjob?jk=c947d5f28505a9de",
+    "scraped_at": "2026-06-19T05:07:35.623574"
+  },
+  {
+    "title": "Test Engineer",
+    "company": "City People Solutions",
+    "url": "https://au.indeed.com/viewjob?jk=9481860119fcbfbc",
+    "scraped_at": "2026-06-19T05:07:35.627384"
   }
 ]
