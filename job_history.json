@@ -1,17 +1,5 @@
 [
   {
-    "title": "Specialist, IT Service Continuity",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=b36390e8bb3f8d38",
-    "scraped_at": "2026-02-16T20:40:52.956306"
-  },
-  {
-    "title": "Backend Developer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=08e3b97237638ca9",
-    "scraped_at": "2026-02-16T20:40:52.984506"
-  },
-  {
     "title": "Integration Engineer - Boomi",
     "company": "TEACHERS MUTUAL BANK",
     "url": "https://au.indeed.com/viewjob?jk=60d131cc7a7123fe",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=928770ea58518331",
     "scraped_at": "2026-06-19T12:14:47.367148"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "AI Talent",
+    "url": "https://au.indeed.com/viewjob?jk=21c40e901ce4f9ce",
+    "scraped_at": "2026-06-20T04:20:02.543439"
+  },
+  {
+    "title": "Cloud DevOps Engineer - Azure",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=3b27cb0b1817e1a9",
+    "scraped_at": "2026-06-20T04:20:02.545898"
   }
 ]
