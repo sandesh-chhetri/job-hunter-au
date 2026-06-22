@@ -1,23 +1,5 @@
 [
   {
-    "title": "Hygiene Technician",
-    "company": "NORTHERN STAR RESOURCES",
-    "url": "https://au.indeed.com/viewjob?jk=0d628e71f47fb4c3",
-    "scraped_at": "2026-02-17T05:25:28.832185"
-  },
-  {
-    "title": "Counsellor Educator",
-    "company": "Hope Community Service",
-    "url": "https://au.indeed.com/viewjob?jk=ed96ebfdfcacbf36",
-    "scraped_at": "2026-02-17T08:58:04.651923"
-  },
-  {
-    "title": "Asset Performance Analyst | Renewable Energy Portfolio Ownership",
-    "company": "Aula Energy",
-    "url": "https://au.indeed.com/viewjob?jk=5e5a220d6f6753a8",
-    "scraped_at": "2026-02-17T08:58:04.669168"
-  },
-  {
     "title": "Laundry Assistant",
     "company": "Baptistcare - WA",
     "url": "https://au.indeed.com/viewjob?jk=f6ec7aaa5946e8e9",
@@ -5998,5 +5980,23 @@
     "company": "INGENIA COMMUNITIES",
     "url": "https://au.indeed.com/viewjob?jk=9abb8a4a8c267618",
     "scraped_at": "2026-06-22T05:13:09.534611"
+  },
+  {
+    "title": "Technical Support Specialist",
+    "company": "Itron",
+    "url": "https://au.indeed.com/viewjob?jk=10a4fb3cbae03bf6",
+    "scraped_at": "2026-06-22T13:41:21.778004"
+  },
+  {
+    "title": "Customer Service Representative",
+    "company": "Allianz",
+    "url": "https://au.indeed.com/viewjob?jk=c04fa3438f9681c6",
+    "scraped_at": "2026-06-22T13:41:21.782357"
+  },
+  {
+    "title": "Cloud DevOps Engineer - AWS",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=da9bb3755fa9f6f4",
+    "scraped_at": "2026-06-22T13:41:21.844026"
   }
 ]
