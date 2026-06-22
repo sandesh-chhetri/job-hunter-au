@@ -1,11 +1,5 @@
 [
   {
-    "title": "Laundry Assistant",
-    "company": "Baptistcare - WA",
-    "url": "https://au.indeed.com/viewjob?jk=f6ec7aaa5946e8e9",
-    "scraped_at": "2026-02-17T13:21:54.951158"
-  },
-  {
     "title": "Warehouse Storeperson / Delivery Driver",
     "company": "Harvey Norman",
     "url": "https://au.indeed.com/viewjob?jk=606e0ff84bdcc39e",
@@ -5998,5 +5992,11 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=da9bb3755fa9f6f4",
     "scraped_at": "2026-06-22T13:41:21.844026"
+  },
+  {
+    "title": "Developer - Healthcare Tech",
+    "company": "AlayaCare",
+    "url": "https://au.indeed.com/viewjob?jk=152f6697998c695d",
+    "scraped_at": "2026-06-22T19:36:44.962872"
   }
 ]
