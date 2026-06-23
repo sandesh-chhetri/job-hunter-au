@@ -1,29 +1,5 @@
 [
   {
-    "title": "Community Development Officer - Recreation",
-    "company": "Moira Shire Council",
-    "url": "https://au.indeed.com/viewjob?jk=9dc96bfb1f751485",
-    "scraped_at": "2026-02-18T17:13:30.103875"
-  },
-  {
-    "title": "Corporate Receptionist",
-    "company": "Bright & Duggan Property Group",
-    "url": "https://au.indeed.com/viewjob?jk=ea678d8bf137a6b4",
-    "scraped_at": "2026-02-18T17:13:30.112575"
-  },
-  {
-    "title": "Marketing & Events Coordinator",
-    "company": "Bright & Duggan Property Group",
-    "url": "https://au.indeed.com/viewjob?jk=21cdc3471267cb6d",
-    "scraped_at": "2026-02-18T17:13:30.133975"
-  },
-  {
-    "title": "Accommodation / Admin Officer |FIFO | 2:1| Weipa",
-    "company": "Sodexo",
-    "url": "https://au.indeed.com/viewjob?jk=c22b1bd76517975f",
-    "scraped_at": "2026-02-19T02:49:38.900977"
-  },
-  {
     "title": "Operations Analyst - Commodities Markets and Financing Operations",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=252ec46a59107486",
@@ -5998,5 +5974,29 @@
     "company": "Country Fire Authority",
     "url": "https://au.indeed.com/viewjob?jk=afef287dd9168e43",
     "scraped_at": "2026-06-23T15:16:43.864206"
+  },
+  {
+    "title": "IT AV Support Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=0cebe7ee24f969bd",
+    "scraped_at": "2026-06-23T18:06:02.161320"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "ELMO Software",
+    "url": "https://au.indeed.com/viewjob?jk=bbc6611613b30b2d",
+    "scraped_at": "2026-06-23T18:06:02.165399"
+  },
+  {
+    "title": "Data & Analytics Specialist",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=43a27e88dcdc560b",
+    "scraped_at": "2026-06-23T18:06:02.199468"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=b70bfab1712c765b",
+    "scraped_at": "2026-06-23T18:06:02.220777"
   }
 ]
