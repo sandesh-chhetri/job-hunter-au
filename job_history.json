@@ -1,11 +1,5 @@
 [
   {
-    "title": "Warehouse Storeperson / Delivery Driver",
-    "company": "Harvey Norman",
-    "url": "https://au.indeed.com/viewjob?jk=606e0ff84bdcc39e",
-    "scraped_at": "2026-02-17T13:21:54.970406"
-  },
-  {
     "title": "IT AV Support Technician",
     "company": "Cognizant Technology Solutions",
     "url": "https://au.indeed.com/viewjob?jk=e44372251705e005",
@@ -5998,5 +5992,11 @@
     "company": "AlayaCare",
     "url": "https://au.indeed.com/viewjob?jk=152f6697998c695d",
     "scraped_at": "2026-06-22T19:36:44.962872"
+  },
+  {
+    "title": "Regional Coordinator",
+    "company": "The Salvation Army",
+    "url": "https://au.indeed.com/viewjob?jk=f660b8c944f805e4",
+    "scraped_at": "2026-06-23T04:09:31.066370"
   }
 ]
