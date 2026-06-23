@@ -1,17 +1,5 @@
 [
   {
-    "title": "Administrator - Insurance",
-    "company": "QBE",
-    "url": "https://au.indeed.com/viewjob?jk=c9decbf8c9fbe8c4",
-    "scraped_at": "2026-02-18T08:56:52.095177"
-  },
-  {
-    "title": "People Reporting Analyst",
-    "company": "Transurban",
-    "url": "https://au.indeed.com/viewjob?jk=4f034291f0018d6b",
-    "scraped_at": "2026-02-18T08:56:52.099231"
-  },
-  {
     "title": "Community Development Officer - Recreation",
     "company": "Moira Shire Council",
     "url": "https://au.indeed.com/viewjob?jk=9dc96bfb1f751485",
@@ -5998,5 +5986,17 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=7b809ed96cce8fb3",
     "scraped_at": "2026-06-23T11:25:16.718135"
+  },
+  {
+    "title": "IT Field Technical Support Officer",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=0bfa143cf7a7369c",
+    "scraped_at": "2026-06-23T15:16:43.861598"
+  },
+  {
+    "title": "IT Field Technical Support Officer",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=afef287dd9168e43",
+    "scraped_at": "2026-06-23T15:16:43.864206"
   }
 ]
