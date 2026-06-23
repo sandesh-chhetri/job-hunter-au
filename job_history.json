@@ -1,11 +1,5 @@
 [
   {
-    "title": "Operations Analyst - Commodities Markets and Financing Operations",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=252ec46a59107486",
-    "scraped_at": "2026-02-19T02:49:38.904923"
-  },
-  {
     "title": "Junior Developer Data Science and Analytics",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=0d61448d544a4155",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=b70bfab1712c765b",
     "scraped_at": "2026-06-23T18:06:02.220777"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=17d2ae3813ac2bb8",
+    "scraped_at": "2026-06-23T21:47:23.577573"
   }
 ]
