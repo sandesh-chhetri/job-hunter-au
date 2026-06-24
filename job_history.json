@@ -1,11 +1,5 @@
 [
   {
-    "title": "Water Officer - Yuleba, Wallumbilla & Surrounds",
-    "company": "Maranoa Regional Council",
-    "url": "https://au.indeed.com/viewjob?jk=610da1961c03bf05",
-    "scraped_at": "2026-02-19T05:25:39.100431"
-  },
-  {
     "title": "Practice Assistant",
     "company": "Allens",
     "url": "https://au.indeed.com/viewjob?jk=cd88d70cb26a0817",
@@ -5998,5 +5992,11 @@
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=ddecf4dfec37a4fa",
     "scraped_at": "2026-06-24T04:12:43.306577"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Australian Payments Plus",
+    "url": "https://au.indeed.com/viewjob?jk=f88e17adeb82d1a4",
+    "scraped_at": "2026-06-24T10:58:11.947311"
   }
 ]
