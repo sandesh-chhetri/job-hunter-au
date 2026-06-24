@@ -1,17 +1,5 @@
 [
   {
-    "title": "Junior Developer Data Science and Analytics",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=0d61448d544a4155",
-    "scraped_at": "2026-02-19T02:49:38.909691"
-  },
-  {
-    "title": "Fullstack AI and Automation Engineer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=f5b1a72c547117f9",
-    "scraped_at": "2026-02-19T02:49:38.915165"
-  },
-  {
     "title": "Water Officer - Yuleba, Wallumbilla & Surrounds",
     "company": "Maranoa Regional Council",
     "url": "https://au.indeed.com/viewjob?jk=610da1961c03bf05",
@@ -5998,5 +5986,17 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=17d2ae3813ac2bb8",
     "scraped_at": "2026-06-23T21:47:23.577573"
+  },
+  {
+    "title": "Registered Nurse - Angiography",
+    "company": "Healthscope Limited",
+    "url": "https://au.indeed.com/viewjob?jk=c9cd13fe24822a44",
+    "scraped_at": "2026-06-24T04:12:43.304024"
+  },
+  {
+    "title": "Technical Assistant",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=ddecf4dfec37a4fa",
+    "scraped_at": "2026-06-24T04:12:43.306577"
   }
 ]
