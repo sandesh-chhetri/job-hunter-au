@@ -1,11 +1,5 @@
 [
   {
-    "title": "Customer Support Representative (Client Service & Helpdesk Support)",
-    "company": "Orion Support Services Ltd.",
-    "url": "https://au.indeed.com/viewjob?jk=6eb1cb7eb2cb6c4a",
-    "scraped_at": "2026-02-19T08:56:39.234998"
-  },
-  {
     "title": "Data Processing Officer",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=491cfed49963e1c4",
@@ -5998,5 +5992,11 @@
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=aaabc1f4e88eca52",
     "scraped_at": "2026-06-25T04:12:58.157241"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "RUSHLEE PTY LTD",
+    "url": "https://au.indeed.com/viewjob?jk=b6c626efbd6ad390",
+    "scraped_at": "2026-06-25T10:49:25.599734"
   }
 ]
