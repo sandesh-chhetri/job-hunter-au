@@ -1,11 +1,5 @@
 [
   {
-    "title": "Data Processing Officer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=491cfed49963e1c4",
-    "scraped_at": "2026-02-19T13:25:05.160935"
-  },
-  {
     "title": "IT Helpdesk",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=54a7e8756d5d3831",
@@ -5998,5 +5992,11 @@
     "company": "RUSHLEE PTY LTD",
     "url": "https://au.indeed.com/viewjob?jk=b6c626efbd6ad390",
     "scraped_at": "2026-06-25T10:49:25.599734"
+  },
+  {
+    "title": "Customer Support Agent - L1",
+    "company": "Phorest",
+    "url": "https://au.indeed.com/viewjob?jk=0086872c2e1b149c",
+    "scraped_at": "2026-06-25T14:47:07.076121"
   }
 ]
