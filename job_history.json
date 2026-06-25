@@ -1,17 +1,5 @@
 [
   {
-    "title": "Trainee - Technology Support",
-    "company": "Western Sydney International Airport",
-    "url": "https://au.indeed.com/viewjob?jk=851d615c10f50bb1",
-    "scraped_at": "2026-02-19T05:25:39.116501"
-  },
-  {
-    "title": "Business Analyst",
-    "company": "NORTHERN STAR RESOURCES",
-    "url": "https://au.indeed.com/viewjob?jk=46e2d488c7ca97aa",
-    "scraped_at": "2026-02-19T05:25:39.127036"
-  },
-  {
     "title": "Customer Support Representative (Client Service & Helpdesk Support)",
     "company": "Orion Support Services Ltd.",
     "url": "https://au.indeed.com/viewjob?jk=6eb1cb7eb2cb6c4a",
@@ -5998,5 +5986,17 @@
     "company": "Dnata",
     "url": "https://au.indeed.com/viewjob?jk=93c8cb03bb06a953",
     "scraped_at": "2026-06-24T21:38:31.175497"
+  },
+  {
+    "title": "Assessment Services Consultant",
+    "company": "MEGT Australia Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=ef9a9449dfe33374",
+    "scraped_at": "2026-06-25T04:12:58.155563"
+  },
+  {
+    "title": "Administration Officer",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=aaabc1f4e88eca52",
+    "scraped_at": "2026-06-25T04:12:58.157241"
   }
 ]
