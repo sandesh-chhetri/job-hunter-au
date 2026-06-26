@@ -1,17 +1,5 @@
 [
   {
-    "title": "Scheduling Officer - Taronga Zoo",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=44fbf247470226f1",
-    "scraped_at": "2026-02-19T17:04:12.154374"
-  },
-  {
-    "title": "Patient Support Assistant",
-    "company": "NT Health",
-    "url": "https://au.indeed.com/viewjob?jk=a03c41745470726c",
-    "scraped_at": "2026-02-19T20:41:12.154993"
-  },
-  {
     "title": "Registered Nurse - St Vincent's Public Hospital, Sydney",
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=328afb9147a200a7",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=6a3e609c98a8756f",
     "scraped_at": "2026-06-26T04:19:28.741498"
+  },
+  {
+    "title": "DevOps Engineer - Equity Finance",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=22356314b9b31443",
+    "scraped_at": "2026-06-26T10:57:13.489711"
+  },
+  {
+    "title": "Software Engineer - Build Cool Things, With Cool People",
+    "company": "CodeCabin",
+    "url": "https://au.indeed.com/viewjob?jk=00382f4d6628faba",
+    "scraped_at": "2026-06-26T10:57:13.490570"
   }
 ]
