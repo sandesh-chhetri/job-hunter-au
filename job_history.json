@@ -1,11 +1,5 @@
 [
   {
-    "title": "Data Analyst - Associate",
-    "company": "EY",
-    "url": "https://au.indeed.com/viewjob?jk=ef3dae8d41bd03d4",
-    "scraped_at": "2026-02-19T20:41:12.181879"
-  },
-  {
     "title": "Cloud Support Engineer",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=eaa610c62806eebd",
@@ -5998,5 +5992,11 @@
     "company": "Reserve Bank of Australia",
     "url": "https://au.indeed.com/viewjob?jk=223973d61c0b7a2d",
     "scraped_at": "2026-06-26T14:39:25.737298"
+  },
+  {
+    "title": "Program Effectiveness Engineer, Bridges, Tunnels & Heritage Assets",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=abb47cc33dd56e9b",
+    "scraped_at": "2026-06-26T17:57:45.995008"
   }
 ]
