@@ -1,11 +1,5 @@
 [
   {
-    "title": "Registered Nurse - St Vincent's Public Hospital, Sydney",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=328afb9147a200a7",
-    "scraped_at": "2026-02-19T20:41:12.166897"
-  },
-  {
     "title": "Data Analyst - Associate",
     "company": "EY",
     "url": "https://au.indeed.com/viewjob?jk=ef3dae8d41bd03d4",
@@ -5998,5 +5992,11 @@
     "company": "CodeCabin",
     "url": "https://au.indeed.com/viewjob?jk=00382f4d6628faba",
     "scraped_at": "2026-06-26T10:57:13.490570"
+  },
+  {
+    "title": "Cloud Platform Engineer",
+    "company": "Reserve Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=223973d61c0b7a2d",
+    "scraped_at": "2026-06-26T14:39:25.737298"
   }
 ]
