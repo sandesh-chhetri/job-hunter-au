@@ -1,23 +1,5 @@
 [
   {
-    "title": "IT Helpdesk",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=54a7e8756d5d3831",
-    "scraped_at": "2026-02-19T13:25:05.164126"
-  },
-  {
-    "title": "IT Support Specialist (Service Desk & Systems Support)",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=674af86013605005",
-    "scraped_at": "2026-02-19T13:25:05.167929"
-  },
-  {
-    "title": "Lecturer: Science for Medicine",
-    "company": "University of Wollongong",
-    "url": "https://au.indeed.com/viewjob?jk=d51386772d84e4fc",
-    "scraped_at": "2026-02-19T13:25:05.171116"
-  },
-  {
     "title": "Scheduling Officer - Taronga Zoo",
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=44fbf247470226f1",
@@ -5998,5 +5980,23 @@
     "company": "Phorest",
     "url": "https://au.indeed.com/viewjob?jk=0086872c2e1b149c",
     "scraped_at": "2026-06-25T14:47:07.076121"
+  },
+  {
+    "title": "Revenue Officer",
+    "company": "Baw Baw Shire Council",
+    "url": "https://au.indeed.com/viewjob?jk=9d6ad3ee923d77a5",
+    "scraped_at": "2026-06-26T04:19:28.663722"
+  },
+  {
+    "title": "Operations Analyst",
+    "company": "Stake",
+    "url": "https://au.indeed.com/viewjob?jk=3fade184c2bc46b2",
+    "scraped_at": "2026-06-26T04:19:28.720206"
+  },
+  {
+    "title": "DataOps Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=6a3e609c98a8756f",
+    "scraped_at": "2026-06-26T04:19:28.741498"
   }
 ]
