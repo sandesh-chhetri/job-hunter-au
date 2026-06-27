@@ -1,11 +1,5 @@
 [
   {
-    "title": "Cloud Support Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=eaa610c62806eebd",
-    "scraped_at": "2026-02-19T20:41:12.191882"
-  },
-  {
     "title": "Safer Gambling Compliance Officer",
     "company": "Entain",
     "url": "https://au.indeed.com/viewjob?jk=61e2f296646ca591",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=abb47cc33dd56e9b",
     "scraped_at": "2026-06-26T17:57:45.995008"
+  },
+  {
+    "title": "Software Quality Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=c41dbed6e685ad37",
+    "scraped_at": "2026-06-27T04:06:05.187672"
   }
 ]
