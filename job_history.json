@@ -1,17 +1,5 @@
 [
   {
-    "title": "Medical Receptionist | Wentworthville NSW | Permanent",
-    "company": "For Health Group",
-    "url": "https://au.indeed.com/viewjob?jk=a8d96c1685d52e49",
-    "scraped_at": "2026-02-20T02:44:22.988640"
-  },
-  {
-    "title": "Equity Analyst Intern",
-    "company": "Simply Wall St",
-    "url": "https://au.indeed.com/viewjob?jk=6d4e2b1e9902c10a",
-    "scraped_at": "2026-02-20T02:44:22.996151"
-  },
-  {
     "title": "D365 FO Support Engineer",
     "company": "WiseTech Global",
     "url": "https://au.indeed.com/viewjob?jk=b3abad93af1e3f5d",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=763c4a22732c889f",
     "scraped_at": "2026-06-27T13:59:08.957415"
+  },
+  {
+    "title": "Web/UI Developer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=1ec3b1103bc1c29f",
+    "scraped_at": "2026-06-28T21:11:26.128865"
+  },
+  {
+    "title": "Associate Full Stack Developer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=4099272aa626a30d",
+    "scraped_at": "2026-06-28T21:11:26.131827"
   }
 ]
