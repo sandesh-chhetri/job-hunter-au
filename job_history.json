@@ -1,17 +1,5 @@
 [
   {
-    "title": "D365 FO Support Engineer",
-    "company": "WiseTech Global",
-    "url": "https://au.indeed.com/viewjob?jk=b3abad93af1e3f5d",
-    "scraped_at": "2026-02-20T02:44:23.008923"
-  },
-  {
-    "title": "D365 Finance & Operations (F&O) Technical Specialist",
-    "company": "WiseTech Global",
-    "url": "https://au.indeed.com/viewjob?jk=76168e39eed03d4e",
-    "scraped_at": "2026-02-20T02:44:23.009169"
-  },
-  {
     "title": "Clinical Nurse Consultant - Maternal and Child Health Northern Peninsula Area (Bamaga)",
     "company": "Queensland Government",
     "url": "https://au.indeed.com/viewjob?jk=069db9b7df1b6577",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=4099272aa626a30d",
     "scraped_at": "2026-06-28T21:11:26.131827"
+  },
+  {
+    "title": "Geospatial Analyst",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=ec67575e853bbfec",
+    "scraped_at": "2026-06-29T04:47:18.319957"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "APM",
+    "url": "https://au.indeed.com/viewjob?jk=8d60c6aef8e77c22",
+    "scraped_at": "2026-06-29T04:47:18.342676"
   }
 ]
