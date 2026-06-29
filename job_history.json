@@ -1,35 +1,5 @@
 [
   {
-    "title": "Clinical Nurse Consultant - Maternal and Child Health Northern Peninsula Area (Bamaga)",
-    "company": "Queensland Government",
-    "url": "https://au.indeed.com/viewjob?jk=069db9b7df1b6577",
-    "scraped_at": "2026-02-20T05:20:04.101787"
-  },
-  {
-    "title": "Systems Analyst",
-    "company": "Reserve Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=3cdf6124caf6398a",
-    "scraped_at": "2026-02-20T05:20:04.117460"
-  },
-  {
-    "title": "Business Analyst",
-    "company": "Digitori Labs",
-    "url": "https://au.indeed.com/viewjob?jk=ee1ce92ba167687d",
-    "scraped_at": "2026-02-20T05:20:04.118046"
-  },
-  {
-    "title": "Customer Requests Officer",
-    "company": "CitiPower and Powercor",
-    "url": "https://au.indeed.com/viewjob?jk=14883dd27d4e295a",
-    "scraped_at": "2026-02-20T08:53:12.614734"
-  },
-  {
-    "title": "Consultant - Internal Audit - Risk Consulting",
-    "company": "EY",
-    "url": "https://au.indeed.com/viewjob?jk=4876a49a4f073df1",
-    "scraped_at": "2026-02-20T13:16:10.948979"
-  },
-  {
     "title": "Infrastructure & Facilities Project Officer",
     "company": "Victorian Electoral Commission",
     "url": "https://au.indeed.com/viewjob?jk=b96de270df8f72fb",
@@ -5998,5 +5968,35 @@
     "company": "APM",
     "url": "https://au.indeed.com/viewjob?jk=8d60c6aef8e77c22",
     "scraped_at": "2026-06-29T04:47:18.342676"
+  },
+  {
+    "title": "Records Management Assistant, Corporate Services",
+    "company": "Department of Justice and Community Safety",
+    "url": "https://au.indeed.com/viewjob?jk=4d3b350fc3a33e21",
+    "scraped_at": "2026-06-29T12:40:45.659962"
+  },
+  {
+    "title": "OrganMatch Junior Test - Business Analyst",
+    "company": "Australian Red Cross Lifeblood",
+    "url": "https://au.indeed.com/viewjob?jk=d27368e6730bfb9f",
+    "scraped_at": "2026-06-29T12:40:45.706316"
+  },
+  {
+    "title": "Workday Reporting Consultant",
+    "company": "Allens",
+    "url": "https://au.indeed.com/viewjob?jk=199b3f874edf80c8",
+    "scraped_at": "2026-06-29T12:40:45.709933"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=19fa9f3eae4440c0",
+    "scraped_at": "2026-06-29T12:40:45.713111"
+  },
+  {
+    "title": "Software Engineer (Operational Systems)",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=08f3069fe7f59074",
+    "scraped_at": "2026-06-29T12:40:45.727512"
   }
 ]
