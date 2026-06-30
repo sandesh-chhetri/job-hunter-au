@@ -1,11 +1,5 @@
 [
   {
-    "title": "Business Analyst",
-    "company": "Lion",
-    "url": "https://au.indeed.com/viewjob?jk=63ba4e025146a8ac",
-    "scraped_at": "2026-02-23T02:51:21.534103"
-  },
-  {
     "title": "Junior Full Stack Developer",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=fd6a6454273e1a29",
@@ -5998,5 +5992,11 @@
     "company": "EY",
     "url": "https://au.indeed.com/viewjob?jk=5fd50c0d098e237d",
     "scraped_at": "2026-06-30T11:15:50.694233"
+  },
+  {
+    "title": "Carer Engagement Officer. Permanent Full-time",
+    "company": "Life Without Barriers",
+    "url": "https://au.indeed.com/viewjob?jk=6f65b936bffbc278",
+    "scraped_at": "2026-06-30T14:34:16.954241"
   }
 ]
