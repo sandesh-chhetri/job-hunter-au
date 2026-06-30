@@ -1,11 +1,5 @@
 [
   {
-    "title": "Junior Full Stack Developer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=fd6a6454273e1a29",
-    "scraped_at": "2026-02-23T02:51:21.541286"
-  },
-  {
     "title": "Engagement Analyst",
     "company": "Coles Group",
     "url": "https://au.indeed.com/viewjob?jk=a81b0733666834ef",
@@ -5998,5 +5992,11 @@
     "company": "Life Without Barriers",
     "url": "https://au.indeed.com/viewjob?jk=6f65b936bffbc278",
     "scraped_at": "2026-06-30T14:34:16.954241"
+  },
+  {
+    "title": "Service Desk Analyst - GPC Asia Pacific - Full Time",
+    "company": "NAPA Auto Parts",
+    "url": "https://au.indeed.com/viewjob?jk=e45a9b7941f31f67",
+    "scraped_at": "2026-06-30T18:05:31.438631"
   }
 ]
