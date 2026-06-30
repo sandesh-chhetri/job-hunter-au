@@ -1,29 +1,5 @@
 [
   {
-    "title": "Project Administration Officer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=658b7b32220eb64d",
-    "scraped_at": "2026-02-21T08:41:04.312923"
-  },
-  {
-    "title": "System Administrator",
-    "company": "Espona Creative Studio",
-    "url": "https://au.indeed.com/viewjob?jk=1de853faaccf17c3",
-    "scraped_at": "2026-02-21T16:39:39.514937"
-  },
-  {
-    "title": "Remote Interpreter",
-    "company": "Simplified Group BPO LLC",
-    "url": "https://au.indeed.com/viewjob?jk=5f46efff42a14632",
-    "scraped_at": "2026-02-22T02:50:59.849223"
-  },
-  {
-    "title": "Clinical Training Specialist - Therapeutic Neurotoxin",
-    "company": "AbbVie",
-    "url": "https://au.indeed.com/viewjob?jk=94f0c2563394b2b1",
-    "scraped_at": "2026-02-23T02:51:21.524446"
-  },
-  {
     "title": "Business Analyst",
     "company": "Lion",
     "url": "https://au.indeed.com/viewjob?jk=63ba4e025146a8ac",
@@ -5998,5 +5974,29 @@
     "company": "Propeller",
     "url": "https://au.indeed.com/viewjob?jk=9d8fefc2e5407148",
     "scraped_at": "2026-06-30T04:14:06.667705"
+  },
+  {
+    "title": "Customer Service Officer",
+    "company": "NORTHERN STAR RESOURCES",
+    "url": "https://au.indeed.com/viewjob?jk=613658b55763e98f",
+    "scraped_at": "2026-06-30T11:15:50.629148"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Allens",
+    "url": "https://au.indeed.com/viewjob?jk=d7dd7c2887503c74",
+    "scraped_at": "2026-06-30T11:15:50.674337"
+  },
+  {
+    "title": "Mid-Level .NET Developer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=e45ff0903dc117a8",
+    "scraped_at": "2026-06-30T11:15:50.690652"
+  },
+  {
+    "title": "Software Engineer (Optimisation)",
+    "company": "EY",
+    "url": "https://au.indeed.com/viewjob?jk=5fd50c0d098e237d",
+    "scraped_at": "2026-06-30T11:15:50.694233"
   }
 ]
