@@ -1,29 +1,5 @@
 [
   {
-    "title": "Engagement Analyst",
-    "company": "Coles Group",
-    "url": "https://au.indeed.com/viewjob?jk=a81b0733666834ef",
-    "scraped_at": "2026-02-23T05:39:32.225641"
-  },
-  {
-    "title": "Intake and Triage Officer",
-    "company": "Department of Justice and Community Safety",
-    "url": "https://au.indeed.com/viewjob?jk=4186c5de33d15502",
-    "scraped_at": "2026-02-23T09:00:14.466659"
-  },
-  {
-    "title": "Contact Centre Officer",
-    "company": "Department of Justice and Community Safety",
-    "url": "https://au.indeed.com/viewjob?jk=4bf2a1ea38e5aec3",
-    "scraped_at": "2026-02-23T09:00:14.466844"
-  },
-  {
-    "title": "Care Integration Nurse / Paramedic",
-    "company": "Medibank",
-    "url": "https://au.indeed.com/viewjob?jk=882a74af99ce58ad",
-    "scraped_at": "2026-02-23T13:23:04.260834"
-  },
-  {
     "title": "Quality Analyst Automation",
     "company": "Medibank",
     "url": "https://au.indeed.com/viewjob?jk=9a4fb6b705ff3643",
@@ -5998,5 +5974,29 @@
     "company": "NAPA Auto Parts",
     "url": "https://au.indeed.com/viewjob?jk=e45a9b7941f31f67",
     "scraped_at": "2026-06-30T18:05:31.438631"
+  },
+  {
+    "title": "Systems Engineer \u2013 IFS Cloud",
+    "company": "InfoConsulting",
+    "url": "https://au.indeed.com/viewjob?jk=92f3672c6cb156b4",
+    "scraped_at": "2026-07-01T04:42:29.157521"
+  },
+  {
+    "title": "Systems Engineer \u2013 IFS Cloud",
+    "company": "InfoConsulting Group",
+    "url": "https://au.indeed.com/viewjob?jk=6e513e3525af1c63",
+    "scraped_at": "2026-07-01T04:42:29.179571"
+  },
+  {
+    "title": "Organisational Change Analyst - 10 Month Fixed Term",
+    "company": "Datacom Connect",
+    "url": "https://au.indeed.com/viewjob?jk=9ee4890268108102",
+    "scraped_at": "2026-07-01T04:42:29.186434"
+  },
+  {
+    "title": "Organisational Change Analyst - 10 Month Fixed Term",
+    "company": "Datacom Connect",
+    "url": "https://au.indeed.com/viewjob?jk=8dfa5889d96fcf36",
+    "scraped_at": "2026-07-01T04:42:29.188144"
   }
 ]
