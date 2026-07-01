@@ -1,23 +1,5 @@
 [
   {
-    "title": "Quality Analyst Automation",
-    "company": "Medibank",
-    "url": "https://au.indeed.com/viewjob?jk=9a4fb6b705ff3643",
-    "scraped_at": "2026-02-23T13:23:04.276313"
-  },
-  {
-    "title": "Electorate Officer - Grade 2 (Rachel Payne)",
-    "company": "Parliament of Victoria",
-    "url": "https://au.indeed.com/viewjob?jk=62f6e0fc9a751f82",
-    "scraped_at": "2026-02-23T13:23:04.279891"
-  },
-  {
-    "title": "Administration Officer- Mount Isa",
-    "company": "Centacare North Queensland",
-    "url": "https://au.indeed.com/viewjob?jk=856a0fe9edc7983c",
-    "scraped_at": "2026-02-23T20:55:27.288418"
-  },
-  {
     "title": "Swim Teacher",
     "company": "Belgravia Health & Leisure Group Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=12fbc1e3f4cf70d7",
@@ -5998,5 +5980,23 @@
     "company": "Datacom Connect",
     "url": "https://au.indeed.com/viewjob?jk=8dfa5889d96fcf36",
     "scraped_at": "2026-07-01T04:42:29.188144"
+  },
+  {
+    "title": "Software Engineer (IFS Could)",
+    "company": "InfoConsulting",
+    "url": "https://au.indeed.com/viewjob?jk=f310d67466b33633",
+    "scraped_at": "2026-07-01T11:30:32.365113"
+  },
+  {
+    "title": "Systems Engineer",
+    "company": "Tecala",
+    "url": "https://au.indeed.com/viewjob?jk=8062b435c8746a0c",
+    "scraped_at": "2026-07-01T11:30:32.397022"
+  },
+  {
+    "title": "Governance Analyst",
+    "company": "Coles Group",
+    "url": "https://au.indeed.com/viewjob?jk=b7f3d38b8811d06e",
+    "scraped_at": "2026-07-01T11:30:32.425345"
   }
 ]
