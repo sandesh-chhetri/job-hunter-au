@@ -1,17 +1,5 @@
 [
   {
-    "title": "Swim Teacher",
-    "company": "Belgravia Health & Leisure Group Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=12fbc1e3f4cf70d7",
-    "scraped_at": "2026-02-23T20:55:27.298080"
-  },
-  {
-    "title": "Pricing Implementation Analyst",
-    "company": "QBE",
-    "url": "https://au.indeed.com/viewjob?jk=152d7ad98d3381a4",
-    "scraped_at": "2026-02-24T02:48:07.360254"
-  },
-  {
     "title": "Space Imagery Analyst",
     "company": "heo",
     "url": "https://au.indeed.com/viewjob?jk=950f62b448f57710",
@@ -5998,5 +5986,17 @@
     "company": "Coles Group",
     "url": "https://au.indeed.com/viewjob?jk=b7f3d38b8811d06e",
     "scraped_at": "2026-07-01T11:30:32.425345"
+  },
+  {
+    "title": "E&S Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=d57806f43b8db3cc",
+    "scraped_at": "2026-07-01T18:04:59.925141"
+  },
+  {
+    "title": "Software Engineer (IFS Could)",
+    "company": "InfoConsulting Group",
+    "url": "https://au.indeed.com/viewjob?jk=2f3f74aecf8b7aab",
+    "scraped_at": "2026-07-01T18:04:59.953578"
   }
 ]
