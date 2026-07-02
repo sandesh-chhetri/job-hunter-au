@@ -1,29 +1,5 @@
 [
   {
-    "title": "Member Care Consultant",
-    "company": "HCF (Australia)",
-    "url": "https://au.indeed.com/viewjob?jk=b0654220f850fda0",
-    "scraped_at": "2026-02-25T02:49:19.663723"
-  },
-  {
-    "title": "Cook",
-    "company": "UPA Aged Care Solutions",
-    "url": "https://au.indeed.com/viewjob?jk=2d92439102cd4709",
-    "scraped_at": "2026-02-25T05:26:44.951653"
-  },
-  {
-    "title": "Quantitative Software Engineer",
-    "company": "Avid Collective",
-    "url": "https://au.indeed.com/viewjob?jk=f5b0c3aa81af1a4d",
-    "scraped_at": "2026-02-25T05:26:44.981070"
-  },
-  {
-    "title": "Customer Service Representative",
-    "company": "Alinta Energy",
-    "url": "https://au.indeed.com/viewjob?jk=5607f8d48327a77d",
-    "scraped_at": "2026-02-25T05:26:44.983570"
-  },
-  {
     "title": "Network Availability Officer",
     "company": "CitiPower and Powercor",
     "url": "https://au.indeed.com/viewjob?jk=95f7550847b56df0",
@@ -5998,5 +5974,29 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=b6b1bfbb8fd01289",
     "scraped_at": "2026-07-02T14:21:05.280446"
+  },
+  {
+    "title": "Production Support Analyst - Payments (Officer)",
+    "company": "Citi",
+    "url": "https://au.indeed.com/viewjob?jk=98cfec73931846c8",
+    "scraped_at": "2026-07-02T17:58:10.357777"
+  },
+  {
+    "title": "Production Support Analyst - Payments (Officer)",
+    "company": "Citi",
+    "url": "https://au.indeed.com/viewjob?jk=4e2922af08b4e419",
+    "scraped_at": "2026-07-02T17:58:10.358387"
+  },
+  {
+    "title": "Production Support Analyst - Payments (Officer)",
+    "company": "Citi",
+    "url": "https://au.indeed.com/viewjob?jk=cec3a33d55d5e92b",
+    "scraped_at": "2026-07-02T17:58:10.358960"
+  },
+  {
+    "title": "Product Owner",
+    "company": "ELMO Software",
+    "url": "https://au.indeed.com/viewjob?jk=f8f85483e0e5623d",
+    "scraped_at": "2026-07-02T17:58:10.425259"
   }
 ]
