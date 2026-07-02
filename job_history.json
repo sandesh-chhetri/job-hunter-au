@@ -1,11 +1,5 @@
 [
   {
-    "title": "Network Availability Officer",
-    "company": "CitiPower and Powercor",
-    "url": "https://au.indeed.com/viewjob?jk=95f7550847b56df0",
-    "scraped_at": "2026-02-25T09:00:11.561609"
-  },
-  {
     "title": "Registered Nurses (multiple opportunities)",
     "company": "SA Health",
     "url": "https://au.indeed.com/viewjob?jk=53987e440a98f7e6",
@@ -5998,5 +5992,11 @@
     "company": "ELMO Software",
     "url": "https://au.indeed.com/viewjob?jk=f8f85483e0e5623d",
     "scraped_at": "2026-07-02T17:58:10.425259"
+  },
+  {
+    "title": "IT Operations Analyst",
+    "company": "Stake",
+    "url": "https://au.indeed.com/viewjob?jk=394761c2ef353261",
+    "scraped_at": "2026-07-02T21:17:03.671410"
   }
 ]
