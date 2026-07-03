@@ -1,17 +1,5 @@
 [
   {
-    "title": "Registered Nurses (multiple opportunities)",
-    "company": "SA Health",
-    "url": "https://au.indeed.com/viewjob?jk=53987e440a98f7e6",
-    "scraped_at": "2026-02-25T13:24:02.658765"
-  },
-  {
-    "title": "Station Assistant (Guard) - Normanton",
-    "company": "Queensland Rail",
-    "url": "https://au.indeed.com/viewjob?jk=30389c9757cb5242",
-    "scraped_at": "2026-02-25T13:24:02.675570"
-  },
-  {
     "title": "Unity Developer",
     "company": "Digital Native",
     "url": "https://au.indeed.com/viewjob?jk=56b38ba7d492502a",
@@ -5998,5 +5986,17 @@
     "company": "Stake",
     "url": "https://au.indeed.com/viewjob?jk=394761c2ef353261",
     "scraped_at": "2026-07-02T21:17:03.671410"
+  },
+  {
+    "title": "Harness Integrity Administration Officer",
+    "company": "Racing and Wagering Western Australia",
+    "url": "https://au.indeed.com/viewjob?jk=6374b4e4cac6345c",
+    "scraped_at": "2026-07-03T03:55:52.819983"
+  },
+  {
+    "title": "Executive (Data analyst)",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=456ad30030627a89",
+    "scraped_at": "2026-07-03T03:55:52.872531"
   }
 ]
