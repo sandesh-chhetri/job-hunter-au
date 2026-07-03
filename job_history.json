@@ -1,23 +1,5 @@
 [
   {
-    "title": "Payroll Officer - NZ",
-    "company": "Australian Venue Co.",
-    "url": "https://au.indeed.com/viewjob?jk=471ade3fc6bcc591",
-    "scraped_at": "2026-02-26T05:23:25.447682"
-  },
-  {
-    "title": "Management Effectiveness Officer",
-    "company": "Parks Victoria",
-    "url": "https://au.indeed.com/viewjob?jk=8f1bced5222aa85b",
-    "scraped_at": "2026-02-26T08:58:58.363801"
-  },
-  {
-    "title": "Access, Enquiry & Operations Support Officer",
-    "company": "genu",
-    "url": "https://au.indeed.com/viewjob?jk=065fc1014c48962e",
-    "scraped_at": "2026-02-26T08:58:58.364047"
-  },
-  {
     "title": "Registered Nurse Scrub Scout",
     "company": "St Vincent\u2019s Health Australia",
     "url": "https://au.indeed.com/viewjob?jk=747c1cc4655bf76d",
@@ -5998,5 +5980,23 @@
     "company": "Dnata",
     "url": "https://au.indeed.com/viewjob?jk=bdd139b1c9e6e0da",
     "scraped_at": "2026-07-03T07:30:55.090765"
+  },
+  {
+    "title": "Technology DEVOPS Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=957f6b0ad637ad05",
+    "scraped_at": "2026-07-03T14:25:13.585776"
+  },
+  {
+    "title": "System & Security Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=2bb84d36f3fbd320",
+    "scraped_at": "2026-07-03T14:25:13.614278"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=b97549c41f6fa844",
+    "scraped_at": "2026-07-03T14:25:13.614716"
   }
 ]
