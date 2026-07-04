@@ -1,11 +1,5 @@
 [
   {
-    "title": "Registered Nurse Scrub Scout",
-    "company": "St Vincent\u2019s Health Australia",
-    "url": "https://au.indeed.com/viewjob?jk=747c1cc4655bf76d",
-    "scraped_at": "2026-02-26T08:58:58.369481"
-  },
-  {
     "title": "Warehouse Officer",
     "company": "South32",
     "url": "https://au.indeed.com/viewjob?jk=4ca4038aa8042c00",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=b97549c41f6fa844",
     "scraped_at": "2026-07-03T14:25:13.614716"
+  },
+  {
+    "title": "System Administrator (Infrastructure) \u2013 Linux & VMware",
+    "company": "Dipole Group",
+    "url": "https://au.indeed.com/viewjob?jk=b2019060b9028fc2",
+    "scraped_at": "2026-07-04T03:49:32.791521"
   }
 ]
