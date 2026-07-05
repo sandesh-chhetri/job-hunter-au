@@ -1,11 +1,5 @@
 [
   {
-    "title": "DevOps Administrator",
-    "company": "Haileybury Rendall School",
-    "url": "https://au.indeed.com/viewjob?jk=f1f0d842e3bd389d",
-    "scraped_at": "2026-02-26T08:58:58.392995"
-  },
-  {
     "title": "Business Support Administrator",
     "company": "syc",
     "url": "https://au.indeed.com/viewjob?jk=87e9c33579000d0b",
@@ -5998,5 +5992,11 @@
     "company": "Employment Hero",
     "url": "https://au.indeed.com/viewjob?jk=a71ee17a8647a17f",
     "scraped_at": "2026-07-05T10:24:56.732337"
+  },
+  {
+    "title": "Strategic Service Designer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=09f3c8fd57c26f4a",
+    "scraped_at": "2026-07-05T17:20:33.383480"
   }
 ]
