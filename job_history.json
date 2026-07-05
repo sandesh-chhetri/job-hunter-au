@@ -1,11 +1,5 @@
 [
   {
-    "title": "Warehouse Officer",
-    "company": "South32",
-    "url": "https://au.indeed.com/viewjob?jk=4ca4038aa8042c00",
-    "scraped_at": "2026-02-26T08:58:58.384713"
-  },
-  {
     "title": "DevOps Administrator",
     "company": "Haileybury Rendall School",
     "url": "https://au.indeed.com/viewjob?jk=f1f0d842e3bd389d",
@@ -5998,5 +5992,11 @@
     "company": "Dipole Group",
     "url": "https://au.indeed.com/viewjob?jk=b2019060b9028fc2",
     "scraped_at": "2026-07-04T03:49:32.791521"
+  },
+  {
+    "title": "Program Support Officer - Remote",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=a71ee17a8647a17f",
+    "scraped_at": "2026-07-05T10:24:56.732337"
   }
 ]
