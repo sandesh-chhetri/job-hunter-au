@@ -1,11 +1,5 @@
 [
   {
-    "title": "Business Support Administrator",
-    "company": "syc",
-    "url": "https://au.indeed.com/viewjob?jk=87e9c33579000d0b",
-    "scraped_at": "2026-02-26T20:49:25.798406"
-  },
-  {
     "title": "AI Trainer \u2013 Visual & Graphic Design Expert",
     "company": "Prolific",
     "url": "https://au.indeed.com/viewjob?jk=f2a64025d9c2cc19",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=09f3c8fd57c26f4a",
     "scraped_at": "2026-07-05T17:20:33.383480"
+  },
+  {
+    "title": "Customer Service Officer",
+    "company": "NT Government - Department of Logistics and Infrastructure",
+    "url": "https://au.indeed.com/viewjob?jk=846412ed7eac4459",
+    "scraped_at": "2026-07-05T21:10:56.749812"
   }
 ]
