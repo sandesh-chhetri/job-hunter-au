@@ -1,17 +1,5 @@
 [
   {
-    "title": "AI Trainer \u2013 Visual & Graphic Design Expert",
-    "company": "Prolific",
-    "url": "https://au.indeed.com/viewjob?jk=f2a64025d9c2cc19",
-    "scraped_at": "2026-02-26T20:49:25.813564"
-  },
-  {
-    "title": "Registered Nurse, Anaesthetics/Recovery",
-    "company": "St Vincent\u2019s Health Australia",
-    "url": "https://au.indeed.com/viewjob?jk=8507a68ff6d593b0",
-    "scraped_at": "2026-02-27T02:42:50.791148"
-  },
-  {
     "title": "Registered Nurse - Anaesthetics/Recovery",
     "company": "St Vincent\u2019s Health Australia",
     "url": "https://au.indeed.com/viewjob?jk=184a32ae8150e6f5",
@@ -5998,5 +5986,17 @@
     "company": "NT Government - Department of Logistics and Infrastructure",
     "url": "https://au.indeed.com/viewjob?jk=846412ed7eac4459",
     "scraped_at": "2026-07-05T21:10:56.749812"
+  },
+  {
+    "title": "Maintenance Services Officer",
+    "company": "CitiPower and Powercor",
+    "url": "https://au.indeed.com/viewjob?jk=93d8b92716c5f049",
+    "scraped_at": "2026-07-06T04:14:54.250423"
+  },
+  {
+    "title": "Service Engineer- Cloud Networks",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=85edba50507b2342",
+    "scraped_at": "2026-07-06T04:14:54.265598"
   }
 ]
