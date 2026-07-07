@@ -1,11 +1,5 @@
 [
   {
-    "title": "Payroll Officer - NZ",
-    "company": "Australian Venue Co.",
-    "url": "https://au.indeed.com/viewjob?jk=6c4c123373401ba8",
-    "scraped_at": "2026-02-27T05:18:19.322371"
-  },
-  {
     "title": "Application Developer",
     "company": "Victorian Managed Insurance Authority",
     "url": "https://au.indeed.com/viewjob?jk=1e300f541cfd14cf",
@@ -5998,5 +5992,11 @@
     "company": "FORWOOD SAFETY",
     "url": "https://au.indeed.com/viewjob?jk=3461e12648ff057d",
     "scraped_at": "2026-07-06T18:16:23.686623"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Genesys Electronics Design",
+    "url": "https://au.indeed.com/viewjob?jk=409db64d1c4b74b6",
+    "scraped_at": "2026-07-07T04:04:35.873879"
   }
 ]
