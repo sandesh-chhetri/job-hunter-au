@@ -1,11 +1,5 @@
 [
   {
-    "title": "Nurse Navigator - Paediatric Health 0-5 years (Cairns)",
-    "company": "Queensland Government",
-    "url": "https://au.indeed.com/viewjob?jk=a1679344c5c9af1a",
-    "scraped_at": "2026-02-27T13:16:02.528215"
-  },
-  {
     "title": "Aged Care Services Program Officer",
     "company": "SpectrumVic",
     "url": "https://au.indeed.com/viewjob?jk=79348d362a14c34b",
@@ -5998,5 +5992,11 @@
     "company": "Capgemini",
     "url": "https://au.indeed.com/viewjob?jk=65f5b571e113246f",
     "scraped_at": "2026-07-07T11:16:06.559100"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=4e4b94df9ee84363",
+    "scraped_at": "2026-07-07T14:53:34.886053"
   }
 ]
