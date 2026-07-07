@@ -1,11 +1,5 @@
 [
   {
-    "title": "Application Developer",
-    "company": "Victorian Managed Insurance Authority",
-    "url": "https://au.indeed.com/viewjob?jk=1e300f541cfd14cf",
-    "scraped_at": "2026-02-27T08:53:18.951896"
-  },
-  {
     "title": "Nurse Navigator - Paediatric Health 0-5 years (Cairns)",
     "company": "Queensland Government",
     "url": "https://au.indeed.com/viewjob?jk=a1679344c5c9af1a",
@@ -5998,5 +5992,11 @@
     "company": "Genesys Electronics Design",
     "url": "https://au.indeed.com/viewjob?jk=409db64d1c4b74b6",
     "scraped_at": "2026-07-07T04:04:35.873879"
+  },
+  {
+    "title": "AWS & Azure Multi Cloud Architect",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=65f5b571e113246f",
+    "scraped_at": "2026-07-07T11:16:06.559100"
   }
 ]
