@@ -1,29 +1,5 @@
 [
   {
-    "title": "UPS Support Coordinator",
-    "company": "Eaton",
-    "url": "https://au.indeed.com/viewjob?jk=50792b643200e292",
-    "scraped_at": "2026-02-27T16:51:04.522573"
-  },
-  {
-    "title": "Corporate Actions Analyst",
-    "company": "Vanguard",
-    "url": "https://au.indeed.com/viewjob?jk=e3cb9aea26a62ed9",
-    "scraped_at": "2026-02-28T02:31:19.909488"
-  },
-  {
-    "title": "AI Model Engineer",
-    "company": "Cadence Connect",
-    "url": "https://au.indeed.com/viewjob?jk=4af40c534d207422",
-    "scraped_at": "2026-02-28T02:31:19.910099"
-  },
-  {
-    "title": "Data Platforms Business Analyst",
-    "company": "Vanguard",
-    "url": "https://au.indeed.com/viewjob?jk=0b2cad9f331973a9",
-    "scraped_at": "2026-02-28T02:31:19.910822"
-  },
-  {
     "title": "Business Analyst",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=4fe14b152c602ab8",
@@ -5998,5 +5974,29 @@
     "company": "Centorrino Technologies",
     "url": "https://au.indeed.com/viewjob?jk=82822be3a6be6fbe",
     "scraped_at": "2026-07-08T03:31:01.799087"
+  },
+  {
+    "title": "Assessment Services Consultant",
+    "company": "MEGT Australia Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=16b5d6b8c5449fd8",
+    "scraped_at": "2026-07-08T10:26:40.260265"
+  },
+  {
+    "title": "Technical Field Engineer (QLD)",
+    "company": "St Vincent\u2019s Health Australia",
+    "url": "https://au.indeed.com/viewjob?jk=9196bd752a8246cd",
+    "scraped_at": "2026-07-08T10:26:40.275115"
+  },
+  {
+    "title": "Technical Field Engineer (VIC)",
+    "company": "St Vincent\u2019s Health Australia",
+    "url": "https://au.indeed.com/viewjob?jk=186da202b7421cf5",
+    "scraped_at": "2026-07-08T10:26:40.275545"
+  },
+  {
+    "title": "Finance Analyst - Hybrid",
+    "company": "Australia Pacific Airports Melbourne",
+    "url": "https://au.indeed.com/viewjob?jk=777d80f20ab969e3",
+    "scraped_at": "2026-07-08T10:26:40.300062"
   }
 ]
