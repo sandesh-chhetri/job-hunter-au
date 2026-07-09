@@ -1,35 +1,5 @@
 [
   {
-    "title": "Store Person",
-    "company": "Building Systems Group",
-    "url": "https://au.indeed.com/viewjob?jk=468ea90fb09a8928",
-    "scraped_at": "2026-03-03T02:48:13.880224"
-  },
-  {
-    "title": "Rates and Utilities Billing Officer",
-    "company": "Maranoa Regional Council",
-    "url": "https://au.indeed.com/viewjob?jk=1d23cec294a4189e",
-    "scraped_at": "2026-03-03T05:17:55.800999"
-  },
-  {
-    "title": "Library Officer",
-    "company": "Maranoa Regional Council",
-    "url": "https://au.indeed.com/viewjob?jk=c2c16b11ddc074f9",
-    "scraped_at": "2026-03-03T05:17:55.801196"
-  },
-  {
-    "title": "Rural Land Services Officer",
-    "company": "Maranoa Regional Council",
-    "url": "https://au.indeed.com/viewjob?jk=73a6efd29f4652bb",
-    "scraped_at": "2026-03-03T05:17:55.821257"
-  },
-  {
-    "title": "Communication Officer, Multimedia",
-    "company": "Victorian Electoral Commission",
-    "url": "https://au.indeed.com/viewjob?jk=fd6e00167f14a89f",
-    "scraped_at": "2026-03-03T08:54:29.566515"
-  },
-  {
     "title": "PMO Analyst",
     "company": "Dnata",
     "url": "https://au.indeed.com/viewjob?jk=986b1f22de220f82",
@@ -5998,5 +5968,35 @@
     "company": "SAMI bitumen technologies",
     "url": "https://au.indeed.com/viewjob?jk=b5935ef5b9d664d4",
     "scraped_at": "2026-07-09T04:08:18.705458"
+  },
+  {
+    "title": "Technical Field Engineer",
+    "company": "St Vincent\u2019s Health Australia",
+    "url": "https://au.indeed.com/viewjob?jk=be15a4b95b15477b",
+    "scraped_at": "2026-07-09T07:48:48.272900"
+  },
+  {
+    "title": "Technical Field Engineer",
+    "company": "St Vincent\u2019s Health Australia",
+    "url": "https://au.indeed.com/viewjob?jk=9070385c5d744b85",
+    "scraped_at": "2026-07-09T07:48:48.273518"
+  },
+  {
+    "title": "Technical Field Engineer (Max-term)",
+    "company": "St Vincent\u2019s Health Australia",
+    "url": "https://au.indeed.com/viewjob?jk=56a6d4df9eeee144",
+    "scraped_at": "2026-07-09T07:48:48.274136"
+  },
+  {
+    "title": "Technical Field Engineer",
+    "company": "St Vincent\u2019s Health Australia",
+    "url": "https://au.indeed.com/viewjob?jk=82a453f381954441",
+    "scraped_at": "2026-07-09T07:48:48.274740"
+  },
+  {
+    "title": "Full Stack Software Engineer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=e6c1038ac386dbf4",
+    "scraped_at": "2026-07-09T07:48:48.333678"
   }
 ]
