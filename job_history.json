@@ -1,47 +1,5 @@
 [
   {
-    "title": "PMO Analyst",
-    "company": "Dnata",
-    "url": "https://au.indeed.com/viewjob?jk=1ccbd74fb2031acf",
-    "scraped_at": "2026-03-02T02:45:35.674399"
-  },
-  {
-    "title": "Network Engineer",
-    "company": "Transurban",
-    "url": "https://au.indeed.com/viewjob?jk=41c386ded670ec76",
-    "scraped_at": "2026-03-02T02:45:35.684748"
-  },
-  {
-    "title": "Junior Platform Security Engineer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=c3046445ff04fb1b",
-    "scraped_at": "2026-03-02T05:18:47.146490"
-  },
-  {
-    "title": "Assistant Electorate Officer - Callide Electorate",
-    "company": "Queensland Government",
-    "url": "https://au.indeed.com/viewjob?jk=7a2ca39b3bd5f978",
-    "scraped_at": "2026-03-02T13:17:02.135366"
-  },
-  {
-    "title": "Test Analyst (QA Analyst / Software Test Engineer)",
-    "company": "DacryMail Systems Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=549e28b144a85b9d",
-    "scraped_at": "2026-03-02T16:59:17.166411"
-  },
-  {
-    "title": "Storesperson",
-    "company": "Dnata",
-    "url": "https://au.indeed.com/viewjob?jk=1e6317805e38b42b",
-    "scraped_at": "2026-03-02T20:46:00.604440"
-  },
-  {
-    "title": "Delivery Driver/Storeman",
-    "company": "Capral Aluminium",
-    "url": "https://au.indeed.com/viewjob?jk=4190e584b6010aea",
-    "scraped_at": "2026-03-03T02:48:13.879959"
-  },
-  {
     "title": "Store Person",
     "company": "Building Systems Group",
     "url": "https://au.indeed.com/viewjob?jk=468ea90fb09a8928",
@@ -5998,5 +5956,47 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=e2a6036066181645",
     "scraped_at": "2026-07-08T21:16:59.479244"
+  },
+  {
+    "title": "Response Services Administration Officer",
+    "company": "Sunshine Coast Regional Council",
+    "url": "https://au.indeed.com/viewjob?jk=ee82601637a31c52",
+    "scraped_at": "2026-07-09T04:08:18.652830"
+  },
+  {
+    "title": "Derivative Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=7c62594cdfe56916",
+    "scraped_at": "2026-07-09T04:08:18.654569"
+  },
+  {
+    "title": "IT Help Desk Technician",
+    "company": "Consolidated Minerals",
+    "url": "https://au.indeed.com/viewjob?jk=923dd909265df441",
+    "scraped_at": "2026-07-09T04:08:18.658851"
+  },
+  {
+    "title": "Registered Nurse (Anaesthetics) - St Vincent\u2019s Hospital, Sydney",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=e8609155497c2ab8",
+    "scraped_at": "2026-07-09T04:08:18.677990"
+  },
+  {
+    "title": "Specialist Pharmacist \u2013 Investigational Drugs - Pharmacy, St Vincent's Public Hospital Sydney",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=f1e754f3c7770073",
+    "scraped_at": "2026-07-09T04:08:18.678782"
+  },
+  {
+    "title": "Quality Engineer",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=3e1710eef6a2dd58",
+    "scraped_at": "2026-07-09T04:08:18.704595"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "SAMI bitumen technologies",
+    "url": "https://au.indeed.com/viewjob?jk=b5935ef5b9d664d4",
+    "scraped_at": "2026-07-09T04:08:18.705458"
   }
 ]
