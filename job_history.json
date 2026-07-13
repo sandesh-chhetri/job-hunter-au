@@ -1,11 +1,5 @@
 [
   {
-    "title": "Receptionist/Administrator",
-    "company": "neighbourhood electrical",
-    "url": "https://au.indeed.com/viewjob?jk=41d6bd459ff683e0",
-    "scraped_at": "2026-03-04T08:51:57.575034"
-  },
-  {
     "title": "Product Analyst - Payments and Deposits (Consumer Deposits)",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=9903dd1d306adc81",
@@ -5998,5 +5992,11 @@
     "company": "vicentia",
     "url": "https://au.indeed.com/viewjob?jk=3a8941970bc4ef7b",
     "scraped_at": "2026-07-13T07:29:51.765879"
+  },
+  {
+    "title": "Tunnel MVAC Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=f73745e9cdaa79cb",
+    "scraped_at": "2026-07-13T11:21:42.906955"
   }
 ]
