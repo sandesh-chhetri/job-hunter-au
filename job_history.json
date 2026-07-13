@@ -1,11 +1,5 @@
 [
   {
-    "title": "Product Analyst - Payments and Deposits (Consumer Deposits)",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=9903dd1d306adc81",
-    "scraped_at": "2026-03-04T08:51:57.579392"
-  },
-  {
     "title": "Customer Service Officer",
     "company": "Parliament of Victoria",
     "url": "https://au.indeed.com/viewjob?jk=f34ebf81eac04642",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=f73745e9cdaa79cb",
     "scraped_at": "2026-07-13T11:21:42.906955"
+  },
+  {
+    "title": "Guest Service Agent",
+    "company": "Marriott International",
+    "url": "https://au.indeed.com/viewjob?jk=b71bbba59f059dc0",
+    "scraped_at": "2026-07-13T14:51:43.750350"
   }
 ]
