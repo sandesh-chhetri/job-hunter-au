@@ -1,17 +1,5 @@
 [
   {
-    "title": "Business Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=2a30a3a71c7bcca4",
-    "scraped_at": "2026-03-04T05:12:22.929829"
-  },
-  {
-    "title": "Program Support Officer",
-    "company": "The Royal Australian College of General Practitioners (RACGP)",
-    "url": "https://au.indeed.com/viewjob?jk=f9f30d7ec93c136c",
-    "scraped_at": "2026-03-04T08:51:57.552081"
-  },
-  {
     "title": "Receptionist/Administrator",
     "company": "neighbourhood electrical",
     "url": "https://au.indeed.com/viewjob?jk=41d6bd459ff683e0",
@@ -5998,5 +5986,17 @@
     "company": "Recoveriescorp",
     "url": "https://au.indeed.com/viewjob?jk=72181cc9f5d03efd",
     "scraped_at": "2026-07-12T20:59:48.929134"
+  },
+  {
+    "title": "Brigade Admin Support Officer",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=7ea22d43d87a29ac",
+    "scraped_at": "2026-07-13T07:29:51.749522"
+  },
+  {
+    "title": "Technical Field Officer",
+    "company": "vicentia",
+    "url": "https://au.indeed.com/viewjob?jk=3a8941970bc4ef7b",
+    "scraped_at": "2026-07-13T07:29:51.765879"
   }
 ]
