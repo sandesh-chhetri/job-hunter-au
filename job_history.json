@@ -1,29 +1,5 @@
 [
   {
-    "title": "Clinical Technician - CPAP",
-    "company": "NT Health",
-    "url": "https://au.indeed.com/viewjob?jk=f3e6aed094611d53",
-    "scraped_at": "2026-03-04T20:40:36.360113"
-  },
-  {
-    "title": "Kitchen Hand",
-    "company": "Green Leaves Early Learning Centres",
-    "url": "https://au.indeed.com/viewjob?jk=557070c216f78849",
-    "scraped_at": "2026-03-04T20:40:36.361526"
-  },
-  {
-    "title": "Scrub Scout Registered Nurse",
-    "company": "St Vincent\u2019s Health Australia",
-    "url": "https://au.indeed.com/viewjob?jk=e91aae76079a2f62",
-    "scraped_at": "2026-03-05T02:43:54.254694"
-  },
-  {
-    "title": "IT Trainer - Business Systems (SAP & Microsoft 365)",
-    "company": "Capral Aluminium",
-    "url": "https://au.indeed.com/viewjob?jk=f601d6682c5d136d",
-    "scraped_at": "2026-03-05T02:43:54.259100"
-  },
-  {
     "title": "Allied Health - Health Practitioner Cadet (Identified) (Cairns, Cooktown, Thursday Island, or Weipa)",
     "company": "Queensland Government",
     "url": "https://au.indeed.com/viewjob?jk=b110b45f1e6e809d",
@@ -5998,5 +5974,29 @@
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=236ee1d9323114ad",
     "scraped_at": "2026-07-14T06:18:57.888178"
+  },
+  {
+    "title": "IFS Finance Consultant",
+    "company": "InfoConsulting",
+    "url": "https://au.indeed.com/viewjob?jk=6c960bc6ac0c766b",
+    "scraped_at": "2026-07-14T10:05:52.827869"
+  },
+  {
+    "title": "IFS Project & Finance Consultant",
+    "company": "InfoConsulting",
+    "url": "https://au.indeed.com/viewjob?jk=ad7dcda92ef960c0",
+    "scraped_at": "2026-07-14T10:05:52.828844"
+  },
+  {
+    "title": "Network Administrator",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=1ea153c40843fc3a",
+    "scraped_at": "2026-07-14T10:05:52.843465"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=efef504a4e32db64",
+    "scraped_at": "2026-07-14T10:05:52.911460"
   }
 ]
