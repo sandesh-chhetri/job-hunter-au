@@ -1,23 +1,5 @@
 [
   {
-    "title": "Technical Support Analyst (TechNet)",
-    "company": "IPC International",
-    "url": "https://au.indeed.com/viewjob?jk=b772bb7fc1227afc",
-    "scraped_at": "2026-03-04T13:14:42.754434"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=2ba01a84e4efffb0",
-    "scraped_at": "2026-03-04T13:14:42.780336"
-  },
-  {
-    "title": "Election Administration Officer",
-    "company": "Parliament of Victoria",
-    "url": "https://au.indeed.com/viewjob?jk=68ed9955f7a218f8",
-    "scraped_at": "2026-03-04T13:14:42.782587"
-  },
-  {
     "title": "Customer Service Officer",
     "company": "Parliament of Victoria",
     "url": "https://au.indeed.com/viewjob?jk=074cced4c09c0fc0",
@@ -5998,5 +5980,23 @@
     "company": "NT Government - Department of Corporate and Digital Development",
     "url": "https://au.indeed.com/viewjob?jk=616cac01107946d8",
     "scraped_at": "2026-07-13T18:00:51.804260"
+  },
+  {
+    "title": "Remote Technology Support Specialist",
+    "company": "Konica Minolta",
+    "url": "https://au.indeed.com/viewjob?jk=895db8161b0750bc",
+    "scraped_at": "2026-07-14T03:15:03.120497"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=aa37e337884e3496",
+    "scraped_at": "2026-07-14T03:15:03.197400"
+  },
+  {
+    "title": "Python Developer",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=28575c73492cf8c1",
+    "scraped_at": "2026-07-14T03:15:03.202717"
   }
 ]
