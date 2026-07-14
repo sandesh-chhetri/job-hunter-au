@@ -1,17 +1,5 @@
 [
   {
-    "title": "Customer Service Officer",
-    "company": "Parliament of Victoria",
-    "url": "https://au.indeed.com/viewjob?jk=074cced4c09c0fc0",
-    "scraped_at": "2026-03-04T13:14:42.782754"
-  },
-  {
-    "title": "E-Commerce Fraud Officer",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=2e85ae0fc9dbbc5d",
-    "scraped_at": "2026-03-04T20:40:36.352598"
-  },
-  {
     "title": "Clinical Technician - CPAP",
     "company": "NT Health",
     "url": "https://au.indeed.com/viewjob?jk=f3e6aed094611d53",
@@ -5998,5 +5986,17 @@
     "company": "Duxxel",
     "url": "https://au.indeed.com/viewjob?jk=28575c73492cf8c1",
     "scraped_at": "2026-07-14T03:15:03.202717"
+  },
+  {
+    "title": "Care Partner - Aged Care",
+    "company": "Australian Unity",
+    "url": "https://au.indeed.com/viewjob?jk=06b6ed74d70f98a5",
+    "scraped_at": "2026-07-14T06:18:57.858136"
+  },
+  {
+    "title": "Regulatory Intelligence Analyst",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=236ee1d9323114ad",
+    "scraped_at": "2026-07-14T06:18:57.888178"
   }
 ]
