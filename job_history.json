@@ -1,11 +1,5 @@
 [
   {
-    "title": "Rating",
-    "company": "Svitzer",
-    "url": "https://au.indeed.com/viewjob?jk=f05dd2126fd5c513",
-    "scraped_at": "2026-03-06T08:50:50.261273"
-  },
-  {
     "title": "Program Officer",
     "company": "Country Fire Authority",
     "url": "https://au.indeed.com/viewjob?jk=be817f5eabd3760d",
@@ -5998,5 +5992,11 @@
     "company": "Reserve Bank of Australia",
     "url": "https://au.indeed.com/viewjob?jk=5d41773467c241fc",
     "scraped_at": "2026-07-15T13:57:45.669593"
+  },
+  {
+    "title": "Program Administrator",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=6752e67415ac5d72",
+    "scraped_at": "2026-07-15T17:24:28.183324"
   }
 ]
