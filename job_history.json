@@ -1,59 +1,5 @@
 [
   {
-    "title": "Assistant Engineer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=8e0a52c7a0639346",
-    "scraped_at": "2026-03-05T05:15:49.316047"
-  },
-  {
-    "title": "Technical Support Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=c1985757b96410ea",
-    "scraped_at": "2026-03-05T08:55:48.240238"
-  },
-  {
-    "title": "Intake and Triage Officer",
-    "company": "Department of Justice and Community Safety",
-    "url": "https://au.indeed.com/viewjob?jk=5c0b90ab65fa08b7",
-    "scraped_at": "2026-03-05T08:55:48.262491"
-  },
-  {
-    "title": "Product Analyst",
-    "company": "Auto & General Insurance",
-    "url": "https://au.indeed.com/viewjob?jk=b1de3fc89c1da53e",
-    "scraped_at": "2026-03-05T13:18:13.231419"
-  },
-  {
-    "title": "Front-end Engineer (React)",
-    "company": "Fetch Pet",
-    "url": "https://au.indeed.com/viewjob?jk=33dcc3bb85e945c1",
-    "scraped_at": "2026-03-05T13:18:13.241622"
-  },
-  {
-    "title": "AI Growth Engineer (Acquisition)",
-    "company": "Fetch Pet",
-    "url": "https://au.indeed.com/viewjob?jk=11f402f02e50f42c",
-    "scraped_at": "2026-03-05T13:18:13.243610"
-  },
-  {
-    "title": "Help Desk Support",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=ab5fcda0fc8eb71d",
-    "scraped_at": "2026-03-06T02:41:43.734842"
-  },
-  {
-    "title": "Analyst",
-    "company": "Commonwealth Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=271482f54d89fb07",
-    "scraped_at": "2026-03-06T02:41:43.761111"
-  },
-  {
-    "title": "Youth Engagement Practitioner (casual pool)",
-    "company": "Anglicare Victoria",
-    "url": "https://au.indeed.com/viewjob?jk=5bddb6e2a0bf018a",
-    "scraped_at": "2026-03-06T05:13:35.309470"
-  },
-  {
     "title": "Administration Officer",
     "company": "Allcredit",
     "url": "https://au.indeed.com/viewjob?jk=7782ab6cb1225540",
@@ -5998,5 +5944,59 @@
     "company": "Water Corporation",
     "url": "https://au.indeed.com/viewjob?jk=f5dae5c58d6a0120",
     "scraped_at": "2026-07-14T14:01:48.817737"
+  },
+  {
+    "title": "District Support Officer",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=83aa474ef62c80a2",
+    "scraped_at": "2026-07-15T06:22:13.176729"
+  },
+  {
+    "title": "Cybersecurity DevOps Engineer - 12 Months Fixed Term",
+    "company": "Datacom Connect",
+    "url": "https://au.indeed.com/viewjob?jk=0107cf68dba05fdd",
+    "scraped_at": "2026-07-15T06:22:13.227337"
+  },
+  {
+    "title": "Cybersecurity DevOps Engineer - 12 Months Fixed Term",
+    "company": "Datacom Connect",
+    "url": "https://au.indeed.com/viewjob?jk=5debc7d5bae5ec4e",
+    "scraped_at": "2026-07-15T06:22:13.228166"
+  },
+  {
+    "title": "Cybersecurity DevOps Engineer - 12 Months Fixed Term",
+    "company": "Datacom Connect",
+    "url": "https://au.indeed.com/viewjob?jk=36bbe895aa430613",
+    "scraped_at": "2026-07-15T06:22:13.228973"
+  },
+  {
+    "title": "Cybersecurity DevOps Engineer - 12 Months Fixed Term",
+    "company": "Datacom Connect",
+    "url": "https://au.indeed.com/viewjob?jk=9c08f958bdb80924",
+    "scraped_at": "2026-07-15T06:22:13.229801"
+  },
+  {
+    "title": "Cybersecurity DevOps Engineer - 12 Months Fixed Term",
+    "company": "Datacom Connect",
+    "url": "https://au.indeed.com/viewjob?jk=c0f8cd89053f7a0b",
+    "scraped_at": "2026-07-15T06:22:13.230594"
+  },
+  {
+    "title": "Cybersecurity DevOps Engineer - 12 Months Fixed Term",
+    "company": "Datacom Connect",
+    "url": "https://au.indeed.com/viewjob?jk=ea7ead94006357eb",
+    "scraped_at": "2026-07-15T06:22:13.231389"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Royal Automobile Club of WA",
+    "url": "https://au.indeed.com/viewjob?jk=05d69c1cc22928c3",
+    "scraped_at": "2026-07-15T06:22:13.244769"
+  },
+  {
+    "title": "Road Occupancy Assessor",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=b16b948e7172bbb0",
+    "scraped_at": "2026-07-15T06:22:13.270989"
   }
 ]
