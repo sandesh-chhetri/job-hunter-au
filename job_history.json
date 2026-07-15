@@ -1,11 +1,5 @@
 [
   {
-    "title": "Quantitative Market Risk Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=18741d4fe36815be",
-    "scraped_at": "2026-03-06T05:13:35.330377"
-  },
-  {
     "title": "Rating",
     "company": "Svitzer",
     "url": "https://au.indeed.com/viewjob?jk=f05dd2126fd5c513",
@@ -5998,5 +5992,11 @@
     "company": "Country Fire Authority",
     "url": "https://au.indeed.com/viewjob?jk=af0d042b16f9deb9",
     "scraped_at": "2026-07-15T10:09:47.110083"
+  },
+  {
+    "title": "IT Operations Analyst",
+    "company": "Reserve Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=5d41773467c241fc",
+    "scraped_at": "2026-07-15T13:57:45.669593"
   }
 ]
