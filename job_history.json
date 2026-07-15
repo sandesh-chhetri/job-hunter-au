@@ -1,11 +1,5 @@
 [
   {
-    "title": "Administration Officer",
-    "company": "Allcredit",
-    "url": "https://au.indeed.com/viewjob?jk=7782ab6cb1225540",
-    "scraped_at": "2026-03-06T05:13:35.327808"
-  },
-  {
     "title": "Quantitative Market Risk Analyst",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=18741d4fe36815be",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=b16b948e7172bbb0",
     "scraped_at": "2026-07-15T06:22:13.270989"
+  },
+  {
+    "title": "District Support Officer",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=af0d042b16f9deb9",
+    "scraped_at": "2026-07-15T10:09:47.110083"
   }
 ]
