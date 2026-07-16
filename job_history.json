@@ -1,23 +1,5 @@
 [
   {
-    "title": "Graduate Physiotherapist",
-    "company": "genu",
-    "url": "https://au.indeed.com/viewjob?jk=811da50a0c311964",
-    "scraped_at": "2026-03-06T13:13:56.131902"
-  },
-  {
-    "title": "AI Native Platform Engineer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=84b610c897eb3772",
-    "scraped_at": "2026-03-06T13:13:56.154571"
-  },
-  {
-    "title": "Assistant Communications Officer",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=d77a3ccb9b068e66",
-    "scraped_at": "2026-03-07T02:34:16.364394"
-  },
-  {
     "title": "Care Coordinator - Injury Prevention (FT & Casual)",
     "company": "Cogent Thinking",
     "url": "https://au.indeed.com/viewjob?jk=54edb0b98e9552fa",
@@ -5998,5 +5980,23 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=f2418bd5451497b2",
     "scraped_at": "2026-07-16T03:20:46.833211"
+  },
+  {
+    "title": "Electrical & Instrumentation Technicians",
+    "company": "Water Corporation",
+    "url": "https://au.indeed.com/viewjob?jk=04f289b9f5e2ba5e",
+    "scraped_at": "2026-07-16T06:25:52.890483"
+  },
+  {
+    "title": "Care Integration Nurse / Paramedic",
+    "company": "Medibank",
+    "url": "https://au.indeed.com/viewjob?jk=d66096376245fd61",
+    "scraped_at": "2026-07-16T06:25:52.917089"
+  },
+  {
+    "title": "Electrical & Instrumentation Technicians",
+    "company": "Water Corporation",
+    "url": "https://au.indeed.com/viewjob?jk=d96e6a35f81193ea",
+    "scraped_at": "2026-07-16T06:25:52.943308"
   }
 ]
