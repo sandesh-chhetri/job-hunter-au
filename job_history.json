@@ -1,23 +1,5 @@
 [
   {
-    "title": "Care Coordinator - Injury Prevention (FT & Casual)",
-    "company": "Cogent Thinking",
-    "url": "https://au.indeed.com/viewjob?jk=54edb0b98e9552fa",
-    "scraped_at": "2026-03-08T16:39:30.112400"
-  },
-  {
-    "title": "Business Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=6eee95af1c0173ae",
-    "scraped_at": "2026-03-09T05:23:05.433791"
-  },
-  {
-    "title": "Geotechnical Engineer",
-    "company": "NORTHERN STAR RESOURCES",
-    "url": "https://au.indeed.com/viewjob?jk=59c46242ea17509b",
-    "scraped_at": "2026-03-09T13:22:14.392251"
-  },
-  {
     "title": "Technical Support Engineer",
     "company": "Total IT Global",
     "url": "https://au.indeed.com/viewjob?jk=be0911525833313a",
@@ -5998,5 +5980,23 @@
     "company": "Water Corporation",
     "url": "https://au.indeed.com/viewjob?jk=d96e6a35f81193ea",
     "scraped_at": "2026-07-16T06:25:52.943308"
+  },
+  {
+    "title": "headspace Mental Health Clinician Tamworth",
+    "company": "Healthwise",
+    "url": "https://au.indeed.com/viewjob?jk=f23a6dbd2688e132",
+    "scraped_at": "2026-07-16T10:18:20.473809"
+  },
+  {
+    "title": "headspace Mental Health Clinician Armidale",
+    "company": "Healthwise",
+    "url": "https://au.indeed.com/viewjob?jk=f1f34ee52cf64870",
+    "scraped_at": "2026-07-16T10:18:20.474293"
+  },
+  {
+    "title": "Customer and Market Compliance Analyst",
+    "company": "CitiPower and Powercor",
+    "url": "https://au.indeed.com/viewjob?jk=333ed1667ec6214d",
+    "scraped_at": "2026-07-16T10:18:20.499796"
   }
 ]
