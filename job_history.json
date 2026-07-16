@@ -1,11 +1,5 @@
 [
   {
-    "title": "Program Officer",
-    "company": "Country Fire Authority",
-    "url": "https://au.indeed.com/viewjob?jk=be817f5eabd3760d",
-    "scraped_at": "2026-03-06T13:13:56.123303"
-  },
-  {
     "title": "Graduate Physiotherapist",
     "company": "genu",
     "url": "https://au.indeed.com/viewjob?jk=811da50a0c311964",
@@ -5998,5 +5992,11 @@
     "company": "Employment Hero",
     "url": "https://au.indeed.com/viewjob?jk=6752e67415ac5d72",
     "scraped_at": "2026-07-15T17:24:28.183324"
+  },
+  {
+    "title": "Business Analyst (Data & Power BI)",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=f2418bd5451497b2",
+    "scraped_at": "2026-07-16T03:20:46.833211"
   }
 ]
