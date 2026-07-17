@@ -1,23 +1,5 @@
 [
   {
-    "title": "Sales Planning Analyst",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=57f683c6d7141690",
-    "scraped_at": "2026-03-10T02:40:34.234590"
-  },
-  {
-    "title": "Credit Analyst - Small Business Banking (Brisbane)",
-    "company": "Commonwealth Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=de19a21dcdd5cb92",
-    "scraped_at": "2026-03-10T02:40:34.235687"
-  },
-  {
-    "title": "DevOps Engineer",
-    "company": "4DMedical",
-    "url": "https://au.indeed.com/viewjob?jk=28898253a029d6b5",
-    "scraped_at": "2026-03-10T02:40:34.246342"
-  },
-  {
     "title": "FIFO Training Coordinator",
     "company": "Compass Group Australia",
     "url": "https://au.indeed.com/viewjob?jk=6963930d964d56a9",
@@ -5998,5 +5980,23 @@
     "company": "Duxxel",
     "url": "https://au.indeed.com/viewjob?jk=db57868cd6333a7e",
     "scraped_at": "2026-07-17T10:06:11.574804"
+  },
+  {
+    "title": "Budgeting & Forecasting Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=10f679e91e230bec",
+    "scraped_at": "2026-07-17T13:53:56.736545"
+  },
+  {
+    "title": "Technology Governance Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=97b9ec6f6cd9d53a",
+    "scraped_at": "2026-07-17T13:53:56.737046"
+  },
+  {
+    "title": "Associate Geospatial Data Developer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=1ba12faf60c703b1",
+    "scraped_at": "2026-07-17T13:53:56.762920"
   }
 ]
