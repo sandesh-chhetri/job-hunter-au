@@ -1,11 +1,5 @@
 [
   {
-    "title": "IT Technician / Marketing (Solar Industry)",
-    "company": "Expert Energy Tasmania",
-    "url": "https://au.indeed.com/viewjob?jk=d15dc4cf3caaebcc",
-    "scraped_at": "2026-03-10T02:40:34.215628"
-  },
-  {
     "title": "Sales Planning Analyst",
     "company": "Woolworths Group Limited",
     "url": "https://au.indeed.com/viewjob?jk=57f683c6d7141690",
@@ -5998,5 +5992,11 @@
     "company": "Icon Training",
     "url": "https://au.indeed.com/viewjob?jk=976de71cdaa184a8",
     "scraped_at": "2026-07-17T06:23:35.637577"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=db57868cd6333a7e",
+    "scraped_at": "2026-07-17T10:06:11.574804"
   }
 ]
