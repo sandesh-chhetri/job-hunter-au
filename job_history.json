@@ -2,12 +2,6 @@
   {
     "title": "FIFO Training Coordinator",
     "company": "Compass Group Australia",
-    "url": "https://au.indeed.com/viewjob?jk=f6fa93f4317a2491",
-    "scraped_at": "2026-03-10T05:13:56.752193"
-  },
-  {
-    "title": "FIFO Training Coordinator",
-    "company": "Compass Group Australia",
     "url": "https://au.indeed.com/viewjob?jk=097df3bf6fd75d2d",
     "scraped_at": "2026-03-10T05:13:56.752309"
   },
@@ -5998,5 +5992,11 @@
     "company": "Tesla",
     "url": "https://au.indeed.com/viewjob?jk=2d5e93ed1bee3d41",
     "scraped_at": "2026-07-20T11:08:21.770886"
+  },
+  {
+    "title": "Learning & Development Specialist",
+    "company": "GJ Gardner Homes",
+    "url": "https://au.indeed.com/viewjob?jk=31e5e9012d8b1110",
+    "scraped_at": "2026-07-20T18:11:15.498316"
   }
 ]
