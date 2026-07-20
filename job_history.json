@@ -2,12 +2,6 @@
   {
     "title": "FIFO Training Coordinator",
     "company": "Compass Group Australia",
-    "url": "https://au.indeed.com/viewjob?jk=6d11deab3b0bce27",
-    "scraped_at": "2026-03-10T05:13:56.752073"
-  },
-  {
-    "title": "FIFO Training Coordinator",
-    "company": "Compass Group Australia",
     "url": "https://au.indeed.com/viewjob?jk=f6fa93f4317a2491",
     "scraped_at": "2026-03-10T05:13:56.752193"
   },
@@ -5998,5 +5992,11 @@
     "company": "BELLROY",
     "url": "https://au.indeed.com/viewjob?jk=1f2207a892d52c73",
     "scraped_at": "2026-07-20T06:54:40.290544"
+  },
+  {
+    "title": "Associate Technical Support Engineer, Supercharger",
+    "company": "Tesla",
+    "url": "https://au.indeed.com/viewjob?jk=2d5e93ed1bee3d41",
+    "scraped_at": "2026-07-20T11:08:21.770886"
   }
 ]
