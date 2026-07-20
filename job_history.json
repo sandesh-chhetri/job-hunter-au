@@ -2,12 +2,6 @@
   {
     "title": "FIFO Training Coordinator",
     "company": "Compass Group Australia",
-    "url": "https://au.indeed.com/viewjob?jk=aba512451696b8d0",
-    "scraped_at": "2026-03-10T05:13:56.751474"
-  },
-  {
-    "title": "FIFO Training Coordinator",
-    "company": "Compass Group Australia",
     "url": "https://au.indeed.com/viewjob?jk=5af1c8cc38640f22",
     "scraped_at": "2026-03-10T05:13:56.751593"
   },
@@ -5998,5 +5992,11 @@
     "company": "AI Talent",
     "url": "https://au.indeed.com/viewjob?jk=97a1c0938ff5a71e",
     "scraped_at": "2026-07-18T06:11:20.825762"
+  },
+  {
+    "title": "Medical Sales Rep - Sydney West",
+    "company": "DKSH",
+    "url": "https://au.indeed.com/viewjob?jk=7ac1053761e6ed03",
+    "scraped_at": "2026-07-20T03:48:13.192428"
   }
 ]
