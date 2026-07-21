@@ -1,17 +1,5 @@
 [
   {
-    "title": "FIFO Training Coordinator",
-    "company": "Compass Group Australia",
-    "url": "https://au.indeed.com/viewjob?jk=097df3bf6fd75d2d",
-    "scraped_at": "2026-03-10T05:13:56.752309"
-  },
-  {
-    "title": "Analyst | Costs FP&A",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=903ed0fb00e6acd0",
-    "scraped_at": "2026-03-10T05:13:56.768439"
-  },
-  {
     "title": "Business Data Analyst - FenX",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=0c5f1e0ae6d0e951",
@@ -5998,5 +5986,17 @@
     "company": "GJ Gardner Homes",
     "url": "https://au.indeed.com/viewjob?jk=31e5e9012d8b1110",
     "scraped_at": "2026-07-20T18:11:15.498316"
+  },
+  {
+    "title": "IT Support Associate",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=dd0cf086f084a1a5",
+    "scraped_at": "2026-07-21T03:27:26.780798"
+  },
+  {
+    "title": "Junior Risk Analyst",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=452cef3e17400447",
+    "scraped_at": "2026-07-21T03:27:26.823855"
   }
 ]
