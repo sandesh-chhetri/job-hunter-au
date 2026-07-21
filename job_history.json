@@ -1,47 +1,5 @@
 [
   {
-    "title": "Business Data Analyst - FenX",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=0c5f1e0ae6d0e951",
-    "scraped_at": "2026-03-10T05:13:56.768657"
-  },
-  {
-    "title": "Shopify Developer",
-    "company": "ConfidenceClub",
-    "url": "https://au.indeed.com/viewjob?jk=f7782c9e4f788457",
-    "scraped_at": "2026-03-10T05:13:56.777875"
-  },
-  {
-    "title": "Development Planning Officer",
-    "company": "Yarra Valley Water",
-    "url": "https://au.indeed.com/viewjob?jk=458aa5dd8ead2fee",
-    "scraped_at": "2026-03-10T08:55:42.562668"
-  },
-  {
-    "title": "Technology Risk Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=cb0bebb38c87f978",
-    "scraped_at": "2026-03-10T08:55:42.565256"
-  },
-  {
-    "title": "Software Engineer - Android",
-    "company": "Suncorp Group",
-    "url": "https://au.indeed.com/viewjob?jk=680c5d62cbd35974",
-    "scraped_at": "2026-03-10T08:55:42.577065"
-  },
-  {
-    "title": "Asset Systems & Process Analyst",
-    "company": "Horizon Power",
-    "url": "https://au.indeed.com/viewjob?jk=701652567db70dbd",
-    "scraped_at": "2026-03-10T13:19:18.872408"
-  },
-  {
-    "title": "Integrity Team Coordinator",
-    "company": "Department of Justice and Community Safety",
-    "url": "https://au.indeed.com/viewjob?jk=63c685519eb489cb",
-    "scraped_at": "2026-03-10T13:19:18.874192"
-  },
-  {
     "title": "IT Support Technician",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=7307b39b70b7fc4f",
@@ -5998,5 +5956,47 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=452cef3e17400447",
     "scraped_at": "2026-07-21T03:27:26.823855"
+  },
+  {
+    "title": "Care Partner",
+    "company": "Australian Unity",
+    "url": "https://au.indeed.com/viewjob?jk=397078105517ca41",
+    "scraped_at": "2026-07-21T06:35:53.001967"
+  },
+  {
+    "title": "Global Filings Administrator",
+    "company": "FB RICE",
+    "url": "https://au.indeed.com/viewjob?jk=cef4ae31d40191e2",
+    "scraped_at": "2026-07-21T06:35:53.019279"
+  },
+  {
+    "title": "Business Analyst - ServiceNow",
+    "company": "Datacom Connect",
+    "url": "https://au.indeed.com/viewjob?jk=a88bf50549455522",
+    "scraped_at": "2026-07-21T06:35:53.025287"
+  },
+  {
+    "title": "Business Analyst - ServiceNow",
+    "company": "Datacom Connect",
+    "url": "https://au.indeed.com/viewjob?jk=d2c33aeae18cb761",
+    "scraped_at": "2026-07-21T06:35:53.025808"
+  },
+  {
+    "title": "Business Analyst - ServiceNow",
+    "company": "Datacom Connect",
+    "url": "https://au.indeed.com/viewjob?jk=2e8f36d417c8447e",
+    "scraped_at": "2026-07-21T06:35:53.026312"
+  },
+  {
+    "title": "Business Analyst - ServiceNow",
+    "company": "Datacom Connect",
+    "url": "https://au.indeed.com/viewjob?jk=dc9058e70e0ba997",
+    "scraped_at": "2026-07-21T06:35:53.026819"
+  },
+  {
+    "title": "Business Analyst - ServiceNow",
+    "company": "Datacom Connect",
+    "url": "https://au.indeed.com/viewjob?jk=8ceef216f553931f",
+    "scraped_at": "2026-07-21T06:35:53.027319"
   }
 ]
