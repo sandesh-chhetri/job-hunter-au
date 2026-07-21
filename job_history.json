@@ -1,17 +1,5 @@
 [
   {
-    "title": "Speech Pathologist (Head to Health Kids) \u2013 Congress \u2013 Alice Springs",
-    "company": "Northern Territory PHN",
-    "url": "https://au.indeed.com/viewjob?jk=dfcefd2b56324b5b",
-    "scraped_at": "2026-03-10T17:02:38.815617"
-  },
-  {
-    "title": "Officer - Airport Reporting",
-    "company": "Compass Group Australia",
-    "url": "https://au.indeed.com/viewjob?jk=829179454e1c2427",
-    "scraped_at": "2026-03-10T17:02:38.827472"
-  },
-  {
     "title": "Aged Care Coordinator - Aged Care Assessment Service",
     "company": "NT Health",
     "url": "https://au.indeed.com/viewjob?jk=f6527371e99c5611",
@@ -5998,5 +5986,17 @@
     "company": "Great Southern Bank",
     "url": "https://au.indeed.com/viewjob?jk=10f3f146f8659a5f",
     "scraped_at": "2026-07-21T14:09:41.648237"
+  },
+  {
+    "title": "Aboriginal Community Worker",
+    "company": "NT Government - Department of Children and Families",
+    "url": "https://au.indeed.com/viewjob?jk=ed131995729fd4e3",
+    "scraped_at": "2026-07-21T17:36:59.369172"
+  },
+  {
+    "title": "Systems Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=47446e4fc09f5b8b",
+    "scraped_at": "2026-07-21T17:36:59.419604"
   }
 ]
