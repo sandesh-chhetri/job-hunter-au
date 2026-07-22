@@ -1,11 +1,5 @@
 [
   {
-    "title": "Project Officer Education Regulation",
-    "company": "NT Government - Department of Education and Training",
-    "url": "https://au.indeed.com/viewjob?jk=70f0ba5cd1ac2ccf",
-    "scraped_at": "2026-03-10T20:42:55.098702"
-  },
-  {
     "title": "Employer Services Consultant",
     "company": "UniSuper",
     "url": "https://au.indeed.com/viewjob?jk=cb2a44219bcf28dc",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=53a5bbd00a1b4950",
     "scraped_at": "2026-07-22T14:12:25.338531"
+  },
+  {
+    "title": "Applications Support Intermediate Analyst - Production Management (Officer)",
+    "company": "Citi",
+    "url": "https://au.indeed.com/viewjob?jk=3589ef1c82668380",
+    "scraped_at": "2026-07-22T17:26:29.019920"
   }
 ]
