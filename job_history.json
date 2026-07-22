@@ -1,11 +1,5 @@
 [
   {
-    "title": "Policy Officer",
-    "company": "NT Government - Attorney-General's Department",
-    "url": "https://au.indeed.com/viewjob?jk=4e3e554b1bafd9e9",
-    "scraped_at": "2026-03-10T20:42:55.098472"
-  },
-  {
     "title": "Project Officer Education Regulation",
     "company": "NT Government - Department of Education and Training",
     "url": "https://au.indeed.com/viewjob?jk=70f0ba5cd1ac2ccf",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=9a30d007d2ce2978",
     "scraped_at": "2026-07-22T06:36:52.991863"
+  },
+  {
+    "title": "Service Design Specialist",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=53a5bbd00a1b4950",
+    "scraped_at": "2026-07-22T14:12:25.338531"
   }
 ]
