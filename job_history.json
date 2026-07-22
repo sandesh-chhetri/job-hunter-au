@@ -1,11 +1,5 @@
 [
   {
-    "title": "Systems Analyst",
-    "company": "NT Government - Department of Corporate and Digital Development",
-    "url": "https://au.indeed.com/viewjob?jk=06740a80582d9dd0",
-    "scraped_at": "2026-03-10T20:42:55.073320"
-  },
-  {
     "title": "Policy Officer",
     "company": "NT Government - Attorney-General's Department",
     "url": "https://au.indeed.com/viewjob?jk=4e3e554b1bafd9e9",
@@ -5998,5 +5992,11 @@
     "company": "Algoteq",
     "url": "https://au.indeed.com/viewjob?jk=955f781485875c5f",
     "scraped_at": "2026-07-22T03:25:59.495456"
+  },
+  {
+    "title": "IT Customer Support Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=9a30d007d2ce2978",
+    "scraped_at": "2026-07-22T06:36:52.991863"
   }
 ]
