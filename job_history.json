@@ -1,11 +1,5 @@
 [
   {
-    "title": "Aged Care Coordinator - Aged Care Assessment Service",
-    "company": "NT Health",
-    "url": "https://au.indeed.com/viewjob?jk=f6527371e99c5611",
-    "scraped_at": "2026-03-10T20:42:55.072982"
-  },
-  {
     "title": "Systems Analyst",
     "company": "NT Government - Department of Corporate and Digital Development",
     "url": "https://au.indeed.com/viewjob?jk=06740a80582d9dd0",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=47446e4fc09f5b8b",
     "scraped_at": "2026-07-21T17:36:59.419604"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Algoteq",
+    "url": "https://au.indeed.com/viewjob?jk=955f781485875c5f",
+    "scraped_at": "2026-07-22T03:25:59.495456"
   }
 ]
