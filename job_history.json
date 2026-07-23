@@ -1,23 +1,5 @@
 [
   {
-    "title": "Employer Services Consultant",
-    "company": "UniSuper",
-    "url": "https://au.indeed.com/viewjob?jk=cb2a44219bcf28dc",
-    "scraped_at": "2026-03-11T05:15:27.960729"
-  },
-  {
-    "title": "Care Partner - Hybrid",
-    "company": "SAI Home and Community Care",
-    "url": "https://au.indeed.com/viewjob?jk=644e9870378adb1f",
-    "scraped_at": "2026-03-11T05:15:27.965840"
-  },
-  {
-    "title": "DevSecOps Engineer",
-    "company": "Alinta Energy",
-    "url": "https://au.indeed.com/viewjob?jk=e1e847b9343a2942",
-    "scraped_at": "2026-03-11T05:15:27.990497"
-  },
-  {
     "title": "EUC Technician",
     "company": "Australian Retirement Trust",
     "url": "https://au.indeed.com/viewjob?jk=759ad71aadf62389",
@@ -5998,5 +5980,23 @@
     "company": "Citi",
     "url": "https://au.indeed.com/viewjob?jk=3589ef1c82668380",
     "scraped_at": "2026-07-22T17:26:29.019920"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "NT Government - Department of Education and Training",
+    "url": "https://au.indeed.com/viewjob?jk=9423df5d554ff602",
+    "scraped_at": "2026-07-23T03:32:04.432975"
+  },
+  {
+    "title": "Risk & Compliance Analyst",
+    "company": "HUB24",
+    "url": "https://au.indeed.com/viewjob?jk=77052288d6167069",
+    "scraped_at": "2026-07-23T03:32:04.474645"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Click Click Media",
+    "url": "https://au.indeed.com/viewjob?jk=c672144fd1a9c6e6",
+    "scraped_at": "2026-07-23T03:32:04.490955"
   }
 ]
