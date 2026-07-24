@@ -1,23 +1,5 @@
 [
   {
-    "title": "Email Support Specialist",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=65e39ba447f18ffc",
-    "scraped_at": "2026-03-12T02:45:31.237686"
-  },
-  {
-    "title": "Quality & Testing Specialist",
-    "company": "Insurance Australia Group",
-    "url": "https://au.indeed.com/viewjob?jk=e462ef08744956ee",
-    "scraped_at": "2026-03-12T02:45:31.268014"
-  },
-  {
-    "title": "Customer Service Officer",
-    "company": "Australian Financial Complaints Authority",
-    "url": "https://au.indeed.com/viewjob?jk=b7c63efd2e6533e1",
-    "scraped_at": "2026-03-12T05:19:15.895601"
-  },
-  {
     "title": "Geotechnical Engineer",
     "company": "NORTHERN STAR RESOURCES",
     "url": "https://au.indeed.com/viewjob?jk=9c1cec32598ed955",
@@ -5998,5 +5980,23 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=4f5a9e8589a987c5",
     "scraped_at": "2026-07-24T03:27:01.924806"
+  },
+  {
+    "title": "Tech Support",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=19b99087d75cead5",
+    "scraped_at": "2026-07-24T06:33:17.682788"
+  },
+  {
+    "title": "Administrator - Site - Boddington",
+    "company": "Compass Group Australia",
+    "url": "https://au.indeed.com/viewjob?jk=0ed393c74c1ebcb5",
+    "scraped_at": "2026-07-24T06:33:17.711977"
+  },
+  {
+    "title": "Merchandising Optimisation Analyst",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=f68d9f55c14316a5",
+    "scraped_at": "2026-07-24T06:33:17.720168"
   }
 ]
