@@ -1,11 +1,5 @@
 [
   {
-    "title": "Cloud Solutions Architect",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=339a90cced6cf44f",
-    "scraped_at": "2026-03-12T17:04:57.711129"
-  },
-  {
     "title": "Service Desk Analyst",
     "company": "SBS",
     "url": "https://au.indeed.com/viewjob?jk=8c10b1ccb6edba81",
@@ -5998,5 +5992,11 @@
     "company": "The Good Guys",
     "url": "https://au.indeed.com/viewjob?jk=2c3ac70aa126fd20",
     "scraped_at": "2026-07-27T07:40:07.446730"
+  },
+  {
+    "title": "Restricted Vehicle Access Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=477601dad5c7e688",
+    "scraped_at": "2026-07-27T17:48:50.410465"
   }
 ]
