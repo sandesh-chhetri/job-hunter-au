@@ -1,11 +1,5 @@
 [
   {
-    "title": "Quality Assurance Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=889df2d2af4ffc67",
-    "scraped_at": "2026-03-12T17:04:57.703422"
-  },
-  {
     "title": "Cloud Solutions Architect",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=339a90cced6cf44f",
@@ -5998,5 +5992,11 @@
     "company": "Metro Finance",
     "url": "https://au.indeed.com/viewjob?jk=f6e3fdd0016f4e61",
     "scraped_at": "2026-07-27T03:47:53.210927"
+  },
+  {
+    "title": "Returns Analyst (12-Months)",
+    "company": "The Good Guys",
+    "url": "https://au.indeed.com/viewjob?jk=2c3ac70aa126fd20",
+    "scraped_at": "2026-07-27T07:40:07.446730"
   }
 ]
