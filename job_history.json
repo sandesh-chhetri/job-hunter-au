@@ -1,11 +1,5 @@
 [
   {
-    "title": "Probation Services Officer",
-    "company": "Queensland Government",
-    "url": "https://au.indeed.com/viewjob?jk=da37f08444c7d8af",
-    "scraped_at": "2026-03-13T13:17:03.119413"
-  },
-  {
     "title": "Account Executive (ie Relationships & Member Success Officer) for the childcare sector",
     "company": "Australian Childcare Alliance",
     "url": "https://au.indeed.com/viewjob?jk=3177ee240322e037",
@@ -5998,5 +5992,11 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=f6717d74ffb64ba5",
     "scraped_at": "2026-07-28T10:42:02.410643"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=36c10b6e2dc8e2d0",
+    "scraped_at": "2026-07-28T17:41:44.160802"
   }
 ]
