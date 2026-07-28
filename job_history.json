@@ -1,17 +1,5 @@
 [
   {
-    "title": "Client Tax Analyst | Treasury Regulatory Reporting",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=bbb5cb3c83868401",
-    "scraped_at": "2026-03-13T08:53:16.356847"
-  },
-  {
-    "title": "Test Analyst",
-    "company": "Department of Justice and Community Safety",
-    "url": "https://au.indeed.com/viewjob?jk=690eb5f479be6c50",
-    "scraped_at": "2026-03-13T08:53:16.357487"
-  },
-  {
     "title": "Probation Services Officer",
     "company": "Queensland Government",
     "url": "https://au.indeed.com/viewjob?jk=da37f08444c7d8af",
@@ -5998,5 +5986,17 @@
     "company": "Greater Western Water",
     "url": "https://au.indeed.com/viewjob?jk=e5ae7da4a566bf0d",
     "scraped_at": "2026-07-28T06:33:42.400741"
+  },
+  {
+    "title": "L1 Network and Desktop Support",
+    "company": "MNL Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=07590bf84475e669",
+    "scraped_at": "2026-07-28T10:42:02.366604"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=f6717d74ffb64ba5",
+    "scraped_at": "2026-07-28T10:42:02.410643"
   }
 ]
