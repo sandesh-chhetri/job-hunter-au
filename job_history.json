@@ -1,11 +1,5 @@
 [
   {
-    "title": "Service Desk Analyst",
-    "company": "SBS",
-    "url": "https://au.indeed.com/viewjob?jk=8c10b1ccb6edba81",
-    "scraped_at": "2026-03-13T02:43:35.479165"
-  },
-  {
     "title": "Market Analyst",
     "company": "Modo Energy",
     "url": "https://au.indeed.com/viewjob?jk=eca380d4aa5ebd01",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=477601dad5c7e688",
     "scraped_at": "2026-07-27T17:48:50.410465"
+  },
+  {
+    "title": "Information Security Analyst",
+    "company": "Beforepay Group",
+    "url": "https://au.indeed.com/viewjob?jk=5257eca181b58a50",
+    "scraped_at": "2026-07-28T03:18:40.117464"
   }
 ]
