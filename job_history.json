@@ -1,11 +1,5 @@
 [
   {
-    "title": "Cloud Support Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=5c6b370ddc96c78d",
-    "scraped_at": "2026-03-14T16:41:42.839554"
-  },
-  {
     "title": "Aquaculture Technician",
     "company": "NT Government - Department of Agriculture and Fisheries",
     "url": "https://au.indeed.com/viewjob?jk=5ddf3e3c1f64fd88",
@@ -5998,5 +5992,11 @@
     "company": "City of Darebin",
     "url": "https://au.indeed.com/viewjob?jk=4f44192eb6b2d6bb",
     "scraped_at": "2026-07-29T06:38:46.273273"
+  },
+  {
+    "title": "Functional Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=9ffade9790722a44",
+    "scraped_at": "2026-07-29T14:24:36.477403"
   }
 ]
