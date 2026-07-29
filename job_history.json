@@ -1,17 +1,5 @@
 [
   {
-    "title": "Account Executive (ie Relationships & Member Success Officer) for the childcare sector",
-    "company": "Australian Childcare Alliance",
-    "url": "https://au.indeed.com/viewjob?jk=3177ee240322e037",
-    "scraped_at": "2026-03-13T13:17:03.138950"
-  },
-  {
-    "title": "Pricing & Valuations Analyst",
-    "company": "Carma",
-    "url": "https://au.indeed.com/viewjob?jk=70b8947c807bce4d",
-    "scraped_at": "2026-03-13T13:17:03.144579"
-  },
-  {
     "title": "Pricing & Valuations Analyst",
     "company": "Carma",
     "url": "https://au.indeed.com/viewjob?jk=b9ba2f95e678082e",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=36c10b6e2dc8e2d0",
     "scraped_at": "2026-07-28T17:41:44.160802"
+  },
+  {
+    "title": "System Support Analyst I (Windows)",
+    "company": "Intelerad",
+    "url": "https://au.indeed.com/viewjob?jk=023a46142716db37",
+    "scraped_at": "2026-07-29T03:21:00.425028"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Pine Services Group",
+    "url": "https://au.indeed.com/viewjob?jk=4c75e18109c3aa84",
+    "scraped_at": "2026-07-29T03:21:00.457159"
   }
 ]
