@@ -1,23 +1,5 @@
 [
   {
-    "title": "Aquaculture Technician",
-    "company": "NT Government - Department of Agriculture and Fisheries",
-    "url": "https://au.indeed.com/viewjob?jk=5ddf3e3c1f64fd88",
-    "scraped_at": "2026-03-15T20:39:10.988968"
-  },
-  {
-    "title": "IT Support / Helpdesk Technician (Part-Time) \u2013 Brisbane",
-    "company": "Bestbyte Computing",
-    "url": "https://au.indeed.com/viewjob?jk=1ee30e249e6779ad",
-    "scraped_at": "2026-03-16T03:22:17.332481"
-  },
-  {
-    "title": "eExam IT Support Officer",
-    "company": "Monash University",
-    "url": "https://au.indeed.com/viewjob?jk=786b40ee6bbf4556",
-    "scraped_at": "2026-03-16T05:53:14.753962"
-  },
-  {
     "title": "Technical Solutions Analyst",
     "company": "ASI Solutions",
     "url": "https://au.indeed.com/viewjob?jk=b6d52867ad45ccba",
@@ -5998,5 +5980,23 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=9ffade9790722a44",
     "scraped_at": "2026-07-29T14:24:36.477403"
+  },
+  {
+    "title": "Rehabilitation Counsellor",
+    "company": "APM WorkCare",
+    "url": "https://au.indeed.com/viewjob?jk=ae6eb0d8235c4707",
+    "scraped_at": "2026-07-30T02:54:20.458076"
+  },
+  {
+    "title": "Rehabilitation Counsellor",
+    "company": "APM WorkCare",
+    "url": "https://au.indeed.com/viewjob?jk=0e61794cd069598e",
+    "scraped_at": "2026-07-30T02:54:20.458605"
+  },
+  {
+    "title": "Software Engineer \u2013 Data & Analytics - Equity Derivatives and Trading",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=f28028b8bb805803",
+    "scraped_at": "2026-07-30T02:54:20.500742"
   }
 ]
