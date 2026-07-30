@@ -1,11 +1,5 @@
 [
   {
-    "title": "Azure Cloud Engineer",
-    "company": "Versent",
-    "url": "https://au.indeed.com/viewjob?jk=043ed1c56acc7299",
-    "scraped_at": "2026-03-16T13:44:34.740907"
-  },
-  {
     "title": "Administrator - Onboarding",
     "company": "Qube",
     "url": "https://au.indeed.com/viewjob?jk=e32ca0e9c838cd79",
@@ -5998,5 +5992,11 @@
     "company": "NT Police Force",
     "url": "https://au.indeed.com/viewjob?jk=9a6ee55fa637a58b",
     "scraped_at": "2026-07-30T17:42:53.161635"
+  },
+  {
+    "title": "Technical Support Representative, In-Store",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=23b937a37c4d44b9",
+    "scraped_at": "2026-07-30T21:18:10.730676"
   }
 ]
