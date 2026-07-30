@@ -1,11 +1,5 @@
 [
   {
-    "title": "Casual Airport Operations Officer",
-    "company": "Australia Pacific Airports (Launceston)",
-    "url": "https://au.indeed.com/viewjob?jk=e5353aac2f2c465b",
-    "scraped_at": "2026-03-16T13:44:34.710703"
-  },
-  {
     "title": "Entry Level - Corporate Tax Analyst",
     "company": "EY",
     "url": "https://au.indeed.com/viewjob?jk=81ec310bbf294ae5",
@@ -5998,5 +5992,11 @@
     "company": "Canon",
     "url": "https://au.indeed.com/viewjob?jk=7b5aee1f26f60654",
     "scraped_at": "2026-07-30T10:31:40.958041"
+  },
+  {
+    "title": "Freight Insights Visualisation Spec",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=1b22c8f290c6a54c",
+    "scraped_at": "2026-07-30T14:21:36.313201"
   }
 ]
