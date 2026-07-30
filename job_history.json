@@ -1,23 +1,5 @@
 [
   {
-    "title": "Technical Solutions Analyst",
-    "company": "ASI Solutions",
-    "url": "https://au.indeed.com/viewjob?jk=b6d52867ad45ccba",
-    "scraped_at": "2026-03-16T05:53:14.780510"
-  },
-  {
-    "title": "ServiceNow Business Analyst / System Analyst",
-    "company": "Sysintegra Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=29ef316ec1c5c94e",
-    "scraped_at": "2026-03-16T05:53:14.780650"
-  },
-  {
-    "title": "ServiceNow Business Analyst / System Analyst",
-    "company": "Sysintegra Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=bcc47510cc25e320",
-    "scraped_at": "2026-03-16T05:53:14.780768"
-  },
-  {
     "title": "ServiceNow Business Analyst / System Analyst",
     "company": "Sysintegra Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=6f13f7da2e8bb175",
@@ -5998,5 +5980,23 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=f28028b8bb805803",
     "scraped_at": "2026-07-30T02:54:20.500742"
+  },
+  {
+    "title": "Supplier Coordinator",
+    "company": "Medibank",
+    "url": "https://au.indeed.com/viewjob?jk=3fbadd6205678e15",
+    "scraped_at": "2026-07-30T06:34:22.586302"
+  },
+  {
+    "title": "Software Engineer - Database",
+    "company": "Xero",
+    "url": "https://au.indeed.com/viewjob?jk=377e10b24470104f",
+    "scraped_at": "2026-07-30T06:34:22.626327"
+  },
+  {
+    "title": "Software Engineer - Database",
+    "company": "Xero",
+    "url": "https://au.indeed.com/viewjob?jk=b8f23e52347cd2f7",
+    "scraped_at": "2026-07-30T06:34:22.626651"
   }
 ]
