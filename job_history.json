@@ -1,11 +1,5 @@
 [
   {
-    "title": "Cloud Security Engineer",
-    "company": "Nuix",
-    "url": "https://au.indeed.com/viewjob?jk=17d3663ee8d65ae2",
-    "scraped_at": "2026-03-17T02:45:38.307574"
-  },
-  {
     "title": "Visitor Information Centre Officer",
     "company": "Maranoa Regional Council",
     "url": "https://au.indeed.com/viewjob?jk=9ac747f0e3b54a40",
@@ -5998,5 +5992,11 @@
     "company": "Duxxel",
     "url": "https://au.indeed.com/viewjob?jk=574ef85d93a40e48",
     "scraped_at": "2026-07-31T10:47:16.935419"
+  },
+  {
+    "title": "Network & Geospatial Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=f826368aa4045efe",
+    "scraped_at": "2026-07-31T14:24:50.498730"
   }
 ]
