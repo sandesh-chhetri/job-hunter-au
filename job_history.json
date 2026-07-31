@@ -1,11 +1,5 @@
 [
   {
-    "title": "Visitor Information Centre Officer",
-    "company": "Maranoa Regional Council",
-    "url": "https://au.indeed.com/viewjob?jk=9ac747f0e3b54a40",
-    "scraped_at": "2026-03-17T05:25:05.543175"
-  },
-  {
     "title": "Justice Officer",
     "company": "Department of Justice and Community Safety",
     "url": "https://au.indeed.com/viewjob?jk=02acc194071d9bf2",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=f826368aa4045efe",
     "scraped_at": "2026-07-31T14:24:50.498730"
+  },
+  {
+    "title": "Snr Specialist Cyber Insights &Analytics",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=75af85931a0722c5",
+    "scraped_at": "2026-07-31T17:46:40.657537"
   }
 ]
