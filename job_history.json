@@ -1,23 +1,5 @@
 [
   {
-    "title": "Administrator - Onboarding",
-    "company": "Qube",
-    "url": "https://au.indeed.com/viewjob?jk=e32ca0e9c838cd79",
-    "scraped_at": "2026-03-16T17:12:34.872025"
-  },
-  {
-    "title": "Analyst Android Engineer",
-    "company": "NAB - National Australia Bank",
-    "url": "https://au.indeed.com/viewjob?jk=88f8668c3637062c",
-    "scraped_at": "2026-03-17T02:45:38.296119"
-  },
-  {
-    "title": "Analyst iOS Engineer",
-    "company": "NAB - National Australia Bank",
-    "url": "https://au.indeed.com/viewjob?jk=72dbcf1c7ce84de4",
-    "scraped_at": "2026-03-17T02:45:38.296335"
-  },
-  {
     "title": "HR & Development Advisor",
     "company": "Etex",
     "url": "https://au.indeed.com/viewjob?jk=27c55798f5e26d1e",
@@ -5998,5 +5980,23 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=23b937a37c4d44b9",
     "scraped_at": "2026-07-30T21:18:10.730676"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=c6213ae7a5a4389e",
+    "scraped_at": "2026-07-31T06:50:56.134947"
+  },
+  {
+    "title": "Data Integration Developer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=47f388bf470e24e0",
+    "scraped_at": "2026-07-31T06:50:56.135540"
+  },
+  {
+    "title": "DevOps Engineer (Google Cloud)",
+    "company": "NCS",
+    "url": "https://au.indeed.com/viewjob?jk=88a158b96160dfc0",
+    "scraped_at": "2026-07-31T06:50:56.153685"
   }
 ]
