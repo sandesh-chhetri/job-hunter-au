@@ -1,11 +1,5 @@
 [
   {
-    "title": "Service Desk Analyst",
-    "company": "Fantastic Furniture",
-    "url": "https://au.indeed.com/viewjob?jk=8a930261650067d0",
-    "scraped_at": "2026-03-17T09:01:52.905341"
-  },
-  {
     "title": "Customer Support Specialist (Part-Time, 3 days)",
     "company": "Valocity",
     "url": "https://au.indeed.com/viewjob?jk=aba07f59b6c22d6b",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=05755e945038ab3f",
     "scraped_at": "2026-08-04T06:34:17.268988"
+  },
+  {
+    "title": "Engagement Coordinator",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=2f5a33107e29ea74",
+    "scraped_at": "2026-08-04T14:32:02.877481"
   }
 ]
