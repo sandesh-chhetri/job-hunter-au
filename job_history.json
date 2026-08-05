@@ -1,17 +1,5 @@
 [
   {
-    "title": "Customer Support Specialist (Part-Time, 3 days)",
-    "company": "Valocity",
-    "url": "https://au.indeed.com/viewjob?jk=aba07f59b6c22d6b",
-    "scraped_at": "2026-03-17T09:01:52.906654"
-  },
-  {
-    "title": "IT Operations Specialist",
-    "company": "Newhaul",
-    "url": "https://au.indeed.com/viewjob?jk=c89a103eb1541ac2",
-    "scraped_at": "2026-03-17T09:01:52.910607"
-  },
-  {
     "title": "Actuarial Analyst",
     "company": "QBE",
     "url": "https://au.indeed.com/viewjob?jk=46b775552a6cfecb",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=2f5a33107e29ea74",
     "scraped_at": "2026-08-04T14:32:02.877481"
+  },
+  {
+    "title": "School Technical Officer - Earnshaw State College",
+    "company": "Queensland Government",
+    "url": "https://au.indeed.com/viewjob?jk=6b8f73dce9ee5fca",
+    "scraped_at": "2026-08-05T03:17:44.252373"
+  },
+  {
+    "title": "Space Coordinator",
+    "company": "WOTSO",
+    "url": "https://au.indeed.com/viewjob?jk=3f32d1408488e8d1",
+    "scraped_at": "2026-08-05T03:17:44.270121"
   }
 ]
