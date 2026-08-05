@@ -1,17 +1,5 @@
 [
   {
-    "title": "Clinical Technician - EEG",
-    "company": "NT Health",
-    "url": "https://au.indeed.com/viewjob?jk=b7fd67839af22384",
-    "scraped_at": "2026-03-17T20:50:48.517214"
-  },
-  {
-    "title": "Psychiatrist \u2013 ADHD Specialist (Telehealth)",
-    "company": "Fastreat AI Inc",
-    "url": "https://au.indeed.com/viewjob?jk=c5e26984d79f2c04",
-    "scraped_at": "2026-03-17T20:50:48.521634"
-  },
-  {
     "title": "Quantitative Research Analyst",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=0c74b2029f3d77c5",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=86df47fd7695bbf4",
     "scraped_at": "2026-08-05T14:25:36.113460"
+  },
+  {
+    "title": "Customer Experience & Community Coordinator",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=36396c131f036de1",
+    "scraped_at": "2026-08-05T17:48:32.767548"
+  },
+  {
+    "title": "Customer Service Officer",
+    "company": "MSD",
+    "url": "https://au.indeed.com/viewjob?jk=00ad0f37a0e5ee54",
+    "scraped_at": "2026-08-05T17:48:32.778909"
   }
 ]
