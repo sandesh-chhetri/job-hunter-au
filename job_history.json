@@ -1,17 +1,5 @@
 [
   {
-    "title": "Brigade Admin Support Officer",
-    "company": "Country Fire Authority",
-    "url": "https://au.indeed.com/viewjob?jk=3cdf74c87575887d",
-    "scraped_at": "2026-03-17T13:42:15.205874"
-  },
-  {
-    "title": "Brigade Admin Support Officer",
-    "company": "Country Fire Authority",
-    "url": "https://au.indeed.com/viewjob?jk=f492d51523a99aab",
-    "scraped_at": "2026-03-17T13:42:15.206975"
-  },
-  {
     "title": "Data Engineer",
     "company": "7-Eleven",
     "url": "https://au.indeed.com/viewjob?jk=58bf3df4b159fbb1",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=a1fab6fd53e6ee74",
     "scraped_at": "2026-08-05T06:34:59.750204"
+  },
+  {
+    "title": "Customer Experience & Community Coordinator",
+    "company": "Boody Australia",
+    "url": "https://au.indeed.com/viewjob?jk=916098101b5f36f1",
+    "scraped_at": "2026-08-05T10:43:40.212111"
+  },
+  {
+    "title": "Java Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=4a30fa7e88420617",
+    "scraped_at": "2026-08-05T10:43:40.275221"
   }
 ]
