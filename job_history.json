@@ -1,11 +1,5 @@
 [
   {
-    "title": "Actuarial Analyst",
-    "company": "QBE",
-    "url": "https://au.indeed.com/viewjob?jk=46b775552a6cfecb",
-    "scraped_at": "2026-03-17T09:01:52.931074"
-  },
-  {
     "title": "Brigade Admin Support Officer",
     "company": "Country Fire Authority",
     "url": "https://au.indeed.com/viewjob?jk=3cdf74c87575887d",
@@ -5998,5 +5992,11 @@
     "company": "WOTSO",
     "url": "https://au.indeed.com/viewjob?jk=3f32d1408488e8d1",
     "scraped_at": "2026-08-05T03:17:44.270121"
+  },
+  {
+    "title": "Post Consent Planner",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=a1fab6fd53e6ee74",
+    "scraped_at": "2026-08-05T06:34:59.750204"
   }
 ]
