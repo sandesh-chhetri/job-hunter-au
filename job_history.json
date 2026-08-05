@@ -1,23 +1,5 @@
 [
   {
-    "title": "Data Engineer",
-    "company": "7-Eleven",
-    "url": "https://au.indeed.com/viewjob?jk=58bf3df4b159fbb1",
-    "scraped_at": "2026-03-17T13:42:15.232549"
-  },
-  {
-    "title": "QA Tester",
-    "company": "Mobility Company",
-    "url": "https://au.indeed.com/viewjob?jk=fde238ff595746f0",
-    "scraped_at": "2026-03-17T13:42:15.243651"
-  },
-  {
-    "title": "Data Support Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=7572ddf62287a03e",
-    "scraped_at": "2026-03-17T17:13:05.760655"
-  },
-  {
     "title": "Clinical Technician - EEG",
     "company": "NT Health",
     "url": "https://au.indeed.com/viewjob?jk=b7fd67839af22384",
@@ -5998,5 +5980,23 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=4a30fa7e88420617",
     "scraped_at": "2026-08-05T10:43:40.275221"
+  },
+  {
+    "title": "Grants and Donations Coordinator",
+    "company": "Alinta Energy",
+    "url": "https://au.indeed.com/viewjob?jk=042f5b701f22b34a",
+    "scraped_at": "2026-08-05T14:25:36.112463"
+  },
+  {
+    "title": "Project Administrator",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=f34f53a84ac1dd11",
+    "scraped_at": "2026-08-05T14:25:36.112920"
+  },
+  {
+    "title": "Precinct Integration Advisor",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=86df47fd7695bbf4",
+    "scraped_at": "2026-08-05T14:25:36.113460"
   }
 ]
