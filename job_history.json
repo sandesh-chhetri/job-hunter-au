@@ -1,35 +1,5 @@
 [
   {
-    "title": "Automation Engineer",
-    "company": "ASI Solutions",
-    "url": "https://au.indeed.com/viewjob?jk=f2ad9459a6aaf65a",
-    "scraped_at": "2026-03-18T02:51:56.499925"
-  },
-  {
-    "title": "Regulatory Affairs Specialist | Aus",
-    "company": "Harrison.AI",
-    "url": "https://au.indeed.com/viewjob?jk=7a0b50a7b553d4e1",
-    "scraped_at": "2026-03-18T05:38:58.207403"
-  },
-  {
-    "title": "Legal Administrator",
-    "company": "FB RICE",
-    "url": "https://au.indeed.com/viewjob?jk=2858bec7b5b5ad2f",
-    "scraped_at": "2026-03-18T05:38:58.221651"
-  },
-  {
-    "title": "Legal Administrator",
-    "company": "FB RICE",
-    "url": "https://au.indeed.com/viewjob?jk=3b2f811312b461e4",
-    "scraped_at": "2026-03-18T05:38:58.221897"
-  },
-  {
-    "title": "Business Analyst",
-    "company": "Renegade Gaming",
-    "url": "https://au.indeed.com/viewjob?jk=d0e3e11ddc166e41",
-    "scraped_at": "2026-03-18T05:38:58.227527"
-  },
-  {
     "title": "[Mandarin-speaking] IT Hardware Technician (Intermediate)",
     "company": "STAR X TECHNOLOGY SOLUTIONS PTY LTD",
     "url": "https://au.indeed.com/viewjob?jk=9cb1e619bdb9c770",
@@ -5998,5 +5968,35 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=7b687a63068471b4",
     "scraped_at": "2026-08-06T03:20:09.976496"
+  },
+  {
+    "title": "ICT Systems Analyst",
+    "company": "Rippling",
+    "url": "https://au.indeed.com/viewjob?jk=1f2e1e74c6da3708",
+    "scraped_at": "2026-08-06T06:38:23.724211"
+  },
+  {
+    "title": "ICT Business Analyst",
+    "company": "Rippling",
+    "url": "https://au.indeed.com/viewjob?jk=e22e3324d380c474",
+    "scraped_at": "2026-08-06T06:38:23.767602"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=862615739f44e2c0",
+    "scraped_at": "2026-08-06T06:38:23.792834"
+  },
+  {
+    "title": "Customer Growth Representative",
+    "company": "Alinta Energy",
+    "url": "https://au.indeed.com/viewjob?jk=30489553ebdf7790",
+    "scraped_at": "2026-08-06T06:38:23.797701"
+  },
+  {
+    "title": "Shared Services Support Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=d9e5a214accb64c7",
+    "scraped_at": "2026-08-06T06:38:23.798150"
   }
 ]
