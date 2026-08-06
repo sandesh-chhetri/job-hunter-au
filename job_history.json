@@ -1,17 +1,5 @@
 [
   {
-    "title": "Mental Health Registered Nurse and Primary Care Registered Nurse",
-    "company": "St Vincent\u2019s Health Australia",
-    "url": "https://au.indeed.com/viewjob?jk=f99d6102486becec",
-    "scraped_at": "2026-03-18T09:00:33.809070"
-  },
-  {
-    "title": "Occupational Therapist - Aged Care",
-    "company": "Bolton Clarke",
-    "url": "https://au.indeed.com/viewjob?jk=5afde9f1b71f3d8c",
-    "scraped_at": "2026-03-18T09:00:33.809364"
-  },
-  {
     "title": "Parliamentary Adviser",
     "company": "Parliament of Victoria",
     "url": "https://au.indeed.com/viewjob?jk=d47274aea3f4764c",
@@ -5998,5 +5986,17 @@
     "company": "Acumen Health",
     "url": "https://au.indeed.com/viewjob?jk=1eafa36ae7bab457",
     "scraped_at": "2026-08-06T10:46:36.161724"
+  },
+  {
+    "title": "Workday Systems Specialist",
+    "company": "HammondCare",
+    "url": "https://au.indeed.com/viewjob?jk=dadfba9b88c475f7",
+    "scraped_at": "2026-08-06T14:28:11.548580"
+  },
+  {
+    "title": "Logistics & Appeals Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=9520ea84c8148add",
+    "scraped_at": "2026-08-06T14:28:11.594832"
   }
 ]
