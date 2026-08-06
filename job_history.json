@@ -1,11 +1,5 @@
 [
   {
-    "title": "[Mandarin-speaking] IT Hardware Technician (Intermediate)",
-    "company": "STAR X TECHNOLOGY SOLUTIONS PTY LTD",
-    "url": "https://au.indeed.com/viewjob?jk=9cb1e619bdb9c770",
-    "scraped_at": "2026-03-18T09:00:33.800025"
-  },
-  {
     "title": "Mental Health Registered Nurse and Primary Care Registered Nurse",
     "company": "St Vincent\u2019s Health Australia",
     "url": "https://au.indeed.com/viewjob?jk=f99d6102486becec",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=d9e5a214accb64c7",
     "scraped_at": "2026-08-06T06:38:23.798150"
+  },
+  {
+    "title": "ADF Rehabilitation Consultant",
+    "company": "Acumen Health",
+    "url": "https://au.indeed.com/viewjob?jk=1eafa36ae7bab457",
+    "scraped_at": "2026-08-06T10:46:36.161724"
   }
 ]
