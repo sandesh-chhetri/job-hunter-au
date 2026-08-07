@@ -1,17 +1,5 @@
 [
   {
-    "title": "Burton Street Social Worker",
-    "company": "St Vincent\u2019s Health Australia",
-    "url": "https://au.indeed.com/viewjob?jk=599a0981882cff69",
-    "scraped_at": "2026-03-19T02:53:31.504390"
-  },
-  {
-    "title": "Commercial Analyst (Home Internet)",
-    "company": "TPG Telecom",
-    "url": "https://au.indeed.com/viewjob?jk=5c9b7b37d4def7c5",
-    "scraped_at": "2026-03-19T05:25:54.223182"
-  },
-  {
     "title": "Registered Nurse",
     "company": "St Vincent\u2019s Health Australia",
     "url": "https://au.indeed.com/viewjob?jk=a63a3804e627c91d",
@@ -5998,5 +5986,17 @@
     "company": "Coles Group",
     "url": "https://au.indeed.com/viewjob?jk=9a255d9c1a307506",
     "scraped_at": "2026-08-07T13:18:51.766293"
+  },
+  {
+    "title": "CRM & Loyalty Specialist",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=8cd083eb2826bd83",
+    "scraped_at": "2026-08-07T16:59:40.304934"
+  },
+  {
+    "title": "Junior Software Developer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=4be0836c407ded9c",
+    "scraped_at": "2026-08-07T16:59:40.351627"
   }
 ]
