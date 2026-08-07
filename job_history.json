@@ -1,23 +1,5 @@
 [
   {
-    "title": "Parliamentary Adviser",
-    "company": "Parliament of Victoria",
-    "url": "https://au.indeed.com/viewjob?jk=d47274aea3f4764c",
-    "scraped_at": "2026-03-18T13:43:30.806301"
-  },
-  {
-    "title": "Taxation Services Officer",
-    "company": "NT Government - Department of Corporate and Digital Development",
-    "url": "https://au.indeed.com/viewjob?jk=28d0f26921c71977",
-    "scraped_at": "2026-03-18T20:49:48.470016"
-  },
-  {
-    "title": "Fully Remote Subject Matter Expert \u2013 Chartered & Certified Accountants - (Sydney)",
-    "company": "Prolific Academic Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=77f23d6d68dd6d0a",
-    "scraped_at": "2026-03-18T20:49:48.506209"
-  },
-  {
     "title": "Fully Remote Subject Matter Expert \u2013 Chartered & Certified Accountants - (Melbourne)",
     "company": "Prolific Academic Ltd",
     "url": "https://au.indeed.com/viewjob?jk=ab9c20822c0eb78e",
@@ -5998,5 +5980,23 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=9520ea84c8148add",
     "scraped_at": "2026-08-06T14:28:11.594832"
+  },
+  {
+    "title": "Water Monitoring Field Officer",
+    "company": "WaterNSW",
+    "url": "https://au.indeed.com/viewjob?jk=6e50c7cf945e6dd3",
+    "scraped_at": "2026-08-07T09:07:51.575961"
+  },
+  {
+    "title": "OT Planning Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=d2664c7fa063b73b",
+    "scraped_at": "2026-08-07T09:07:51.614559"
+  },
+  {
+    "title": "Workforce Competency Specialist REZ",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=920901c29acf6747",
+    "scraped_at": "2026-08-07T09:07:51.646941"
   }
 ]
