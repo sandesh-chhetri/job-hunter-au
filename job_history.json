@@ -1,11 +1,5 @@
 [
   {
-    "title": "Financial Crime Analyst",
-    "company": "Great Southern Bank",
-    "url": "https://au.indeed.com/viewjob?jk=4aba7ec777f8d235",
-    "scraped_at": "2026-03-19T13:23:50.881436"
-  },
-  {
     "title": "ICT Support Engineer",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=5eff11135b81fa74",
@@ -5998,5 +5992,11 @@
     "company": "Employment Hero",
     "url": "https://au.indeed.com/viewjob?jk=5a5fdc9f03f472be",
     "scraped_at": "2026-08-09T02:13:38.508923"
+  },
+  {
+    "title": "Network Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=3161005aadbeafd0",
+    "scraped_at": "2026-08-09T20:41:16.615389"
   }
 ]
