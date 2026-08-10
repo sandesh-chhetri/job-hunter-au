@@ -1,11 +1,5 @@
 [
   {
-    "title": "ICT Support Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=5eff11135b81fa74",
-    "scraped_at": "2026-03-19T17:05:07.861552"
-  },
-  {
     "title": "Business Analyst",
     "company": "Xtramile Solutions",
     "url": "https://au.indeed.com/viewjob?jk=5cb51c6a759b68d9",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=3161005aadbeafd0",
     "scraped_at": "2026-08-09T20:41:16.615389"
+  },
+  {
+    "title": "Wayfinding Designer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=4ee133fae039c35b",
+    "scraped_at": "2026-08-10T05:38:59.716445"
   }
 ]
