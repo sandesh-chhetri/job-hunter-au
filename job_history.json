@@ -1,29 +1,5 @@
 [
   {
-    "title": "Business Analyst",
-    "company": "Xtramile Solutions",
-    "url": "https://au.indeed.com/viewjob?jk=5cb51c6a759b68d9",
-    "scraped_at": "2026-03-19T17:05:07.879236"
-  },
-  {
-    "title": "Structural Engineer - Product Developer",
-    "company": "SkyCiv Engineering",
-    "url": "https://au.indeed.com/viewjob?jk=216c1a5a57b47f73",
-    "scraped_at": "2026-03-19T17:05:07.891675"
-  },
-  {
-    "title": "Kitchen Hand - South Plympton",
-    "company": "Green Leaves Early Learning Centres",
-    "url": "https://au.indeed.com/viewjob?jk=36e5319bca6b74af",
-    "scraped_at": "2026-03-19T20:50:22.441439"
-  },
-  {
-    "title": "Enrolled Nurse",
-    "company": "St Vincent\u2019s Health Australia",
-    "url": "https://au.indeed.com/viewjob?jk=3d08f2a6bfab71fa",
-    "scraped_at": "2026-03-20T02:44:22.514789"
-  },
-  {
     "title": "Registered Nurse, Renal Ambulatory Care - St Vincent's Public Hospital, Sydney",
     "company": "NSW Health",
     "url": "https://au.indeed.com/viewjob?jk=c0b5c43203666c4c",
@@ -5998,5 +5974,29 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=4ee133fae039c35b",
     "scraped_at": "2026-08-10T05:38:59.716445"
+  },
+  {
+    "title": "IT Field Technical Support Officer",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=937dee015387d45f",
+    "scraped_at": "2026-08-10T09:40:33.863468"
+  },
+  {
+    "title": "IT Field Technical Support Officer",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=aac5af63e4d25da9",
+    "scraped_at": "2026-08-10T09:40:33.864343"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "HUB24",
+    "url": "https://au.indeed.com/viewjob?jk=657d7690a6377971",
+    "scraped_at": "2026-08-10T09:40:33.896736"
+  },
+  {
+    "title": "Materials Testing Officer",
+    "company": "City of Gold Coast",
+    "url": "https://au.indeed.com/viewjob?jk=7d4ae6dab01cb438",
+    "scraped_at": "2026-08-10T09:40:33.916628"
   }
 ]
