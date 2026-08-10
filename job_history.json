@@ -1,11 +1,5 @@
 [
   {
-    "title": "Web Designer",
-    "company": "Yakkazoo",
-    "url": "https://au.indeed.com/viewjob?jk=409474e6ed1dd646",
-    "scraped_at": "2026-03-20T02:44:22.540059"
-  },
-  {
     "title": "Administration Officer - Maternal Child Health",
     "company": "Baw Baw Shire Council",
     "url": "https://au.indeed.com/viewjob?jk=54753545155fcafb",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=3d9fc44837bf4c11",
     "scraped_at": "2026-08-10T13:24:28.465283"
+  },
+  {
+    "title": "ICT Business Analyst",
+    "company": "RackCorp",
+    "url": "https://au.indeed.com/viewjob?jk=d11deb39f7f60efa",
+    "scraped_at": "2026-08-10T17:00:51.700938"
   }
 ]
