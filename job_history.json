@@ -1,17 +1,5 @@
 [
   {
-    "title": "Registered Nurse, Renal Ambulatory Care - St Vincent's Public Hospital, Sydney",
-    "company": "NSW Health",
-    "url": "https://au.indeed.com/viewjob?jk=c0b5c43203666c4c",
-    "scraped_at": "2026-03-20T02:44:22.515518"
-  },
-  {
-    "title": "Junior Test Analyst",
-    "company": "APM",
-    "url": "https://au.indeed.com/viewjob?jk=a29fe3371214509d",
-    "scraped_at": "2026-03-20T02:44:22.528858"
-  },
-  {
     "title": "Web Designer",
     "company": "Yakkazoo",
     "url": "https://au.indeed.com/viewjob?jk=409474e6ed1dd646",
@@ -5998,5 +5986,17 @@
     "company": "City of Gold Coast",
     "url": "https://au.indeed.com/viewjob?jk=7d4ae6dab01cb438",
     "scraped_at": "2026-08-10T09:40:33.916628"
+  },
+  {
+    "title": "Customer Service Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=c6a37018e0641a05",
+    "scraped_at": "2026-08-10T13:24:28.464683"
+  },
+  {
+    "title": "Shared Services Support Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=3d9fc44837bf4c11",
+    "scraped_at": "2026-08-10T13:24:28.465283"
   }
 ]
