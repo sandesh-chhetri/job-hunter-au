@@ -1,11 +1,5 @@
 [
   {
-    "title": "FIFO Training Coordinator",
-    "company": "Compass Group Australia",
-    "url": "https://au.indeed.com/viewjob?jk=2a86f804380638dd",
-    "scraped_at": "2026-03-20T16:55:44.285284"
-  },
-  {
     "title": "AI Engineer",
     "company": "Vikara.AI",
     "url": "https://au.indeed.com/viewjob?jk=b906205eebb69eaf",
@@ -5998,5 +5992,11 @@
     "company": "Coles Group",
     "url": "https://au.indeed.com/viewjob?jk=f99456fbed5f31e6",
     "scraped_at": "2026-08-11T13:20:53.242131"
+  },
+  {
+    "title": "Cyber Security Officer - Products and Services",
+    "company": "Australian Government",
+    "url": "https://au.indeed.com/viewjob?jk=dda4f98dd3e9f682",
+    "scraped_at": "2026-08-11T17:04:38.117481"
   }
 ]
