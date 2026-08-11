@@ -1,17 +1,5 @@
 [
   {
-    "title": "Occupational Therapist - Metro and FIFO to Remote Communities",
-    "company": "St Louis Aged Care",
-    "url": "https://au.indeed.com/viewjob?jk=b35c8d0419e9d0fe",
-    "scraped_at": "2026-03-20T05:19:07.465122"
-  },
-  {
-    "title": "Personal Care Assistant- Centennial Lodge",
-    "company": "Royal Freemasons Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=997983470900de1f",
-    "scraped_at": "2026-03-20T05:19:07.465291"
-  },
-  {
     "title": "Administration Assistant / Receptionist",
     "company": "Juniper",
     "url": "https://au.indeed.com/viewjob?jk=1e66061ebf3b8fea",
@@ -5998,5 +5986,17 @@
     "company": "Golding Contractors",
     "url": "https://au.indeed.com/viewjob?jk=8bef72cedf590092",
     "scraped_at": "2026-08-11T02:12:01.269953"
+  },
+  {
+    "title": "System Support Specialist (Windows, SQL)",
+    "company": "Intelerad",
+    "url": "https://au.indeed.com/viewjob?jk=876cfbe7798ce222",
+    "scraped_at": "2026-08-11T05:15:45.569635"
+  },
+  {
+    "title": "Site Administrator - Health & Safety",
+    "company": "NORTHERN STAR RESOURCES",
+    "url": "https://au.indeed.com/viewjob?jk=6b49b9e014e565f0",
+    "scraped_at": "2026-08-11T05:15:45.583537"
   }
 ]
