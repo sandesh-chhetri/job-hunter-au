@@ -1,41 +1,5 @@
 [
   {
-    "title": "Administrator",
-    "company": "MUFG",
-    "url": "https://au.indeed.com/viewjob?jk=04edac521c01df53",
-    "scraped_at": "2026-03-20T08:53:42.103404"
-  },
-  {
-    "title": "Tourism Officer - Injune",
-    "company": "Maranoa Regional Council",
-    "url": "https://au.indeed.com/viewjob?jk=d937b93b4a1bd85a",
-    "scraped_at": "2026-03-20T13:17:05.857618"
-  },
-  {
-    "title": "Administrative Support Officer",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=ba618eda8740b1ea",
-    "scraped_at": "2026-03-20T13:17:05.868018"
-  },
-  {
-    "title": "Administrator",
-    "company": "MUFG",
-    "url": "https://au.indeed.com/viewjob?jk=e1f243a001a8ceb3",
-    "scraped_at": "2026-03-20T13:17:05.879581"
-  },
-  {
-    "title": "Administrative Support Officer",
-    "company": "NSW Health",
-    "url": "https://au.indeed.com/viewjob?jk=fbafe817d80b8005",
-    "scraped_at": "2026-03-20T14:07:36.890721"
-  },
-  {
-    "title": "Software Engineer - Core",
-    "company": "EasyGo",
-    "url": "https://au.indeed.com/viewjob?jk=51b2e65afb625327",
-    "scraped_at": "2026-03-20T14:07:36.948553"
-  },
-  {
     "title": "FIFO Training Coordinator",
     "company": "Compass Group Australia",
     "url": "https://au.indeed.com/viewjob?jk=2a86f804380638dd",
@@ -5998,5 +5962,41 @@
     "company": "City of Darwin",
     "url": "https://au.indeed.com/viewjob?jk=002fe4d32bfef020",
     "scraped_at": "2026-08-11T09:06:49.433940"
+  },
+  {
+    "title": "Operational Service Officer",
+    "company": "Queensland Government",
+    "url": "https://au.indeed.com/viewjob?jk=87a3fe5840878811",
+    "scraped_at": "2026-08-11T13:20:53.181315"
+  },
+  {
+    "title": "L1 Network and Desktop Support",
+    "company": "MNL Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=1535acbeea4873c4",
+    "scraped_at": "2026-08-11T13:20:53.194935"
+  },
+  {
+    "title": "Cloud R Analyst",
+    "company": "Epicor Software",
+    "url": "https://au.indeed.com/viewjob?jk=d8ce82c4d5bc1147",
+    "scraped_at": "2026-08-11T13:20:53.230044"
+  },
+  {
+    "title": "Curriculum & Digital Learning Specialist",
+    "company": "Nuix",
+    "url": "https://au.indeed.com/viewjob?jk=b97d026e57f2b456",
+    "scraped_at": "2026-08-11T13:20:53.231331"
+  },
+  {
+    "title": "ICT Business Analyst",
+    "company": "Build 2 Trade",
+    "url": "https://au.indeed.com/viewjob?jk=aff459ce5dab1454",
+    "scraped_at": "2026-08-11T13:20:53.239966"
+  },
+  {
+    "title": "Labour Standards Analyst",
+    "company": "Coles Group",
+    "url": "https://au.indeed.com/viewjob?jk=f99456fbed5f31e6",
+    "scraped_at": "2026-08-11T13:20:53.242131"
   }
 ]
