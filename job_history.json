@@ -1,17 +1,5 @@
 [
   {
-    "title": "Administration Assistant / Receptionist",
-    "company": "Juniper",
-    "url": "https://au.indeed.com/viewjob?jk=1e66061ebf3b8fea",
-    "scraped_at": "2026-03-20T05:19:07.473285"
-  },
-  {
-    "title": "Administrative Support Officer",
-    "company": "St Vincent\u2019s Health Australia",
-    "url": "https://au.indeed.com/viewjob?jk=31ed69dbdcb71e84",
-    "scraped_at": "2026-03-20T08:53:42.091142"
-  },
-  {
     "title": "Administrator",
     "company": "MUFG",
     "url": "https://au.indeed.com/viewjob?jk=04edac521c01df53",
@@ -5998,5 +5986,17 @@
     "company": "NORTHERN STAR RESOURCES",
     "url": "https://au.indeed.com/viewjob?jk=6b49b9e014e565f0",
     "scraped_at": "2026-08-11T05:15:45.583537"
+  },
+  {
+    "title": "Lending Services Analyst",
+    "company": "REA Group",
+    "url": "https://au.indeed.com/viewjob?jk=b31c821ec76fd538",
+    "scraped_at": "2026-08-11T09:06:49.427758"
+  },
+  {
+    "title": "Records Officer",
+    "company": "City of Darwin",
+    "url": "https://au.indeed.com/viewjob?jk=002fe4d32bfef020",
+    "scraped_at": "2026-08-11T09:06:49.433940"
   }
 ]
