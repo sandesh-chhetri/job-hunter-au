@@ -1,17 +1,5 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=a5bdfe8b8ebe3e04",
-    "scraped_at": "2026-03-23T13:25:51.401365"
-  },
-  {
-    "title": "DevOps Engineer - Remote",
-    "company": "YO IT CONSULTING",
-    "url": "https://au.indeed.com/viewjob?jk=6c8a5d3fda3de974",
-    "scraped_at": "2026-03-23T17:02:50.920821"
-  },
-  {
     "title": "DevOps Engineer - Remote",
     "company": "YO IT CONSULTING",
     "url": "https://au.indeed.com/viewjob?jk=b08a9e6b5c4e3afe",
@@ -5998,5 +5986,17 @@
     "company": "REA Group",
     "url": "https://au.indeed.com/viewjob?jk=7fdd38781497aa92",
     "scraped_at": "2026-08-12T09:18:31.728329"
+  },
+  {
+    "title": "Revenue Officer",
+    "company": "Australian Unity",
+    "url": "https://au.indeed.com/viewjob?jk=542dc0ecd0d148da",
+    "scraped_at": "2026-08-12T13:25:09.449906"
+  },
+  {
+    "title": "ICT Business Analyst",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=3eed7118109acae2",
+    "scraped_at": "2026-08-12T13:25:09.494263"
   }
 ]
