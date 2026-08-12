@@ -1,11 +1,5 @@
 [
   {
-    "title": "AI Engineer",
-    "company": "Vikara.AI",
-    "url": "https://au.indeed.com/viewjob?jk=b906205eebb69eaf",
-    "scraped_at": "2026-03-20T20:42:11.004787"
-  },
-  {
     "title": "Claims Officer",
     "company": "QBE",
     "url": "https://au.indeed.com/viewjob?jk=eca9c5a58575b3ea",
@@ -5998,5 +5992,11 @@
     "company": "Australian Government",
     "url": "https://au.indeed.com/viewjob?jk=dda4f98dd3e9f682",
     "scraped_at": "2026-08-11T17:04:38.117481"
+  },
+  {
+    "title": "Lending Services Analyst",
+    "company": "News Corp",
+    "url": "https://au.indeed.com/viewjob?jk=10c48b5ddf59ec99",
+    "scraped_at": "2026-08-12T02:29:38.322378"
   }
 ]
