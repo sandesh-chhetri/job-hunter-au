@@ -1,29 +1,5 @@
 [
   {
-    "title": "Client Services Administrator",
-    "company": "Fullstack Advisory",
-    "url": "https://au.indeed.com/viewjob?jk=72f9eb847d673ca5",
-    "scraped_at": "2026-03-23T05:44:03.485393"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Trademax Global Markets",
-    "url": "https://au.indeed.com/viewjob?jk=62e708fb1100baff",
-    "scraped_at": "2026-03-23T05:44:03.495790"
-  },
-  {
-    "title": "Actuarial Analyst - Modelling & Insights",
-    "company": "QBE",
-    "url": "https://au.indeed.com/viewjob?jk=95135dc738210024",
-    "scraped_at": "2026-03-23T09:08:40.418000"
-  },
-  {
-    "title": "Data and AI Enablement Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=9ead6d335c7e24f9",
-    "scraped_at": "2026-03-23T13:25:51.377960"
-  },
-  {
     "title": "Software Engineer",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=a5bdfe8b8ebe3e04",
@@ -5998,5 +5974,29 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=118df43fd6772458",
     "scraped_at": "2026-08-12T05:42:39.481487"
+  },
+  {
+    "title": "Network & IT Systems Engineer",
+    "company": "Andromeda Robotics",
+    "url": "https://au.indeed.com/viewjob?jk=5a047eec3479f614",
+    "scraped_at": "2026-08-12T09:18:31.650303"
+  },
+  {
+    "title": "IT Support Engineer",
+    "company": "Metcash",
+    "url": "https://au.indeed.com/viewjob?jk=3b906a01d067d961",
+    "scraped_at": "2026-08-12T09:18:31.657747"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "REA Group",
+    "url": "https://au.indeed.com/viewjob?jk=2b1ddd4e3259d256",
+    "scraped_at": "2026-08-12T09:18:31.727159"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "REA Group",
+    "url": "https://au.indeed.com/viewjob?jk=7fdd38781497aa92",
+    "scraped_at": "2026-08-12T09:18:31.728329"
   }
 ]
