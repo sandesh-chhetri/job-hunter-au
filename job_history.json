@@ -1,17 +1,5 @@
 [
   {
-    "title": "Work Health and Safety Administrator",
-    "company": "Moreton Bay Regional Council",
-    "url": "https://au.indeed.com/viewjob?jk=405f5174126386dd",
-    "scraped_at": "2026-03-25T09:01:10.955322"
-  },
-  {
-    "title": "SAP Technical Business Analyst",
-    "company": "Kogan",
-    "url": "https://au.indeed.com/viewjob?jk=0a9d5df2d277334a",
-    "scraped_at": "2026-03-25T09:01:10.962944"
-  },
-  {
     "title": "Business Analyst",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=a5affa4c2f3d3943",
@@ -5998,5 +5986,17 @@
     "company": "News Corp",
     "url": "https://au.indeed.com/viewjob?jk=252d3bb0f685ca6c",
     "scraped_at": "2026-08-13T13:26:41.246077"
+  },
+  {
+    "title": "Technical Support Consultant",
+    "company": "ELMO Software",
+    "url": "https://au.indeed.com/viewjob?jk=24fe752d04320c41",
+    "scraped_at": "2026-08-13T17:03:33.350954"
+  },
+  {
+    "title": "Intake & Assessments Advisor",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=98ce8e16d9474fb0",
+    "scraped_at": "2026-08-13T17:03:33.429263"
   }
 ]
