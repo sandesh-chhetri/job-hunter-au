@@ -1,29 +1,5 @@
 [
   {
-    "title": "DevOps Engineer - Remote",
-    "company": "YO IT CONSULTING",
-    "url": "https://au.indeed.com/viewjob?jk=b08a9e6b5c4e3afe",
-    "scraped_at": "2026-03-23T17:02:50.921195"
-  },
-  {
-    "title": "NOC Operator - Broadcast Service Management Centre",
-    "company": "BAI Communications",
-    "url": "https://au.indeed.com/viewjob?jk=c764b701214be7ee",
-    "scraped_at": "2026-03-24T02:46:15.531195"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "XO Sports",
-    "url": "https://au.indeed.com/viewjob?jk=107336c661309374",
-    "scraped_at": "2026-03-24T02:46:15.585428"
-  },
-  {
-    "title": "Financial Crime (AML) Analyst",
-    "company": "Great Southern Bank",
-    "url": "https://au.indeed.com/viewjob?jk=463ec63bdd415619",
-    "scraped_at": "2026-03-24T13:41:38.784008"
-  },
-  {
     "title": "Cloud Network SME engineer",
     "company": "Tata Consultancy Services (TCS)",
     "url": "https://au.indeed.com/viewjob?jk=aeab7c63fa71ef1d",
@@ -5998,5 +5974,29 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=3eed7118109acae2",
     "scraped_at": "2026-08-12T13:25:09.494263"
+  },
+  {
+    "title": "Trainee Asset Inspector",
+    "company": "CitiPower and Powercor",
+    "url": "https://au.indeed.com/viewjob?jk=ca51e38abefc7b43",
+    "scraped_at": "2026-08-13T02:31:17.056954"
+  },
+  {
+    "title": "Trainee Asset Inspector",
+    "company": "CitiPower and Powercor",
+    "url": "https://au.indeed.com/viewjob?jk=249a4ca548e82cc9",
+    "scraped_at": "2026-08-13T02:31:17.057627"
+  },
+  {
+    "title": "Trainee Asset Inspector",
+    "company": "CitiPower and Powercor",
+    "url": "https://au.indeed.com/viewjob?jk=95e09ee70167a7a9",
+    "scraped_at": "2026-08-13T02:31:17.058298"
+  },
+  {
+    "title": "Trainee Asset Inspector",
+    "company": "CitiPower and Powercor",
+    "url": "https://au.indeed.com/viewjob?jk=974906ea6bccc7b2",
+    "scraped_at": "2026-08-13T02:31:17.058968"
   }
 ]
