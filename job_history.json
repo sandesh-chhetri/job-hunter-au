@@ -1,11 +1,5 @@
 [
   {
-    "title": "Business Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=a5affa4c2f3d3943",
-    "scraped_at": "2026-03-25T13:41:00.725879"
-  },
-  {
     "title": "Energy Pricing Analyst",
     "company": "Alinta Energy",
     "url": "https://au.indeed.com/viewjob?jk=860f7ab97b404149",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=98ce8e16d9474fb0",
     "scraped_at": "2026-08-13T17:03:33.429263"
+  },
+  {
+    "title": "Epidemiologist and Surveillance Officer, Diphtheria",
+    "company": "NT Health",
+    "url": "https://au.indeed.com/viewjob?jk=b328bbc2c82731db",
+    "scraped_at": "2026-08-13T20:52:21.582862"
   }
 ]
