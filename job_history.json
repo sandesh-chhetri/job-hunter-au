@@ -1,17 +1,5 @@
 [
   {
-    "title": "Outbound Contact Centre Agent",
-    "company": "For Health Group",
-    "url": "https://au.indeed.com/viewjob?jk=bdeafac3dc4b6e6c",
-    "scraped_at": "2026-03-25T02:51:09.387016"
-  },
-  {
-    "title": "Policy & Compliance - Officer",
-    "company": "Water Corporation",
-    "url": "https://au.indeed.com/viewjob?jk=70aaceb03d73466c",
-    "scraped_at": "2026-03-25T09:01:10.921812"
-  },
-  {
     "title": "Work Health and Safety Administrator",
     "company": "Moreton Bay Regional Council",
     "url": "https://au.indeed.com/viewjob?jk=405f5174126386dd",
@@ -5998,5 +5986,17 @@
     "company": "MNL Technologies",
     "url": "https://au.indeed.com/viewjob?jk=2f0a745d9e0bd1bd",
     "scraped_at": "2026-08-13T09:19:27.305182"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "News Corp",
+    "url": "https://au.indeed.com/viewjob?jk=62ab0554b167542d",
+    "scraped_at": "2026-08-13T13:26:41.245039"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "News Corp",
+    "url": "https://au.indeed.com/viewjob?jk=252d3bb0f685ca6c",
+    "scraped_at": "2026-08-13T13:26:41.246077"
   }
 ]
