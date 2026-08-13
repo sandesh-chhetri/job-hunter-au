@@ -1,11 +1,5 @@
 [
   {
-    "title": "Program Officer",
-    "company": "Queensland Government",
-    "url": "https://au.indeed.com/viewjob?jk=6a68fe0201fcecba",
-    "scraped_at": "2026-03-25T02:51:09.372503"
-  },
-  {
     "title": "Outbound Contact Centre Agent",
     "company": "For Health Group",
     "url": "https://au.indeed.com/viewjob?jk=bdeafac3dc4b6e6c",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=42dce56928883f5a",
     "scraped_at": "2026-08-13T05:44:57.388064"
+  },
+  {
+    "title": "L1 Network and Desktop Support",
+    "company": "MNL Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=2f0a745d9e0bd1bd",
+    "scraped_at": "2026-08-13T09:19:27.305182"
   }
 ]
