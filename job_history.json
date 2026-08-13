@@ -1,11 +1,5 @@
 [
   {
-    "title": "Cloud Network SME engineer",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=aeab7c63fa71ef1d",
-    "scraped_at": "2026-03-24T13:41:38.802406"
-  },
-  {
     "title": "Program Officer",
     "company": "Queensland Government",
     "url": "https://au.indeed.com/viewjob?jk=6a68fe0201fcecba",
@@ -5998,5 +5992,11 @@
     "company": "CitiPower and Powercor",
     "url": "https://au.indeed.com/viewjob?jk=974906ea6bccc7b2",
     "scraped_at": "2026-08-13T02:31:17.058968"
+  },
+  {
+    "title": "Project Change Coordinator",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=42dce56928883f5a",
+    "scraped_at": "2026-08-13T05:44:57.388064"
   }
 ]
