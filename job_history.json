@@ -1,23 +1,5 @@
 [
   {
-    "title": "Governance Analyst",
-    "company": "Coles Group",
-    "url": "https://au.indeed.com/viewjob?jk=6af3f9d8902c69a9",
-    "scraped_at": "2026-03-26T05:44:54.707613"
-  },
-  {
-    "title": "Water Monitoring Field Officer / Hydrographer - Nepean Depot (Southern Highlands / Bargo / Wollongong)",
-    "company": "WaterNSW",
-    "url": "https://au.indeed.com/viewjob?jk=8ad4f73c782da3f1",
-    "scraped_at": "2026-03-26T09:08:03.468679"
-  },
-  {
-    "title": "Administrator Learning and Development",
-    "company": "Country Fire Authority",
-    "url": "https://au.indeed.com/viewjob?jk=f1d05d606dd54ec2",
-    "scraped_at": "2026-03-26T09:08:03.522300"
-  },
-  {
     "title": "Administrator Learning and Development",
     "company": "Country Fire Authority",
     "url": "https://au.indeed.com/viewjob?jk=0acd43e571d45254",
@@ -5998,5 +5980,23 @@
     "company": "myhealth E",
     "url": "https://au.indeed.com/viewjob?jk=37beb55f6237db55",
     "scraped_at": "2026-08-14T02:29:37.635516"
+  },
+  {
+    "title": "Property Officer",
+    "company": "Sunshine Coast Regional Council",
+    "url": "https://au.indeed.com/viewjob?jk=c01fb1d64e7b13b9",
+    "scraped_at": "2026-08-14T05:42:29.353366"
+  },
+  {
+    "title": "eExam IT Support Officer",
+    "company": "Monash University",
+    "url": "https://au.indeed.com/viewjob?jk=e3567bc8e864dffc",
+    "scraped_at": "2026-08-14T05:42:29.354212"
+  },
+  {
+    "title": "Quality Engineer",
+    "company": "Corto Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=960ce12aa06ca7ed",
+    "scraped_at": "2026-08-14T05:42:29.423831"
   }
 ]
