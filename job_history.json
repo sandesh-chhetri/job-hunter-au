@@ -1,11 +1,5 @@
 [
   {
-    "title": "Energy Pricing Analyst",
-    "company": "Alinta Energy",
-    "url": "https://au.indeed.com/viewjob?jk=860f7ab97b404149",
-    "scraped_at": "2026-03-26T02:57:54.585667"
-  },
-  {
     "title": "Governance Analyst",
     "company": "Coles Group",
     "url": "https://au.indeed.com/viewjob?jk=6af3f9d8902c69a9",
@@ -5998,5 +5992,11 @@
     "company": "NT Health",
     "url": "https://au.indeed.com/viewjob?jk=b328bbc2c82731db",
     "scraped_at": "2026-08-13T20:52:21.582862"
+  },
+  {
+    "title": "IT Support (Medical Centre) \u2013 Casual / Part-Time (ABN)",
+    "company": "myhealth E",
+    "url": "https://au.indeed.com/viewjob?jk=37beb55f6237db55",
+    "scraped_at": "2026-08-14T02:29:37.635516"
   }
 ]
