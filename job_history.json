@@ -1,17 +1,5 @@
 [
   {
-    "title": "Precedent Developer (Legal Precedents and Automation)",
-    "company": "Department of Justice and Community Safety",
-    "url": "https://au.indeed.com/viewjob?jk=2922ca4717c68c06",
-    "scraped_at": "2026-03-26T09:08:03.552643"
-  },
-  {
-    "title": "Precedent Developer (Legal Precedents and Automation)",
-    "company": "Victorian Government",
-    "url": "https://au.indeed.com/viewjob?jk=30dbde7e198e805b",
-    "scraped_at": "2026-03-26T09:08:03.553727"
-  },
-  {
     "title": "Software Engineer",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=4b68181f84ad2cb6",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=407ce9ab3cc24b41",
     "scraped_at": "2026-08-14T09:13:39.059540"
+  },
+  {
+    "title": "Physiotherapist",
+    "company": "Suncare Community Services",
+    "url": "https://au.indeed.com/viewjob?jk=1ba3ebd7e55cc6e3",
+    "scraped_at": "2026-08-14T13:21:38.255086"
+  },
+  {
+    "title": "Bridge Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=5c6ae91633ba6979",
+    "scraped_at": "2026-08-14T13:21:38.314426"
   }
 ]
