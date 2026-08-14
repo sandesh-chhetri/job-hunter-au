@@ -1,11 +1,5 @@
 [
   {
-    "title": "Administrator Learning and Development",
-    "company": "Country Fire Authority",
-    "url": "https://au.indeed.com/viewjob?jk=0acd43e571d45254",
-    "scraped_at": "2026-03-26T09:08:03.523101"
-  },
-  {
     "title": "Precedent Developer (Legal Precedents and Automation)",
     "company": "Department of Justice and Community Safety",
     "url": "https://au.indeed.com/viewjob?jk=2922ca4717c68c06",
@@ -5998,5 +5992,11 @@
     "company": "Corto Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=960ce12aa06ca7ed",
     "scraped_at": "2026-08-14T05:42:29.423831"
+  },
+  {
+    "title": "Road Designer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=407ce9ab3cc24b41",
+    "scraped_at": "2026-08-14T09:13:39.059540"
   }
 ]
