@@ -1,11 +1,5 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=4b68181f84ad2cb6",
-    "scraped_at": "2026-03-26T09:08:03.554465"
-  },
-  {
     "title": "HIS Scanning Clerk",
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=02ed022c282698a6",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=5c6ae91633ba6979",
     "scraped_at": "2026-08-14T13:21:38.314426"
+  },
+  {
+    "title": "Data Centre Operations Coordinator",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=bd6bcc1eb637b4dc",
+    "scraped_at": "2026-08-15T20:30:26.304020"
   }
 ]
