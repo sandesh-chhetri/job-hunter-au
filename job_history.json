@@ -1,17 +1,5 @@
 [
   {
-    "title": "Program and Project Administrator",
-    "company": "Stageset Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=f4a4565d1498d9d7",
-    "scraped_at": "2026-03-30T03:26:47.993033"
-  },
-  {
-    "title": "Support Officer",
-    "company": "ReadyTech Group",
-    "url": "https://au.indeed.com/viewjob?jk=d822e621148deadb",
-    "scraped_at": "2026-03-30T09:23:11.101703"
-  },
-  {
     "title": "Claims Operations Support Officer",
     "company": "Victorian Managed Insurance Authority",
     "url": "https://au.indeed.com/viewjob?jk=3e3ccfe0d7aea6fb",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=132ef3d5624b6d9c",
     "scraped_at": "2026-08-17T12:56:52.861812"
+  },
+  {
+    "title": "Document Controller",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=9818584243873ba7",
+    "scraped_at": "2026-08-17T20:34:04.874774"
+  },
+  {
+    "title": "Demand & Prioritisation Specialist",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=e8482bdf8566389d",
+    "scraped_at": "2026-08-17T20:34:04.875229"
   }
 ]
