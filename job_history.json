@@ -1,23 +1,5 @@
 [
   {
-    "title": "Plant Operator Grade 2",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=a78a84771d737605",
-    "scraped_at": "2026-03-27T05:46:06.476902"
-  },
-  {
-    "title": "Support Technician (IT & AV Systems)",
-    "company": "Cyberry PTY LTD",
-    "url": "https://au.indeed.com/viewjob?jk=250dd5f238a6a272",
-    "scraped_at": "2026-03-27T09:03:18.322304"
-  },
-  {
-    "title": "Insights Analyst- Commercial and Trade",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=43240322edbef785",
-    "scraped_at": "2026-03-27T09:03:18.366868"
-  },
-  {
     "title": "Enrolled Nurse (Renal Ambulatory Care) - St Vincent's Public Hospital, Sydney",
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=f21ee0e7de192911",
@@ -5998,5 +5980,23 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=d7675f7b46e23af0",
     "scraped_at": "2026-08-16T20:30:09.326749"
+  },
+  {
+    "title": "IT Hardware Technician",
+    "company": "AMT Electronics",
+    "url": "https://au.indeed.com/viewjob?jk=75123f137c82191a",
+    "scraped_at": "2026-08-17T04:51:26.230330"
+  },
+  {
+    "title": "Data Analyst (Finance)",
+    "company": "Revolut",
+    "url": "https://au.indeed.com/viewjob?jk=5f3bd08ce54b7beb",
+    "scraped_at": "2026-08-17T04:51:26.272936"
+  },
+  {
+    "title": "FP&A Analyst | Commodities & Global Markets",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=09817a993dffb8ec",
+    "scraped_at": "2026-08-17T04:51:26.274582"
   }
 ]
