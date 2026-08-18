@@ -1,17 +1,5 @@
 [
   {
-    "title": "Automation Tester",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=118cd998615005df",
-    "scraped_at": "2026-03-30T13:51:47.656031"
-  },
-  {
-    "title": "Full Stack Developer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=5841a6d17c747b2e",
-    "scraped_at": "2026-03-30T17:06:05.669134"
-  },
-  {
     "title": "Software Engineer",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=2d47754a84ad5f47",
@@ -5998,5 +5986,17 @@
     "company": "Hero Travel",
     "url": "https://au.indeed.com/viewjob?jk=4e281e652c25aab5",
     "scraped_at": "2026-08-18T04:42:06.586006"
+  },
+  {
+    "title": "Test Automation Engineer - Telecommunications and IT",
+    "company": "Socia",
+    "url": "https://au.indeed.com/viewjob?jk=0bb409cc7a453254",
+    "scraped_at": "2026-08-18T08:46:09.903811"
+  },
+  {
+    "title": "Application Tester - Telecommunications and IT",
+    "company": "Socia",
+    "url": "https://au.indeed.com/viewjob?jk=d978f8289987368c",
+    "scraped_at": "2026-08-18T08:46:09.904165"
   }
 ]
