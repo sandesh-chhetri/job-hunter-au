@@ -1,11 +1,5 @@
 [
   {
-    "title": "Software Engineer - Core",
-    "company": "EasyGo",
-    "url": "https://au.indeed.com/viewjob?jk=2f7de4f59c0b7c66",
-    "scraped_at": "2026-03-30T20:56:22.672316"
-  },
-  {
     "title": "Web Developer (Full Stack)",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=ccc931ac65136a88",
@@ -5998,5 +5992,11 @@
     "company": "4DMedical",
     "url": "https://au.indeed.com/viewjob?jk=29a612040b713ec2",
     "scraped_at": "2026-08-19T04:43:53.154210"
+  },
+  {
+    "title": "Advanced Operational Solutions - Technical Advisor",
+    "company": "Water Corporation",
+    "url": "https://au.indeed.com/viewjob?jk=bd306498fc4eb418",
+    "scraped_at": "2026-08-19T08:46:48.935627"
   }
 ]
