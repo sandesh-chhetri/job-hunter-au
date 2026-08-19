@@ -1,11 +1,5 @@
 [
   {
-    "title": "Market Analyst",
-    "company": "Modo Energy",
-    "url": "https://au.indeed.com/viewjob?jk=f8bcfcdf3ee2da99",
-    "scraped_at": "2026-03-30T20:56:22.654596"
-  },
-  {
     "title": "Software Engineer - Core",
     "company": "EasyGo",
     "url": "https://au.indeed.com/viewjob?jk=2f7de4f59c0b7c66",
@@ -5998,5 +5992,11 @@
     "company": "Levande",
     "url": "https://au.indeed.com/viewjob?jk=c74c1eef0e5d37ce",
     "scraped_at": "2026-08-18T12:58:34.286656"
+  },
+  {
+    "title": "Site Reliability Engineer",
+    "company": "4DMedical",
+    "url": "https://au.indeed.com/viewjob?jk=29a612040b713ec2",
+    "scraped_at": "2026-08-19T04:43:53.154210"
   }
 ]
