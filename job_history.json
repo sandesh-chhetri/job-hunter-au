@@ -1,11 +1,5 @@
 [
   {
-    "title": "Statistical Forecast Analyst",
-    "company": "ALDI",
-    "url": "https://au.indeed.com/viewjob?jk=f61529a2ce62b69d",
-    "scraped_at": "2026-04-01T06:00:48.058589"
-  },
-  {
     "title": "Systems Administrator",
     "company": "Monster Furniture Clearance Outlet",
     "url": "https://au.indeed.com/viewjob?jk=63b3ae60eeed6ae9",
@@ -5998,5 +5992,11 @@
     "company": "Banyule City Council",
     "url": "https://au.indeed.com/viewjob?jk=4688df1721e812f1",
     "scraped_at": "2026-08-20T01:40:48.136104"
+  },
+  {
+    "title": "Systems Administrator",
+    "company": "mCare Digital",
+    "url": "https://au.indeed.com/viewjob?jk=720c6683223fc109",
+    "scraped_at": "2026-08-20T04:44:00.242037"
   }
 ]
