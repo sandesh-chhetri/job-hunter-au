@@ -1,11 +1,5 @@
 [
   {
-    "title": "Level 2 IT Support \u2013 Managed Service Provider",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=57e9186afc7c4a0e",
-    "scraped_at": "2026-04-01T06:00:48.019055"
-  },
-  {
     "title": "Statistical Forecast Analyst",
     "company": "ALDI",
     "url": "https://au.indeed.com/viewjob?jk=f61529a2ce62b69d",
@@ -5998,5 +5992,11 @@
     "company": "TechBiz Global GmbH",
     "url": "https://au.indeed.com/viewjob?jk=76dfd91bb5858e6b",
     "scraped_at": "2026-08-19T16:38:42.849269"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Banyule City Council",
+    "url": "https://au.indeed.com/viewjob?jk=4688df1721e812f1",
+    "scraped_at": "2026-08-20T01:40:48.136104"
   }
 ]
