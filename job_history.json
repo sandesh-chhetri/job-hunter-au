@@ -1,11 +1,5 @@
 [
   {
-    "title": "Customer Service Technical Support",
-    "company": "Smart Energy",
-    "url": "https://au.indeed.com/viewjob?jk=b9e9906ec8250c8a",
-    "scraped_at": "2026-04-01T13:54:45.142199"
-  },
-  {
     "title": "Care Integration Nurse / Paramedic",
     "company": "Medibank",
     "url": "https://au.indeed.com/viewjob?jk=37f32cfb0ef961ac",
@@ -5998,5 +5992,11 @@
     "company": "Worley",
     "url": "https://au.indeed.com/viewjob?jk=2d75a179d11a537d",
     "scraped_at": "2026-08-20T13:02:12.941577"
+  },
+  {
+    "title": "Technical Support & Onsite Services Officer",
+    "company": "ICS",
+    "url": "https://au.indeed.com/viewjob?jk=331c928eb80f20ca",
+    "scraped_at": "2026-08-21T01:45:54.950962"
   }
 ]
