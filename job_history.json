@@ -1,47 +1,5 @@
 [
   {
-    "title": "Care Integration Nurse / Paramedic",
-    "company": "Medibank",
-    "url": "https://au.indeed.com/viewjob?jk=37f32cfb0ef961ac",
-    "scraped_at": "2026-04-01T13:54:45.149787"
-  },
-  {
-    "title": "DATA ANALYST",
-    "company": "HBF Health",
-    "url": "https://au.indeed.com/viewjob?jk=ca780fd56cca8e8c",
-    "scraped_at": "2026-04-01T13:54:45.182425"
-  },
-  {
-    "title": "Subject Matter Expert \u2013 VFX Artists (Remote - Sydney)",
-    "company": "Prolific Academic Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=54a5b213bc55baff",
-    "scraped_at": "2026-04-01T13:54:45.206814"
-  },
-  {
-    "title": "Volunteer Support / Administrator",
-    "company": "St Vincent\u2019s Health Australia",
-    "url": "https://au.indeed.com/viewjob?jk=748eda902a9173bd",
-    "scraped_at": "2026-04-02T02:55:45.911212"
-  },
-  {
-    "title": "Health Info Services Officer",
-    "company": "Healthscope Limited",
-    "url": "https://au.indeed.com/viewjob?jk=7d0f812a0442162a",
-    "scraped_at": "2026-04-02T05:45:24.757003"
-  },
-  {
-    "title": "Pricing & Category Analyst",
-    "company": "Jivaro",
-    "url": "https://au.indeed.com/viewjob?jk=e660661d76c44a35",
-    "scraped_at": "2026-04-02T05:45:24.813926"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "EdgeRed Analytics",
-    "url": "https://au.indeed.com/viewjob?jk=4080193b01cb7ede",
-    "scraped_at": "2026-04-02T05:45:24.814458"
-  },
-  {
     "title": "Network Integration Coordinator",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=384b08af85f2ec69",
@@ -5998,5 +5956,47 @@
     "company": "ICS",
     "url": "https://au.indeed.com/viewjob?jk=331c928eb80f20ca",
     "scraped_at": "2026-08-21T01:45:54.950962"
+  },
+  {
+    "title": "People & Culture Administrator (Part-time)",
+    "company": "IKEA",
+    "url": "https://au.indeed.com/viewjob?jk=96d9c81a0d698fdc",
+    "scraped_at": "2026-08-21T08:49:55.526310"
+  },
+  {
+    "title": "Administrator",
+    "company": "Perpetual",
+    "url": "https://au.indeed.com/viewjob?jk=25bdb542cc91e8b9",
+    "scraped_at": "2026-08-21T08:49:55.559796"
+  },
+  {
+    "title": "Application Support Analyst",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=994a2b04e2cb5f8e",
+    "scraped_at": "2026-08-21T08:49:55.570945"
+  },
+  {
+    "title": "Requirements, Assurance & Traceability Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=737c1cc340ab5995",
+    "scraped_at": "2026-08-21T08:49:55.572250"
+  },
+  {
+    "title": "Cost & Change Control Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=384a868941c5d21b",
+    "scraped_at": "2026-08-21T08:49:55.572927"
+  },
+  {
+    "title": "Planning and Scheduling Officer",
+    "company": "Stream Services Registered NDIS Provider",
+    "url": "https://au.indeed.com/viewjob?jk=98ab9ddcb16b62e9",
+    "scraped_at": "2026-08-21T08:49:55.579078"
+  },
+  {
+    "title": "Platform Engineer \u2013 Azure / DevOps",
+    "company": "Diksha Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=2a495ffef45bbe02",
+    "scraped_at": "2026-08-21T08:49:55.596554"
   }
 ]
