@@ -1,11 +1,5 @@
 [
   {
-    "title": "Applications Analyst",
-    "company": "Baptistcare - WA",
-    "url": "https://au.indeed.com/viewjob?jk=5e667740598c55f2",
-    "scraped_at": "2026-04-02T09:09:59.151253"
-  },
-  {
     "title": "Application Support Analyst",
     "company": "Kogan",
     "url": "https://au.indeed.com/viewjob?jk=54ee4dbbfb479ac6",
@@ -5998,5 +5992,11 @@
     "company": "Hitachi Rail",
     "url": "https://au.indeed.com/viewjob?jk=11ec5f6d1d43e743",
     "scraped_at": "2026-08-22T01:39:10.071130"
+  },
+  {
+    "title": "Testing and Commissioning Engineer",
+    "company": "Hitachi Energy",
+    "url": "https://au.indeed.com/viewjob?jk=4bdb61149ace8dde",
+    "scraped_at": "2026-08-22T04:40:32.159548"
   }
 ]
