@@ -1,11 +1,5 @@
 [
   {
-    "title": "IT Partner - Service Management Specialist (12 Month MTC)",
-    "company": "CHALLENGER",
-    "url": "https://au.indeed.com/viewjob?jk=17ac361bf35a93ca",
-    "scraped_at": "2026-04-02T09:09:59.105629"
-  },
-  {
     "title": "Applications Analyst",
     "company": "Baptistcare - WA",
     "url": "https://au.indeed.com/viewjob?jk=5e667740598c55f2",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=cccaf3a52924498c",
     "scraped_at": "2026-08-21T13:00:54.596153"
+  },
+  {
+    "title": "Testing and Commissioning Engineer",
+    "company": "Hitachi Rail",
+    "url": "https://au.indeed.com/viewjob?jk=11ec5f6d1d43e743",
+    "scraped_at": "2026-08-22T01:39:10.071130"
   }
 ]
