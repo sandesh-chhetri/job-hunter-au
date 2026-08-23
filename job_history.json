@@ -1,17 +1,5 @@
 [
   {
-    "title": "Application Support Analyst",
-    "company": "Kogan",
-    "url": "https://au.indeed.com/viewjob?jk=54ee4dbbfb479ac6",
-    "scraped_at": "2026-04-02T09:09:59.151790"
-  },
-  {
-    "title": "Applications Analyst",
-    "company": "Baptist Care",
-    "url": "https://au.indeed.com/viewjob?jk=a727debd038851f8",
-    "scraped_at": "2026-04-02T13:45:04.129694"
-  },
-  {
     "title": "CRM / Customer Analyst",
     "company": "Coles Group",
     "url": "https://au.indeed.com/viewjob?jk=1e90800ec334785b",
@@ -5998,5 +5986,17 @@
     "company": "Hitachi Energy",
     "url": "https://au.indeed.com/viewjob?jk=4bdb61149ace8dde",
     "scraped_at": "2026-08-22T04:40:32.159548"
+  },
+  {
+    "title": "Data and Reporting Project Analyst",
+    "company": "NT Health",
+    "url": "https://au.indeed.com/viewjob?jk=36e77173f99788d0",
+    "scraped_at": "2026-08-23T20:31:06.195441"
+  },
+  {
+    "title": "Business Documentation Project Officer",
+    "company": "NT Health",
+    "url": "https://au.indeed.com/viewjob?jk=c1a2091355beecf5",
+    "scraped_at": "2026-08-23T20:31:06.196699"
   }
 ]
