@@ -1,11 +1,5 @@
 [
   {
-    "title": "CRM / Customer Analyst",
-    "company": "Coles Group",
-    "url": "https://au.indeed.com/viewjob?jk=1e90800ec334785b",
-    "scraped_at": "2026-04-02T13:45:04.153859"
-  },
-  {
     "title": "Collections Analyst*",
     "company": "Meltwater",
     "url": "https://au.indeed.com/viewjob?jk=ac4e2760b2498638",
@@ -5998,5 +5992,11 @@
     "company": "NT Health",
     "url": "https://au.indeed.com/viewjob?jk=c1a2091355beecf5",
     "scraped_at": "2026-08-23T20:31:06.196699"
+  },
+  {
+    "title": "Front End Developer",
+    "company": "Conversion Kings",
+    "url": "https://au.indeed.com/viewjob?jk=72e1b0b5a2f252a8",
+    "scraped_at": "2026-08-24T01:46:54.300168"
   }
 ]
