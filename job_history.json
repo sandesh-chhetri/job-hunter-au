@@ -1,41 +1,5 @@
 [
   {
-    "title": "Administrative Assistant/Receptionist",
-    "company": "Hawkmoon Energy And Communications Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=b237e1fa7157c82c",
-    "scraped_at": "2026-04-03T05:45:59.265339"
-  },
-  {
-    "title": "Government Relations Specialist",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=09b78b852e1a0f09",
-    "scraped_at": "2026-04-05T20:42:59.510770"
-  },
-  {
-    "title": "Capability Officer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=8f5b67f1876fbfcc",
-    "scraped_at": "2026-04-05T20:42:59.511539"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Abano Healthcare",
-    "url": "https://au.indeed.com/viewjob?jk=65791721c55e9e5e",
-    "scraped_at": "2026-04-07T03:18:56.656562"
-  },
-  {
-    "title": "Portfolio & Pipeline Specialist",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=602cba4d5f6a80a4",
-    "scraped_at": "2026-04-07T03:18:56.688245"
-  },
-  {
-    "title": "Data Integration Engineer",
-    "company": "Abano Healthcare",
-    "url": "https://au.indeed.com/viewjob?jk=e6e320230d18a48f",
-    "scraped_at": "2026-04-07T05:50:53.631725"
-  },
-  {
     "title": "Splunk Administrator",
     "company": "Tata Consultancy Services (TCS)",
     "url": "https://au.indeed.com/viewjob?jk=b8e166e35d4d416b",
@@ -5998,5 +5962,41 @@
     "company": "NATIONAL HEAVY VEHICLE REGULATOR",
     "url": "https://au.indeed.com/viewjob?jk=fad8aeb1756990e2",
     "scraped_at": "2026-08-24T08:56:35.751130"
+  },
+  {
+    "title": "L1 Network and Desktop Support",
+    "company": "MNL Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=0ac65c2c2ea43dfd",
+    "scraped_at": "2026-08-24T13:03:50.579873"
+  },
+  {
+    "title": "L1 Network and Desktop Support",
+    "company": "MNL Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=5aa46e4dbb127373",
+    "scraped_at": "2026-08-24T13:03:50.580215"
+  },
+  {
+    "title": "L1 Network and Desktop Support",
+    "company": "MNL Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=e2b9061085c3d09e",
+    "scraped_at": "2026-08-24T13:03:50.580508"
+  },
+  {
+    "title": "L1 Network and Desktop Support",
+    "company": "MNL Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=fd78a86d773d92ac",
+    "scraped_at": "2026-08-24T13:03:50.580780"
+  },
+  {
+    "title": "L1 Network and Desktop Support",
+    "company": "MNL Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=d785db984304c649",
+    "scraped_at": "2026-08-24T13:03:50.581044"
+  },
+  {
+    "title": "Site Reliability Engineer - Liquidity Platform",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=885874fccb67ee63",
+    "scraped_at": "2026-08-24T13:03:50.655577"
   }
 ]
