@@ -1,23 +1,5 @@
 [
   {
-    "title": "Collections Analyst*",
-    "company": "Meltwater",
-    "url": "https://au.indeed.com/viewjob?jk=ac4e2760b2498638",
-    "scraped_at": "2026-04-02T17:04:27.165206"
-  },
-  {
-    "title": "Data Services Support Analyst",
-    "company": "Bupa",
-    "url": "https://au.indeed.com/viewjob?jk=89b4dbbdbc0b7607",
-    "scraped_at": "2026-04-03T02:57:53.272669"
-  },
-  {
-    "title": "IT Support & Test Engineer",
-    "company": "MCG Computer Australia",
-    "url": "https://au.indeed.com/viewjob?jk=cd594fc9b1c31718",
-    "scraped_at": "2026-04-03T05:45:59.229692"
-  },
-  {
     "title": "Administrative Assistant/Receptionist",
     "company": "Hawkmoon Energy And Communications Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=b237e1fa7157c82c",
@@ -5998,5 +5980,23 @@
     "company": "Conversion Kings",
     "url": "https://au.indeed.com/viewjob?jk=72e1b0b5a2f252a8",
     "scraped_at": "2026-08-24T01:46:54.300168"
+  },
+  {
+    "title": "IME Officer",
+    "company": "WorkSafe Victoria",
+    "url": "https://au.indeed.com/viewjob?jk=04c521d11a5cdece",
+    "scraped_at": "2026-08-24T08:56:35.684153"
+  },
+  {
+    "title": "Business Intelligence Developer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=48ede4fc38264d48",
+    "scraped_at": "2026-08-24T08:56:35.735932"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "NATIONAL HEAVY VEHICLE REGULATOR",
+    "url": "https://au.indeed.com/viewjob?jk=fad8aeb1756990e2",
+    "scraped_at": "2026-08-24T08:56:35.751130"
   }
 ]
