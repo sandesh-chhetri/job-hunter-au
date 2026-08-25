@@ -1,23 +1,5 @@
 [
   {
-    "title": "Splunk Administrator",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=b8e166e35d4d416b",
-    "scraped_at": "2026-04-07T09:14:15.654501"
-  },
-  {
-    "title": "Business Analyst",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=08b1a8192af64117",
-    "scraped_at": "2026-04-07T09:14:15.665638"
-  },
-  {
-    "title": "Data & Reporting Specialist",
-    "company": "Insurance Australia Group",
-    "url": "https://au.indeed.com/viewjob?jk=b4c06f613d37f04a",
-    "scraped_at": "2026-04-07T17:11:09.712702"
-  },
-  {
     "title": "Supply Chain Analyst",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=15d6fb3fc3d1e87b",
@@ -5998,5 +5980,23 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=885874fccb67ee63",
     "scraped_at": "2026-08-24T13:03:50.655577"
+  },
+  {
+    "title": "Sales Assistant",
+    "company": "Smokemart & Giftbox",
+    "url": "https://au.indeed.com/viewjob?jk=9163143ae08e108c",
+    "scraped_at": "2026-08-25T08:51:41.552200"
+  },
+  {
+    "title": "IT Service & Application Analyst | Sydney HQ",
+    "company": "Honey Birdette",
+    "url": "https://au.indeed.com/viewjob?jk=6f911710e02ffaf7",
+    "scraped_at": "2026-08-25T08:51:41.592579"
+  },
+  {
+    "title": "Loyalty Analyst",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=9385b7e38112a885",
+    "scraped_at": "2026-08-25T08:51:41.595229"
   }
 ]
