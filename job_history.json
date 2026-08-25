@@ -1,17 +1,5 @@
 [
   {
-    "title": "Business Analyst",
-    "company": "Baptistcare - WA",
-    "url": "https://au.indeed.com/viewjob?jk=d50ec585dd2ee952",
-    "scraped_at": "2026-04-08T13:50:54.833883"
-  },
-  {
-    "title": "RF Engineer",
-    "company": "Viasat",
-    "url": "https://au.indeed.com/viewjob?jk=902af52df64ba467",
-    "scraped_at": "2026-04-08T17:15:31.530327"
-  },
-  {
     "title": "Finance Officer",
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=b21494556a5a5930",
@@ -5998,5 +5986,17 @@
     "company": "Great Southern Bank",
     "url": "https://au.indeed.com/viewjob?jk=7da850b926816242",
     "scraped_at": "2026-08-25T13:00:02.563209"
+  },
+  {
+    "title": "Helpdesk Services Engineer II",
+    "company": "Commerce",
+    "url": "https://au.indeed.com/viewjob?jk=3c6451f00317c9b4",
+    "scraped_at": "2026-08-25T20:36:40.191665"
+  },
+  {
+    "title": "Helpdesk Services Engineer II",
+    "company": "Commerce",
+    "url": "https://au.indeed.com/viewjob?jk=62ee0fec3148a721",
+    "scraped_at": "2026-08-25T20:36:40.192294"
   }
 ]
