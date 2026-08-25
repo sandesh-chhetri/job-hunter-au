@@ -1,17 +1,5 @@
 [
   {
-    "title": "Supply Chain Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=15d6fb3fc3d1e87b",
-    "scraped_at": "2026-04-08T05:51:46.419016"
-  },
-  {
-    "title": "Integration Specialist",
-    "company": "Corporate Travel Management",
-    "url": "https://au.indeed.com/viewjob?jk=bcac5ebec7c4c88f",
-    "scraped_at": "2026-04-08T09:13:52.372431"
-  },
-  {
     "title": "Business Analyst",
     "company": "Baptistcare - WA",
     "url": "https://au.indeed.com/viewjob?jk=d50ec585dd2ee952",
@@ -5998,5 +5986,17 @@
     "company": "Woolworths Group Limited",
     "url": "https://au.indeed.com/viewjob?jk=9385b7e38112a885",
     "scraped_at": "2026-08-25T08:51:41.595229"
+  },
+  {
+    "title": "Administration Officer / Intake Officer",
+    "company": "Medibank",
+    "url": "https://au.indeed.com/viewjob?jk=483d8c55285451c1",
+    "scraped_at": "2026-08-25T13:00:02.499862"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Great Southern Bank",
+    "url": "https://au.indeed.com/viewjob?jk=7da850b926816242",
+    "scraped_at": "2026-08-25T13:00:02.563209"
   }
 ]
