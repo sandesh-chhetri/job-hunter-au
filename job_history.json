@@ -1,23 +1,5 @@
 [
   {
-    "title": "Technology Officer",
-    "company": "Queensland Government",
-    "url": "https://au.indeed.com/viewjob?jk=bf8b26242f8ad6d2",
-    "scraped_at": "2026-04-09T02:56:50.098897"
-  },
-  {
-    "title": "Administration Officer Level 3",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=1f423606a537986a",
-    "scraped_at": "2026-04-09T05:53:24.945957"
-  },
-  {
-    "title": "Dietitian",
-    "company": "Medibank",
-    "url": "https://au.indeed.com/viewjob?jk=23af2c491f9b1352",
-    "scraped_at": "2026-04-09T05:53:24.949903"
-  },
-  {
     "title": "Revenue Partnerships Product Analyst",
     "company": "Great Southern Bank",
     "url": "https://au.indeed.com/viewjob?jk=9cd1aab99175fd62",
@@ -5998,5 +5980,23 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=30727b208d738c00",
     "scraped_at": "2026-08-26T13:05:43.071006"
+  },
+  {
+    "title": "AI Systems & Operations Graduate",
+    "company": "AGC interior",
+    "url": "https://au.indeed.com/viewjob?jk=d41b8ffbf40399db",
+    "scraped_at": "2026-08-26T23:15:52.192689"
+  },
+  {
+    "title": "Underwriting Associate, Australia",
+    "company": "Coalition - Australia",
+    "url": "https://au.indeed.com/viewjob?jk=c7288e2229486b1b",
+    "scraped_at": "2026-08-26T23:15:52.206085"
+  },
+  {
+    "title": "Underwriting Associate, Australia",
+    "company": "Coalition Inc.",
+    "url": "https://au.indeed.com/viewjob?jk=fe03ae341efdf397",
+    "scraped_at": "2026-08-26T23:15:52.207262"
   }
 ]
