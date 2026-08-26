@@ -1,11 +1,5 @@
 [
   {
-    "title": "Finance Officer",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=b21494556a5a5930",
-    "scraped_at": "2026-04-08T17:15:31.558102"
-  },
-  {
     "title": "AI Trainer - Neuroscience (Fully Remote- Sydney)",
     "company": "Prolific Academic Ltd",
     "url": "https://au.indeed.com/viewjob?jk=deb681fca771db5e",
@@ -5998,5 +5992,11 @@
     "company": "Commerce",
     "url": "https://au.indeed.com/viewjob?jk=62ee0fec3148a721",
     "scraped_at": "2026-08-25T20:36:40.192294"
+  },
+  {
+    "title": "Global Payroll Operations Specialist",
+    "company": "Rippling",
+    "url": "https://au.indeed.com/viewjob?jk=2c1af0f76aa38d04",
+    "scraped_at": "2026-08-26T01:46:29.209909"
   }
 ]
