@@ -1,23 +1,5 @@
 [
   {
-    "title": "Revenue Partnerships Product Analyst",
-    "company": "Great Southern Bank",
-    "url": "https://au.indeed.com/viewjob?jk=9cd1aab99175fd62",
-    "scraped_at": "2026-04-09T05:53:24.970687"
-  },
-  {
-    "title": "Product Data Analyst",
-    "company": "Cuscal",
-    "url": "https://au.indeed.com/viewjob?jk=848783e5c81120b5",
-    "scraped_at": "2026-04-09T09:19:59.706587"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Suncorp Group",
-    "url": "https://au.indeed.com/viewjob?jk=cc016ebdca9402ba",
-    "scraped_at": "2026-04-09T09:19:59.723945"
-  },
-  {
     "title": "Software Engineer",
     "company": "Matter Solutions",
     "url": "https://au.indeed.com/viewjob?jk=bae01c09a8de12b1",
@@ -5998,5 +5980,23 @@
     "company": "Coalition Inc.",
     "url": "https://au.indeed.com/viewjob?jk=fe03ae341efdf397",
     "scraped_at": "2026-08-26T23:15:52.207262"
+  },
+  {
+    "title": "L1 Network and Desktop Support",
+    "company": "MNL Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=204f07c8a27d5c47",
+    "scraped_at": "2026-08-27T08:50:04.866524"
+  },
+  {
+    "title": "Calypso Business Analyst",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=84343a44bdc79f02",
+    "scraped_at": "2026-08-27T08:50:04.907304"
+  },
+  {
+    "title": "Precinct Safety Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=7ac7682be72ec380",
+    "scraped_at": "2026-08-27T08:50:04.932611"
   }
 ]
