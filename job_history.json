@@ -1,17 +1,5 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "Matter Solutions",
-    "url": "https://au.indeed.com/viewjob?jk=bae01c09a8de12b1",
-    "scraped_at": "2026-04-09T09:19:59.724637"
-  },
-  {
-    "title": "Web Developer",
-    "company": "CMSN Group Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=61d2544c3ea546fd",
-    "scraped_at": "2026-04-09T09:19:59.725417"
-  },
-  {
     "title": "Desktop & Network Support Engineer L1",
     "company": "MNL Technologies",
     "url": "https://au.indeed.com/viewjob?jk=0316624baf43addf",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=7ac7682be72ec380",
     "scraped_at": "2026-08-27T08:50:04.932611"
+  },
+  {
+    "title": "Information Security Designer",
+    "company": "V/Line",
+    "url": "https://au.indeed.com/viewjob?jk=93359269b82a8a9d",
+    "scraped_at": "2026-08-28T11:02:40.369670"
+  },
+  {
+    "title": "Associate Technical Business Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=99aebac27221ee69",
+    "scraped_at": "2026-08-28T11:02:40.382328"
   }
 ]
