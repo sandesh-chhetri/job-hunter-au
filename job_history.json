@@ -2,12 +2,6 @@
   {
     "title": "Back-end Developer",
     "company": "Covet",
-    "url": "https://au.indeed.com/viewjob?jk=9aefeeebd916675c",
-    "scraped_at": "2026-04-10T03:29:25.565039"
-  },
-  {
-    "title": "Back-end Developer",
-    "company": "Covet",
     "url": "https://au.indeed.com/viewjob?jk=7af2f462facf4891",
     "scraped_at": "2026-04-10T03:29:25.565525"
   },
@@ -5998,5 +5992,11 @@
     "company": "OPTIMUM INSURANCE",
     "url": "https://au.indeed.com/viewjob?jk=40d74235ed091c13",
     "scraped_at": "2026-08-31T05:07:25.466940"
+  },
+  {
+    "title": "Analytics Engineer",
+    "company": "Alinta Energy",
+    "url": "https://au.indeed.com/viewjob?jk=543295ce7bac7782",
+    "scraped_at": "2026-08-31T23:42:56.507538"
   }
 ]
