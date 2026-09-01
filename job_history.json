@@ -1,11 +1,5 @@
 [
   {
-    "title": "Back-end Developer",
-    "company": "Covet",
-    "url": "https://au.indeed.com/viewjob?jk=7af2f462facf4891",
-    "scraped_at": "2026-04-10T03:29:25.565525"
-  },
-  {
     "title": "Desktop & Network Support Engineer L1",
     "company": "MNL Technologies",
     "url": "https://au.indeed.com/viewjob?jk=58ec531311cbf34d",
@@ -5998,5 +5992,11 @@
     "company": "Alinta Energy",
     "url": "https://au.indeed.com/viewjob?jk=543295ce7bac7782",
     "scraped_at": "2026-08-31T23:42:56.507538"
+  },
+  {
+    "title": "Junior Risk Analyst/Liquidity Analyst",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=531feb021841a6e1",
+    "scraped_at": "2026-09-01T04:44:26.648243"
   }
 ]
