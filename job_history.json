@@ -1,35 +1,5 @@
 [
   {
-    "title": "Desktop & Network Support Engineer L1",
-    "company": "MNL Technologies",
-    "url": "https://au.indeed.com/viewjob?jk=58ec531311cbf34d",
-    "scraped_at": "2026-04-10T06:04:24.619878"
-  },
-  {
-    "title": "Data Officer",
-    "company": "Ausgrid",
-    "url": "https://au.indeed.com/viewjob?jk=cc5a0baabef454f0",
-    "scraped_at": "2026-04-10T09:19:38.359986"
-  },
-  {
-    "title": "Hospital Scientist",
-    "company": "St Vincent\u2019s Health Australia",
-    "url": "https://au.indeed.com/viewjob?jk=68b81a6a4b599d73",
-    "scraped_at": "2026-04-10T09:19:38.392042"
-  },
-  {
-    "title": "Integration Developer",
-    "company": "Obzervr Trading Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=73cec41d6373783b",
-    "scraped_at": "2026-04-10T09:19:38.445489"
-  },
-  {
-    "title": "IT Support Technician",
-    "company": "Express communication service ltd",
-    "url": "https://au.indeed.com/viewjob?jk=d7aa3842c0e87efc",
-    "scraped_at": "2026-04-10T16:58:13.739374"
-  },
-  {
     "title": "Enterprise Change Analyst",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=d4695092915fc7ee",
@@ -5998,5 +5968,35 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=531feb021841a6e1",
     "scraped_at": "2026-09-01T04:44:26.648243"
+  },
+  {
+    "title": "Automation Engineer (Connex Payments)",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=8a54e51f5abaa122",
+    "scraped_at": "2026-09-01T13:25:01.012455"
+  },
+  {
+    "title": "Associate Cloud Operations Engineer",
+    "company": "Nuix",
+    "url": "https://au.indeed.com/viewjob?jk=9c528f48db594357",
+    "scraped_at": "2026-09-01T13:25:01.013329"
+  },
+  {
+    "title": "ServiceNow Developer",
+    "company": "Delivery Centric",
+    "url": "https://au.indeed.com/viewjob?jk=1bfe0f48c642e4d6",
+    "scraped_at": "2026-09-01T13:25:01.013651"
+  },
+  {
+    "title": "Automation Engineer (Payment Terminal)",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=89b58e2c1819c0da",
+    "scraped_at": "2026-09-01T13:25:01.014313"
+  },
+  {
+    "title": "Road Designer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=f8185132ac0b8274",
+    "scraped_at": "2026-09-01T13:25:01.016306"
   }
 ]
