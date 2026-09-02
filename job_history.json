@@ -1,29 +1,5 @@
 [
   {
-    "title": "Local Jobs Program Support Officer",
-    "company": "SSI",
-    "url": "https://au.indeed.com/viewjob?jk=320b45f9d80eb912",
-    "scraped_at": "2026-04-14T03:29:07.200233"
-  },
-  {
-    "title": "Social Worker - Burton Street Centre - St Vincent's Public Hospital, Sydney",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=457fa3ee3419a5b1",
-    "scraped_at": "2026-04-14T09:27:27.277106"
-  },
-  {
-    "title": "Data Business Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=a674c25c614b60e1",
-    "scraped_at": "2026-04-14T09:27:27.307633"
-  },
-  {
-    "title": "Fraud Analyst",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=62d2dc4ff5ee81c1",
-    "scraped_at": "2026-04-14T09:27:27.312453"
-  },
-  {
     "title": "POS Hardware Support Technician",
     "company": "Axiom Technologies",
     "url": "https://au.indeed.com/viewjob?jk=94a86f88f27754e1",
@@ -5998,5 +5974,29 @@
     "company": "Aware Super",
     "url": "https://au.indeed.com/viewjob?jk=00b09a2ca4e5aa78",
     "scraped_at": "2026-09-02T12:42:32.514982"
+  },
+  {
+    "title": "IT Desktop Support Engineer",
+    "company": "Axiom Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=eb548c565af26606",
+    "scraped_at": "2026-09-02T19:21:05.833943"
+  },
+  {
+    "title": "Receptionist",
+    "company": "Bright & Duggan Property Group",
+    "url": "https://au.indeed.com/viewjob?jk=a01973b3d938993f",
+    "scraped_at": "2026-09-02T19:21:05.849149"
+  },
+  {
+    "title": "Customer Solution Center Graduate",
+    "company": "Hewlett Packard Enterprise | HPE",
+    "url": "https://au.indeed.com/viewjob?jk=bcd81b61133776e8",
+    "scraped_at": "2026-09-02T19:21:05.850000"
+  },
+  {
+    "title": "AI Analyst",
+    "company": "ELMO Software",
+    "url": "https://au.indeed.com/viewjob?jk=b26052097a45e1a8",
+    "scraped_at": "2026-09-02T19:21:05.890363"
   }
 ]
