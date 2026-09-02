@@ -1,41 +1,5 @@
 [
   {
-    "title": "SmokeMart & GiftBox Coolalinga Central - Sales Assistant",
-    "company": "Otr Group",
-    "url": "https://au.indeed.com/viewjob?jk=c38bfa9e03e4322d",
-    "scraped_at": "2026-04-13T10:03:24.248722"
-  },
-  {
-    "title": "Local Jobs Program Support Officer",
-    "company": "SSI",
-    "url": "https://au.indeed.com/viewjob?jk=1c69ae9a0a555aae",
-    "scraped_at": "2026-04-13T10:03:24.293353"
-  },
-  {
-    "title": "Security Analyst",
-    "company": "7-Eleven",
-    "url": "https://au.indeed.com/viewjob?jk=55e21a607988ec38",
-    "scraped_at": "2026-04-13T13:59:08.551779"
-  },
-  {
-    "title": "Full Stack Software Engineer \u00e2\u20ac\u201d Recently Acquired & Growing Australian FinTech!",
-    "company": "The Argyle Network",
-    "url": "https://au.indeed.com/viewjob?jk=3434209cbd9c112b",
-    "scraped_at": "2026-04-13T13:59:08.568046"
-  },
-  {
-    "title": "Data Analyst - Associate",
-    "company": "EY",
-    "url": "https://au.indeed.com/viewjob?jk=7180204c6f43f78a",
-    "scraped_at": "2026-04-13T21:03:49.088941"
-  },
-  {
-    "title": "Business Development Representative New",
-    "company": "Intercom",
-    "url": "https://au.indeed.com/viewjob?jk=8d44639c18cc7d5b",
-    "scraped_at": "2026-04-14T03:29:07.136544"
-  },
-  {
     "title": "Local Jobs Program Support Officer",
     "company": "SSI",
     "url": "https://au.indeed.com/viewjob?jk=320b45f9d80eb912",
@@ -5998,5 +5962,41 @@
     "company": "GoFundMe",
     "url": "https://au.indeed.com/viewjob?jk=ced814e62341a62e",
     "scraped_at": "2026-09-02T04:06:06.140943"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Magentus",
+    "url": "https://au.indeed.com/viewjob?jk=512dc7eca46003ea",
+    "scraped_at": "2026-09-02T12:42:32.466785"
+  },
+  {
+    "title": "Coordinator, Learning for Life Customer Support & Administration",
+    "company": "The Smith Family",
+    "url": "https://au.indeed.com/viewjob?jk=8cebaa29da385f1b",
+    "scraped_at": "2026-09-02T12:42:32.480140"
+  },
+  {
+    "title": "Associate Software Engineer",
+    "company": "News Corp",
+    "url": "https://au.indeed.com/viewjob?jk=70c8174174344f25",
+    "scraped_at": "2026-09-02T12:42:32.508026"
+  },
+  {
+    "title": "Bridge Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=440ab7988723bc57",
+    "scraped_at": "2026-09-02T12:42:32.509076"
+  },
+  {
+    "title": "Bridge Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=4dd16b1b853396e9",
+    "scraped_at": "2026-09-02T12:42:32.509709"
+  },
+  {
+    "title": "QA Software Tester",
+    "company": "Aware Super",
+    "url": "https://au.indeed.com/viewjob?jk=00b09a2ca4e5aa78",
+    "scraped_at": "2026-09-02T12:42:32.514982"
   }
 ]
