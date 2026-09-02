@@ -1,17 +1,5 @@
 [
   {
-    "title": "Enterprise Change Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=d4695092915fc7ee",
-    "scraped_at": "2026-04-13T06:22:58.905221"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "4DMedical",
-    "url": "https://au.indeed.com/viewjob?jk=77866fe1c5cbde12",
-    "scraped_at": "2026-04-13T06:22:58.928826"
-  },
-  {
     "title": "SmokeMart & GiftBox Coolalinga Central - Sales Assistant",
     "company": "Otr Group",
     "url": "https://au.indeed.com/viewjob?jk=c38bfa9e03e4322d",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=f8185132ac0b8274",
     "scraped_at": "2026-09-01T13:25:01.016306"
+  },
+  {
+    "title": "Service Desk Analyst",
+    "company": "Centorrino Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=919ce336d78704cf",
+    "scraped_at": "2026-09-02T04:06:06.129502"
+  },
+  {
+    "title": "IT Administrator I",
+    "company": "GoFundMe",
+    "url": "https://au.indeed.com/viewjob?jk=ced814e62341a62e",
+    "scraped_at": "2026-09-02T04:06:06.140943"
   }
 ]
