@@ -1,17 +1,5 @@
 [
   {
-    "title": "Soil Scientist / Agronomist",
-    "company": "NT Government - Department of Agriculture and Fisheries",
-    "url": "https://au.indeed.com/viewjob?jk=3722c8e0da6dc875",
-    "scraped_at": "2026-04-15T21:01:28.104920"
-  },
-  {
-    "title": "Claims Officer",
-    "company": "QBE",
-    "url": "https://au.indeed.com/viewjob?jk=329b51026cb98e98",
-    "scraped_at": "2026-04-16T03:35:16.756095"
-  },
-  {
     "title": "Administration Officer/Receptionist",
     "company": "EPA Health",
     "url": "https://au.indeed.com/viewjob?jk=ee288cbcefabeeeb",
@@ -5998,5 +5986,17 @@
     "company": "The Good Guys",
     "url": "https://au.indeed.com/viewjob?jk=2347e0ec1871be8b",
     "scraped_at": "2026-09-03T19:14:44.329406"
+  },
+  {
+    "title": "Grafana Developer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=8a33a3c53c0432bf",
+    "scraped_at": "2026-09-03T22:29:00.901297"
+  },
+  {
+    "title": "Software Developers (full-stack developer)",
+    "company": "EzzyBills",
+    "url": "https://au.indeed.com/viewjob?jk=26184e6ceaf6d99b",
+    "scraped_at": "2026-09-03T22:29:00.916629"
   }
 ]
