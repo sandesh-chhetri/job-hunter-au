@@ -1,23 +1,5 @@
 [
   {
-    "title": "POS Hardware Support Technician",
-    "company": "Axiom Technologies",
-    "url": "https://au.indeed.com/viewjob?jk=94a86f88f27754e1",
-    "scraped_at": "2026-04-14T14:02:58.664028"
-  },
-  {
-    "title": "Business Intelligence Officer",
-    "company": "NT Government - Department of Corporate and Digital Development",
-    "url": "https://au.indeed.com/viewjob?jk=208dee4b834330a8",
-    "scraped_at": "2026-04-14T21:03:20.879873"
-  },
-  {
-    "title": "Technical Business Analyst",
-    "company": "Superloop",
-    "url": "https://au.indeed.com/viewjob?jk=9bff2eda222f6d9b",
-    "scraped_at": "2026-04-14T21:03:20.935052"
-  },
-  {
     "title": "Junior Web Developer",
     "company": "HISMILE",
     "url": "https://au.indeed.com/viewjob?jk=19c44eb3a66f7e4c",
@@ -5998,5 +5980,23 @@
     "company": "ELMO Software",
     "url": "https://au.indeed.com/viewjob?jk=b26052097a45e1a8",
     "scraped_at": "2026-09-02T19:21:05.890363"
+  },
+  {
+    "title": "IT Desktop Support Engineer",
+    "company": "Axiom Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=6dc3b82ee7e036c0",
+    "scraped_at": "2026-09-03T04:03:58.584402"
+  },
+  {
+    "title": "Locomotive Driver",
+    "company": "Aurizon",
+    "url": "https://au.indeed.com/viewjob?jk=471e380e279a5268",
+    "scraped_at": "2026-09-03T04:03:58.617824"
+  },
+  {
+    "title": "Analytics Solutions Developer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=194b3c0849d2380c",
+    "scraped_at": "2026-09-03T04:03:58.657401"
   }
 ]
