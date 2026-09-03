@@ -1,17 +1,5 @@
 [
   {
-    "title": "Junior Web Developer",
-    "company": "HISMILE",
-    "url": "https://au.indeed.com/viewjob?jk=19c44eb3a66f7e4c",
-    "scraped_at": "2026-04-15T03:27:47.136115"
-  },
-  {
-    "title": "Dispute Resolution Specialist - CTP",
-    "company": "QBE",
-    "url": "https://au.indeed.com/viewjob?jk=e134e9be98081af2",
-    "scraped_at": "2026-04-15T09:43:28.289043"
-  },
-  {
     "title": "Digital Producer",
     "company": "Moreton Bay Regional Council",
     "url": "https://au.indeed.com/viewjob?jk=b2f120ccb5d8015c",
@@ -5998,5 +5986,17 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=194b3c0849d2380c",
     "scraped_at": "2026-09-03T04:03:58.657401"
+  },
+  {
+    "title": "Salesforce Functional Tester",
+    "company": "Techforce Services",
+    "url": "https://au.indeed.com/viewjob?jk=0ba4238f426ce4a9",
+    "scraped_at": "2026-09-03T12:45:27.697670"
+  },
+  {
+    "title": "Snr Cost Mgt & Estimating Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=17b351df32c42baa",
+    "scraped_at": "2026-09-03T12:45:27.712776"
   }
 ]
