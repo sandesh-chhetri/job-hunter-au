@@ -1,17 +1,5 @@
 [
   {
-    "title": "Digital Producer",
-    "company": "Moreton Bay Regional Council",
-    "url": "https://au.indeed.com/viewjob?jk=b2f120ccb5d8015c",
-    "scraped_at": "2026-04-15T13:56:09.479966"
-  },
-  {
-    "title": "Spatial Data Analyst",
-    "company": "Coles Group",
-    "url": "https://au.indeed.com/viewjob?jk=114423f4dd1c15c3",
-    "scraped_at": "2026-04-15T13:56:09.518507"
-  },
-  {
     "title": "Soil Scientist / Agronomist",
     "company": "NT Government - Department of Agriculture and Fisheries",
     "url": "https://au.indeed.com/viewjob?jk=3722c8e0da6dc875",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=17b351df32c42baa",
     "scraped_at": "2026-09-03T12:45:27.712776"
+  },
+  {
+    "title": "Change and Communications Officer",
+    "company": "Moreton Bay Regional Council",
+    "url": "https://au.indeed.com/viewjob?jk=abb697c3879daed2",
+    "scraped_at": "2026-09-03T19:14:44.286915"
+  },
+  {
+    "title": "Returns Analyst (12-Months)",
+    "company": "The Good Guys",
+    "url": "https://au.indeed.com/viewjob?jk=2347e0ec1871be8b",
+    "scraped_at": "2026-09-03T19:14:44.329406"
   }
 ]
