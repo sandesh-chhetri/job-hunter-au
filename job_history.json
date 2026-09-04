@@ -1,17 +1,5 @@
 [
   {
-    "title": "Administration Officer/Receptionist",
-    "company": "EPA Health",
-    "url": "https://au.indeed.com/viewjob?jk=ee288cbcefabeeeb",
-    "scraped_at": "2026-04-16T03:35:16.779114"
-  },
-  {
-    "title": "Buying Administrator",
-    "company": "OROTON",
-    "url": "https://au.indeed.com/viewjob?jk=bca1736d9ee7a971",
-    "scraped_at": "2026-04-16T03:35:16.805834"
-  },
-  {
     "title": "Backend Engineer, Core Technology",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=9e7b797bcc6de2dd",
@@ -5998,5 +5986,17 @@
     "company": "EzzyBills",
     "url": "https://au.indeed.com/viewjob?jk=26184e6ceaf6d99b",
     "scraped_at": "2026-09-03T22:29:00.916629"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Magentus",
+    "url": "https://au.indeed.com/viewjob?jk=ddfa488958f11f7b",
+    "scraped_at": "2026-09-04T04:07:55.441499"
+  },
+  {
+    "title": "Analyst Programmer",
+    "company": "Stretch365",
+    "url": "https://au.indeed.com/viewjob?jk=285692dd63e397c9",
+    "scraped_at": "2026-09-04T04:07:55.460973"
   }
 ]
