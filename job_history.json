@@ -1,47 +1,5 @@
 [
   {
-    "title": "Backend Engineer, Core Technology",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=9e7b797bcc6de2dd",
-    "scraped_at": "2026-04-16T03:35:16.836166"
-  },
-  {
-    "title": "Mid Level DevOps Engineer CI CD Optimization",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=224e9f0fcb7c3713",
-    "scraped_at": "2026-04-16T03:35:16.842016"
-  },
-  {
-    "title": "Software QA Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=6eec72a43cfef1f9",
-    "scraped_at": "2026-04-16T03:35:16.842905"
-  },
-  {
-    "title": "Business Analyst - Data & Reporting",
-    "company": "Red Energy",
-    "url": "https://au.indeed.com/viewjob?jk=006d14580ccd3491",
-    "scraped_at": "2026-04-16T06:08:45.926978"
-  },
-  {
-    "title": "Assistant Officer, Accreditation Assurance",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=863f4df562483aae",
-    "scraped_at": "2026-04-16T06:08:45.932298"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=3f087e2ef2a3b386",
-    "scraped_at": "2026-04-16T09:27:36.381809"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=6c647164ddb132d9",
-    "scraped_at": "2026-04-16T09:27:36.382200"
-  },
-  {
     "title": "Technology Officer - Communications & Mining Systems",
     "company": "Greatland Corporation",
     "url": "https://au.indeed.com/viewjob?jk=e960dadb7b122554",
@@ -5998,5 +5956,47 @@
     "company": "Stretch365",
     "url": "https://au.indeed.com/viewjob?jk=285692dd63e397c9",
     "scraped_at": "2026-09-04T04:07:55.460973"
+  },
+  {
+    "title": "Member Training Administrator | South Brisbane",
+    "company": "Surf Life Saving Queensland",
+    "url": "https://au.indeed.com/viewjob?jk=1427cbb92a36feff",
+    "scraped_at": "2026-09-04T12:39:35.463068"
+  },
+  {
+    "title": "Insights Analyst",
+    "company": "HUB24",
+    "url": "https://au.indeed.com/viewjob?jk=e92f90e60f494dcf",
+    "scraped_at": "2026-09-04T12:39:35.479783"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=1348d10608b90c81",
+    "scraped_at": "2026-09-04T12:39:35.488131"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Bluebeam",
+    "url": "https://au.indeed.com/viewjob?jk=5935cfe3341a44ff",
+    "scraped_at": "2026-09-04T12:39:35.488692"
+  },
+  {
+    "title": "Digital Designer, Motion & Web",
+    "company": "Koala",
+    "url": "https://au.indeed.com/viewjob?jk=58e716a7ab2ec407",
+    "scraped_at": "2026-09-04T12:39:35.491927"
+  },
+  {
+    "title": "Digital Designer, Motion & Web",
+    "company": "Koala",
+    "url": "https://au.indeed.com/viewjob?jk=72e104a53eb57473",
+    "scraped_at": "2026-09-04T12:39:35.493082"
+  },
+  {
+    "title": "Tfrm Delivery Snr Project Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=ef04a81feebcaf07",
+    "scraped_at": "2026-09-04T12:39:35.495101"
   }
 ]
