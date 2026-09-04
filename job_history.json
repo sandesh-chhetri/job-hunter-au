@@ -1,11 +1,5 @@
 [
   {
-    "title": "Technology Officer - Communications & Mining Systems",
-    "company": "Greatland Corporation",
-    "url": "https://au.indeed.com/viewjob?jk=e960dadb7b122554",
-    "scraped_at": "2026-04-16T09:27:36.385706"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=2b1bb9551a5e9807",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=ef04a81feebcaf07",
     "scraped_at": "2026-09-04T12:39:35.495101"
+  },
+  {
+    "title": "IT Support Engineer Melbourne",
+    "company": "systemsGo",
+    "url": "https://au.indeed.com/viewjob?jk=06ca894feab2e804",
+    "scraped_at": "2026-09-04T18:56:40.363293"
   }
 ]
