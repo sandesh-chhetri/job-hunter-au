@@ -2,12 +2,6 @@
   {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=2b1bb9551a5e9807",
-    "scraped_at": "2026-04-16T17:24:06.152995"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=738d161e5359d9cd",
     "scraped_at": "2026-04-16T17:24:06.153385"
   },
@@ -5998,5 +5992,11 @@
     "company": "systemsGo",
     "url": "https://au.indeed.com/viewjob?jk=06ca894feab2e804",
     "scraped_at": "2026-09-04T18:56:40.363293"
+  },
+  {
+    "title": "Software Engineer (Back-end and Full-stack)",
+    "company": "Coreplan",
+    "url": "https://au.indeed.com/viewjob?jk=9128cc4c3e4c3b88",
+    "scraped_at": "2026-09-05T11:47:24.154954"
   }
 ]
