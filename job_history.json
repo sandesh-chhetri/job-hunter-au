@@ -1,17 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=738d161e5359d9cd",
-    "scraped_at": "2026-04-16T17:24:06.153385"
-  },
-  {
-    "title": "ACCC Graduate Program 2027",
-    "company": "Australian Competition & Consumer Commission (ACCC)",
-    "url": "https://au.indeed.com/viewjob?jk=5cd3b144f5427706",
-    "scraped_at": "2026-04-16T20:58:12.592880"
-  },
-  {
     "title": "Finance Systems Analyst",
     "company": "CHALLENGER",
     "url": "https://au.indeed.com/viewjob?jk=db0a31365dac62b5",
@@ -5998,5 +5986,17 @@
     "company": "Coreplan",
     "url": "https://au.indeed.com/viewjob?jk=9128cc4c3e4c3b88",
     "scraped_at": "2026-09-05T11:47:24.154954"
+  },
+  {
+    "title": "Asset Data Officer",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=c08be1293b187dfb",
+    "scraped_at": "2026-09-06T22:04:14.730056"
+  },
+  {
+    "title": "Asset Data Officer",
+    "company": "Victorian Government",
+    "url": "https://au.indeed.com/viewjob?jk=53dc54761812f639",
+    "scraped_at": "2026-09-06T22:04:14.731107"
   }
 ]
