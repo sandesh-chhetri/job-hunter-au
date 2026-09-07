@@ -1,47 +1,5 @@
 [
   {
-    "title": "Claims Officer",
-    "company": "QBE",
-    "url": "https://au.indeed.com/viewjob?jk=83edf434fa3ed622",
-    "scraped_at": "2026-04-17T03:30:59.218706"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=26fb970dd7658fb0",
-    "scraped_at": "2026-04-17T03:30:59.232586"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=3b6b0901fcdb64bb",
-    "scraped_at": "2026-04-17T03:30:59.232988"
-  },
-  {
-    "title": "Project Business Analyst - Finance",
-    "company": "Red Energy",
-    "url": "https://au.indeed.com/viewjob?jk=df6fdde80e84e550",
-    "scraped_at": "2026-04-17T03:30:59.278133"
-  },
-  {
-    "title": "Livestock Biosecurity Officer",
-    "company": "Department of Agriculture and Fisheries",
-    "url": "https://au.indeed.com/viewjob?jk=b0696698cb578668",
-    "scraped_at": "2026-04-17T06:09:07.013497"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Coles Group",
-    "url": "https://au.indeed.com/viewjob?jk=da415f314b139493",
-    "scraped_at": "2026-04-17T06:09:07.065216"
-  },
-  {
-    "title": "Content Design - Officer",
-    "company": "Water Corporation",
-    "url": "https://au.indeed.com/viewjob?jk=b246df468e8f0a9d",
-    "scraped_at": "2026-04-17T06:09:07.068838"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=217fe609f7f01427",
@@ -5998,5 +5956,47 @@
     "company": "Border Express",
     "url": "https://au.indeed.com/viewjob?jk=d7d2b8a0e91cd202",
     "scraped_at": "2026-09-07T04:11:08.578350"
+  },
+  {
+    "title": "Escalations Analyst - Accounting",
+    "company": "Corto Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=67fa592df05b5ae6",
+    "scraped_at": "2026-09-07T14:11:02.750344"
+  },
+  {
+    "title": "Process Engineer",
+    "company": "Iluka",
+    "url": "https://au.indeed.com/viewjob?jk=35c31b0e387df983",
+    "scraped_at": "2026-09-07T14:11:02.761360"
+  },
+  {
+    "title": "Quality Officer",
+    "company": "Kanda",
+    "url": "https://au.indeed.com/viewjob?jk=b3b0eeba44a960ad",
+    "scraped_at": "2026-09-07T14:11:02.778962"
+  },
+  {
+    "title": "Digital Learning Analyst",
+    "company": "Arup",
+    "url": "https://au.indeed.com/viewjob?jk=46c06d349f2d214f",
+    "scraped_at": "2026-09-07T14:11:02.807184"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Revolut",
+    "url": "https://au.indeed.com/viewjob?jk=00d1d32f62de5db6",
+    "scraped_at": "2026-09-07T14:11:02.808438"
+  },
+  {
+    "title": "Enforcement Processing Support Officer",
+    "company": "City of Gold Coast",
+    "url": "https://au.indeed.com/viewjob?jk=4575efb3734a1501",
+    "scraped_at": "2026-09-07T14:11:02.814768"
+  },
+  {
+    "title": "Developer - Fresh",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=18ee20f86e6af93c",
+    "scraped_at": "2026-09-07T14:11:02.833180"
   }
 ]
