@@ -1,17 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=6e28dd5e906e9e6c",
-    "scraped_at": "2026-04-17T17:01:26.157928"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=9a23f4f83a490be6",
-    "scraped_at": "2026-04-17T17:01:26.158311"
-  },
-  {
     "title": "On-site IT Engineer",
     "company": "Cegal",
     "url": "https://au.indeed.com/viewjob?jk=8644f36fceeeca0e",
@@ -5998,5 +5986,17 @@
     "company": "City of Darwin",
     "url": "https://au.indeed.com/viewjob?jk=fddbd619429fb32e",
     "scraped_at": "2026-09-08T12:48:37.812468"
+  },
+  {
+    "title": "Assistant Finance Analyst",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=bc443170f11e736c",
+    "scraped_at": "2026-09-08T19:23:10.693796"
+  },
+  {
+    "title": "Grafana Developer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=73d6b604cc4b0b13",
+    "scraped_at": "2026-09-08T19:23:10.706665"
   }
 ]
