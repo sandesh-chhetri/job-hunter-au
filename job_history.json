@@ -1,17 +1,5 @@
 [
   {
-    "title": "Junior Business Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=f0834e2c76e115c5",
-    "scraped_at": "2026-04-17T09:26:39.224752"
-  },
-  {
-    "title": "Water Treatment Technical Advisor",
-    "company": "Water Corporation",
-    "url": "https://au.indeed.com/viewjob?jk=b26c5c15382a801a",
-    "scraped_at": "2026-04-17T13:48:10.517670"
-  },
-  {
     "title": "Claims Officer",
     "company": "QBE",
     "url": "https://au.indeed.com/viewjob?jk=98346fe2bee97e33",
@@ -5998,5 +5986,17 @@
     "company": "NT Government - Department of Children and Families",
     "url": "https://au.indeed.com/viewjob?jk=379bb9743411d553",
     "scraped_at": "2026-09-07T19:49:05.679970"
+  },
+  {
+    "title": "Software Engineer - Mobile",
+    "company": "News Corp",
+    "url": "https://au.indeed.com/viewjob?jk=3b0d913019b002c5",
+    "scraped_at": "2026-09-08T04:12:20.880124"
+  },
+  {
+    "title": "Software Engineer - Mobile",
+    "company": "REA Group",
+    "url": "https://au.indeed.com/viewjob?jk=c3ccfffffa071541",
+    "scraped_at": "2026-09-08T04:12:20.881270"
   }
 ]
