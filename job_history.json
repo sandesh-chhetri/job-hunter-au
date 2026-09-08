@@ -1,11 +1,5 @@
 [
   {
-    "title": "Claims Officer",
-    "company": "QBE",
-    "url": "https://au.indeed.com/viewjob?jk=98346fe2bee97e33",
-    "scraped_at": "2026-04-17T17:01:26.140820"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=6e28dd5e906e9e6c",
@@ -5998,5 +5992,11 @@
     "company": "REA Group",
     "url": "https://au.indeed.com/viewjob?jk=c3ccfffffa071541",
     "scraped_at": "2026-09-08T04:12:20.881270"
+  },
+  {
+    "title": "Technical Officer - City Maintenance",
+    "company": "City of Darwin",
+    "url": "https://au.indeed.com/viewjob?jk=fddbd619429fb32e",
+    "scraped_at": "2026-09-08T12:48:37.812468"
   }
 ]
