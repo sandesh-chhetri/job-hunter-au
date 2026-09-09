@@ -2,12 +2,6 @@
   {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=1ba193e7db6df190",
-    "scraped_at": "2026-04-19T09:02:34.932090"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=de5fe134e26e747c",
     "scraped_at": "2026-04-19T16:52:48.811045"
   },
@@ -5998,5 +5992,11 @@
     "company": "NT Government - Department of Logistics and Infrastructure",
     "url": "https://au.indeed.com/viewjob?jk=90344c656cf91f17",
     "scraped_at": "2026-09-09T19:13:00.961301"
+  },
+  {
+    "title": "Azure Administrator",
+    "company": "Pyramid Global Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=f2ddc2cd214f4451",
+    "scraped_at": "2026-09-09T22:26:03.753440"
   }
 ]
