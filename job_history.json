@@ -1,23 +1,5 @@
 [
   {
-    "title": "On-site IT Engineer",
-    "company": "Cegal",
-    "url": "https://au.indeed.com/viewjob?jk=8644f36fceeeca0e",
-    "scraped_at": "2026-04-17T17:01:26.179222"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=856fd44de1767d87",
-    "scraped_at": "2026-04-18T03:18:46.449399"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=0fff0fa10128747f",
-    "scraped_at": "2026-04-18T03:18:46.449816"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=8b5ceddcdc44c5bb",
@@ -5998,5 +5980,23 @@
     "company": "Tata Consultancy Services (TCS)",
     "url": "https://au.indeed.com/viewjob?jk=73d6b604cc4b0b13",
     "scraped_at": "2026-09-08T19:23:10.706665"
+  },
+  {
+    "title": "Customer Support Specialist (Part Time)",
+    "company": "Montu",
+    "url": "https://au.indeed.com/viewjob?jk=8c2bbe757d3741f6",
+    "scraped_at": "2026-09-09T04:18:48.577480"
+  },
+  {
+    "title": "Adjudication Analyst",
+    "company": "Verra Mobility",
+    "url": "https://au.indeed.com/viewjob?jk=c942ad6451b6d65f",
+    "scraped_at": "2026-09-09T04:18:48.600013"
+  },
+  {
+    "title": "Web Application Developer C# .Net",
+    "company": "The Argyle Network",
+    "url": "https://au.indeed.com/viewjob?jk=d5678b9943940cf7",
+    "scraped_at": "2026-09-09T04:18:48.626722"
   }
 ]
