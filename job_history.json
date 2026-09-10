@@ -2,12 +2,6 @@
   {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=6ce605db6a6f7abd",
-    "scraped_at": "2026-04-20T03:39:29.681992"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=ed032e9bf7a1928d",
     "scraped_at": "2026-04-20T03:39:29.682403"
   },
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=802698ee7a07cbf9",
     "scraped_at": "2026-09-10T12:51:27.873938"
+  },
+  {
+    "title": "Reporting Analytics Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=0d507f1753ee9067",
+    "scraped_at": "2026-09-10T19:04:17.430158"
   }
 ]
