@@ -1,17 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=b27951d0e9a9175a",
-    "scraped_at": "2026-04-20T10:05:50.737270"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=4d2cb60f0fb7c35f",
-    "scraped_at": "2026-04-20T10:05:50.737663"
-  },
-  {
     "title": "Analyst iOS Engineer",
     "company": "NAB - National Australia Bank",
     "url": "https://au.indeed.com/viewjob?jk=0273e46dbfa90bee",
@@ -5998,5 +5986,17 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=0b648f90f18ecff2",
     "scraped_at": "2026-09-11T04:14:40.913975"
+  },
+  {
+    "title": "Civil Water Operator",
+    "company": "Water Corporation",
+    "url": "https://au.indeed.com/viewjob?jk=1a359d2637f34edb",
+    "scraped_at": "2026-09-11T12:46:09.286275"
+  },
+  {
+    "title": "Technical Support Analyst",
+    "company": "Super Retail Group",
+    "url": "https://au.indeed.com/viewjob?jk=aaf604efce1d2f19",
+    "scraped_at": "2026-09-11T12:46:09.291454"
   }
 ]
