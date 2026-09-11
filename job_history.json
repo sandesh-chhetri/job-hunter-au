@@ -1,17 +1,5 @@
 [
   {
-    "title": "SAP BTP developer",
-    "company": "Beta Digital",
-    "url": "https://au.indeed.com/viewjob?jk=ba1257a7ef4b5c51",
-    "scraped_at": "2026-04-20T03:39:29.736619"
-  },
-  {
-    "title": "Customer Service Officer - Telephone Contacts",
-    "company": "MEGT Australia Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=138e413f2c37b054",
-    "scraped_at": "2026-04-20T10:05:50.718591"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=b27951d0e9a9175a",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=0efa094c792af53b",
     "scraped_at": "2026-09-10T22:25:17.818132"
+  },
+  {
+    "title": "Administration Support Officer",
+    "company": "The Salvation Army",
+    "url": "https://au.indeed.com/viewjob?jk=e6900ed03d8b9c1d",
+    "scraped_at": "2026-09-11T04:14:40.877333"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=0b648f90f18ecff2",
+    "scraped_at": "2026-09-11T04:14:40.913975"
   }
 ]
