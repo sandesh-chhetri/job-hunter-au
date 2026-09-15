@@ -1,11 +1,5 @@
 [
   {
-    "title": "Business Analyst",
-    "company": "NORTHERN STAR RESOURCES",
-    "url": "https://au.indeed.com/viewjob?jk=e01c3f08b3695730",
-    "scraped_at": "2026-04-21T06:08:48.825050"
-  },
-  {
     "title": "Data Analyst - Associate",
     "company": "EY",
     "url": "https://au.indeed.com/viewjob?jk=9b55494645a1f961",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=2408727baffffbea",
     "scraped_at": "2026-09-15T19:38:50.007512"
+  },
+  {
+    "title": "Cyber Security Officer",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=72b7ea563de3c264",
+    "scraped_at": "2026-09-15T22:49:55.755839"
   }
 ]
