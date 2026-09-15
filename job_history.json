@@ -1,17 +1,5 @@
 [
   {
-    "title": "Data Analyst",
-    "company": "AI Talent",
-    "url": "https://au.indeed.com/viewjob?jk=4fb46852f38ed79a",
-    "scraped_at": "2026-04-21T03:31:56.192422"
-  },
-  {
-    "title": "DevOps Engineer",
-    "company": "AI Talent",
-    "url": "https://au.indeed.com/viewjob?jk=aa6e163b893196cf",
-    "scraped_at": "2026-04-21T03:31:56.216605"
-  },
-  {
     "title": "Business Analyst",
     "company": "NORTHERN STAR RESOURCES",
     "url": "https://au.indeed.com/viewjob?jk=e01c3f08b3695730",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=94039a8a35966887",
     "scraped_at": "2026-09-15T13:24:19.098074"
+  },
+  {
+    "title": "Support Officer",
+    "company": "ReadyTech Group",
+    "url": "https://au.indeed.com/viewjob?jk=72499daf531365ff",
+    "scraped_at": "2026-09-15T19:38:49.936183"
+  },
+  {
+    "title": "Project Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=2408727baffffbea",
+    "scraped_at": "2026-09-15T19:38:50.007512"
   }
 ]
