@@ -1,11 +1,5 @@
 [
   {
-    "title": "ETL Data Test Analyst - Banking",
-    "company": "The Argyle Network",
-    "url": "https://au.indeed.com/viewjob?jk=1f6c0d1a18e1eec6",
-    "scraped_at": "2026-04-20T20:58:00.693413"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=dc2cf4ae72f5e4fc",
@@ -5998,5 +5992,11 @@
     "company": "iSEAO",
     "url": "https://au.indeed.com/viewjob?jk=07fe6e95a91a0a19",
     "scraped_at": "2026-09-14T14:56:30.953824"
+  },
+  {
+    "title": "Cloud DevOps Engineer - GCP",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=5c546d5bb19fdbfa",
+    "scraped_at": "2026-09-15T04:33:06.432383"
   }
 ]
