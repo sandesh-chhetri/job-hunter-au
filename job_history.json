@@ -1,29 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=dc2cf4ae72f5e4fc",
-    "scraped_at": "2026-04-21T03:31:56.151093"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=53afef2b259d08ef",
-    "scraped_at": "2026-04-21T03:31:56.151490"
-  },
-  {
-    "title": "Customer Field Officer",
-    "company": "Yarra Valley Water",
-    "url": "https://au.indeed.com/viewjob?jk=f0267733d0179a7e",
-    "scraped_at": "2026-04-21T03:31:56.154648"
-  },
-  {
-    "title": "Software and Applications Programmer",
-    "company": "AI Talent",
-    "url": "https://au.indeed.com/viewjob?jk=f9568d116e348684",
-    "scraped_at": "2026-04-21T03:31:56.191707"
-  },
-  {
     "title": "Data Analyst",
     "company": "AI Talent",
     "url": "https://au.indeed.com/viewjob?jk=4fb46852f38ed79a",
@@ -5998,5 +5974,29 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=5c546d5bb19fdbfa",
     "scraped_at": "2026-09-15T04:33:06.432383"
+  },
+  {
+    "title": "Network Administrator",
+    "company": "Lane Cove Council",
+    "url": "https://au.indeed.com/viewjob?jk=1a6c155844bffac6",
+    "scraped_at": "2026-09-15T13:24:19.020062"
+  },
+  {
+    "title": "Administration Officer (Centralised Brisbane Support)",
+    "company": "Golding Contractors",
+    "url": "https://au.indeed.com/viewjob?jk=88cc9a7d142fe2c4",
+    "scraped_at": "2026-09-15T13:24:19.054227"
+  },
+  {
+    "title": "Python Software Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=8eda35922bda8ac5",
+    "scraped_at": "2026-09-15T13:24:19.092642"
+  },
+  {
+    "title": "Shared Services Support Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=94039a8a35966887",
+    "scraped_at": "2026-09-15T13:24:19.098074"
   }
 ]
