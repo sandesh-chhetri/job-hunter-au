@@ -1,47 +1,5 @@
 [
   {
-    "title": "Data Analyst - Associate",
-    "company": "EY",
-    "url": "https://au.indeed.com/viewjob?jk=9b55494645a1f961",
-    "scraped_at": "2026-04-21T06:08:48.825940"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=2381109545cd03d0",
-    "scraped_at": "2026-04-21T09:46:55.464181"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=679ab1b96ab1e542",
-    "scraped_at": "2026-04-21T09:46:55.464587"
-  },
-  {
-    "title": "Administration Support Officer",
-    "company": "Country Fire Authority",
-    "url": "https://au.indeed.com/viewjob?jk=8942c7c2524c77ea",
-    "scraped_at": "2026-04-21T14:01:19.571003"
-  },
-  {
-    "title": "Administration Support Officer",
-    "company": "Country Fire Authority",
-    "url": "https://au.indeed.com/viewjob?jk=5b937e4f47289e3e",
-    "scraped_at": "2026-04-21T14:01:19.574809"
-  },
-  {
-    "title": "Occupational Therapist - Transitional Aged Care Program - St Vincent's Public Hospital, Sydney",
-    "company": "St Vincent\u2019s Health Australia",
-    "url": "https://au.indeed.com/viewjob?jk=6dd2989cb50eb834",
-    "scraped_at": "2026-04-21T14:01:19.608530"
-  },
-  {
-    "title": "Hindi - Fluent Speakers - AI Training - Melbourne, Australia",
-    "company": "Prolific Academic Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=63d56b818bed9bfe",
-    "scraped_at": "2026-04-21T14:01:19.662175"
-  },
-  {
     "title": "Hindi - Fluent Speakers - AI Training - Sydney, Australia",
     "company": "Prolific Academic Ltd",
     "url": "https://au.indeed.com/viewjob?jk=74b7135faff1a6de",
@@ -5998,5 +5956,47 @@
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=72b7ea563de3c264",
     "scraped_at": "2026-09-15T22:49:55.755839"
+  },
+  {
+    "title": "Quality and Evaluation Support Officer",
+    "company": "Victorian Government",
+    "url": "https://au.indeed.com/viewjob?jk=3d55a7917178e1db",
+    "scraped_at": "2026-09-16T13:22:55.721819"
+  },
+  {
+    "title": "Quality and Evaluation Support Officer",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=0ca1b0b31321b7d5",
+    "scraped_at": "2026-09-16T13:22:55.723487"
+  },
+  {
+    "title": "L1 Network and Desktop Support",
+    "company": "MNL Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=d80e1e42ba7546b9",
+    "scraped_at": "2026-09-16T13:22:55.737298"
+  },
+  {
+    "title": "Supply Chain Analyst",
+    "company": "Myer Group",
+    "url": "https://au.indeed.com/viewjob?jk=3e4c5e0bb8894504",
+    "scraped_at": "2026-09-16T13:22:55.783623"
+  },
+  {
+    "title": "Test Analysts",
+    "company": "Aayush Tech Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=be47b3256e0025b5",
+    "scraped_at": "2026-09-16T13:22:55.785748"
+  },
+  {
+    "title": "Network Performance & Compliance Analyst",
+    "company": "CitiPower and Powercor",
+    "url": "https://au.indeed.com/viewjob?jk=e41b61bd4ffbc5f0",
+    "scraped_at": "2026-09-16T13:22:55.796837"
+  },
+  {
+    "title": "Associate Data Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=ad7252b4d1386903",
+    "scraped_at": "2026-09-16T13:22:55.812265"
   }
 ]
