@@ -1,11 +1,5 @@
 [
   {
-    "title": "Registered Nurse (Year 2 - 8) Permanent Pool - St Vincent's Public Hospital, Sydney",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=e0ee80845b6fab7d",
-    "scraped_at": "2026-04-21T17:12:19.424235"
-  },
-  {
     "title": "Occupational Therapist - Transitional Aged Care Program - St Vincent's Public Hospital, Sydney",
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=d86425dcf7436b0b",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=92bc2ffff570a3ca",
     "scraped_at": "2026-09-17T13:18:57.630293"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=90bd612b3443a452",
+    "scraped_at": "2026-09-17T19:41:07.651627"
   }
 ]
