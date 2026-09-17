@@ -1,11 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=3eca17b5063bcecb",
-    "scraped_at": "2026-04-21T17:12:19.410944"
-  },
-  {
     "title": "Registered Nurse (Year 2 - 8) Permanent Pool - St Vincent's Public Hospital, Sydney",
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=e0ee80845b6fab7d",
@@ -5998,5 +5992,11 @@
     "company": "Queensland Government",
     "url": "https://au.indeed.com/viewjob?jk=6a796431d07352f4",
     "scraped_at": "2026-09-17T04:34:50.907318"
+  },
+  {
+    "title": "Technical Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=92bc2ffff570a3ca",
+    "scraped_at": "2026-09-17T13:18:57.630293"
   }
 ]
