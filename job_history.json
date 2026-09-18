@@ -1,23 +1,5 @@
 [
   {
-    "title": "Occupational Therapist - Transitional Aged Care Program - St Vincent's Public Hospital, Sydney",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=d86425dcf7436b0b",
-    "scraped_at": "2026-04-21T17:12:19.424934"
-  },
-  {
-    "title": "District Support Officer",
-    "company": "Country Fire Authority",
-    "url": "https://au.indeed.com/viewjob?jk=dc93c0cd369cd8d0",
-    "scraped_at": "2026-04-22T03:30:14.976580"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=458a1c7c69573ce2",
-    "scraped_at": "2026-04-22T03:30:14.993440"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=8de4a580a0955aff",
@@ -5998,5 +5980,23 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=90bd612b3443a452",
     "scraped_at": "2026-09-17T19:41:07.651627"
+  },
+  {
+    "title": "Insurance Broker Support Administrator",
+    "company": "Infinity Group Australia",
+    "url": "https://au.indeed.com/viewjob?jk=7cb94e2e7420b467",
+    "scraped_at": "2026-09-18T04:19:51.407719"
+  },
+  {
+    "title": "Administration Officer - Public Health Services Section",
+    "company": "Anyinginyi Health Aboriginal Corporation",
+    "url": "https://au.indeed.com/viewjob?jk=36b210425491039a",
+    "scraped_at": "2026-09-18T04:19:51.408210"
+  },
+  {
+    "title": "Finance Officer",
+    "company": "Mitchell Shire Council",
+    "url": "https://au.indeed.com/viewjob?jk=ca483fa6a7e528dd",
+    "scraped_at": "2026-09-18T04:19:51.467312"
   }
 ]
