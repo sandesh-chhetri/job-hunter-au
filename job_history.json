@@ -1,41 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=8de4a580a0955aff",
-    "scraped_at": "2026-04-22T03:30:14.993846"
-  },
-  {
-    "title": "Transport Officer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=4b1d00f15c736c59",
-    "scraped_at": "2026-04-22T06:06:00.433507"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=b46e200c391c1f1f",
-    "scraped_at": "2026-04-22T09:44:21.237032"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=f31e94a713f84375",
-    "scraped_at": "2026-04-22T09:44:21.237427"
-  },
-  {
-    "title": "Scheduling Officer",
-    "company": "Anglicare Southern Queensland",
-    "url": "https://au.indeed.com/viewjob?jk=06d839967af4ffaf",
-    "scraped_at": "2026-04-22T14:01:14.657116"
-  },
-  {
-    "title": "Preservation Material Officer",
-    "company": "Qube",
-    "url": "https://au.indeed.com/viewjob?jk=eea027376bcda2d3",
-    "scraped_at": "2026-04-22T14:01:14.711358"
-  },
-  {
     "title": "Accounts Payable Officer",
     "company": "The Salvation Army",
     "url": "https://au.indeed.com/viewjob?jk=435eaadf137a41be",
@@ -5998,5 +5962,41 @@
     "company": "Mitchell Shire Council",
     "url": "https://au.indeed.com/viewjob?jk=ca483fa6a7e528dd",
     "scraped_at": "2026-09-18T04:19:51.467312"
+  },
+  {
+    "title": "Desktop Support Mac OS",
+    "company": "Tech Aalto Pte ltd",
+    "url": "https://au.indeed.com/viewjob?jk=2a99b4779da46055",
+    "scraped_at": "2026-09-21T15:01:55.695732"
+  },
+  {
+    "title": "Platform Admin (SAS)",
+    "company": "Tech Aalto Pte ltd",
+    "url": "https://au.indeed.com/viewjob?jk=4faa2a7d54715c16",
+    "scraped_at": "2026-09-21T15:01:55.742766"
+  },
+  {
+    "title": "Test Analysts",
+    "company": "Worklogix",
+    "url": "https://au.indeed.com/viewjob?jk=ee70c2c00ab3a629",
+    "scraped_at": "2026-09-21T15:01:55.753457"
+  },
+  {
+    "title": "Quantitative Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=ffd7b5c0adcbd326",
+    "scraped_at": "2026-09-21T15:01:55.763052"
+  },
+  {
+    "title": "Salesforce Tester - Adelaide, South Australia",
+    "company": "Shoolin Consultancy",
+    "url": "https://au.indeed.com/viewjob?jk=7740f77ff91c1f8c",
+    "scraped_at": "2026-09-21T15:01:55.764949"
+  },
+  {
+    "title": "Kubernetes SME- Infrastructure and DevOps Developer",
+    "company": "Tech Aalto Pte ltd",
+    "url": "https://au.indeed.com/viewjob?jk=a39496bcdebe0b6e",
+    "scraped_at": "2026-09-21T15:01:55.777890"
   }
 ]
