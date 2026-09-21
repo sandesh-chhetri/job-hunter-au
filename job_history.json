@@ -1,23 +1,5 @@
 [
   {
-    "title": "Accounts Payable Officer",
-    "company": "The Salvation Army",
-    "url": "https://au.indeed.com/viewjob?jk=435eaadf137a41be",
-    "scraped_at": "2026-04-22T17:11:07.268224"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=780c5f518f2d5eae",
-    "scraped_at": "2026-04-22T17:11:07.284458"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=7efcaa37888474fe",
-    "scraped_at": "2026-04-22T17:11:07.284843"
-  },
-  {
     "title": "Technical Support Associate",
     "company": "Aussie Founders Club",
     "url": "https://au.indeed.com/viewjob?jk=011a557357e75916",
@@ -5998,5 +5980,23 @@
     "company": "Tech Aalto Pte ltd",
     "url": "https://au.indeed.com/viewjob?jk=a39496bcdebe0b6e",
     "scraped_at": "2026-09-21T15:01:55.777890"
+  },
+  {
+    "title": "Applications Support Intermediate Analyst (Officer)",
+    "company": "Citi",
+    "url": "https://au.indeed.com/viewjob?jk=cd61a9d9a752acd6",
+    "scraped_at": "2026-09-21T20:22:39.648627"
+  },
+  {
+    "title": "Engineer - Data Modernisation (Sydney or Melbourne Based)",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=030824a454c3c4a6",
+    "scraped_at": "2026-09-21T20:22:39.716079"
+  },
+  {
+    "title": "iOS Testers Wanted | Help Improve Digital Experiences in Australia",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=bcf21d744c93fde2",
+    "scraped_at": "2026-09-21T20:22:39.734648"
   }
 ]
