@@ -1,17 +1,5 @@
 [
   {
-    "title": "Technical Support Associate",
-    "company": "Aussie Founders Club",
-    "url": "https://au.indeed.com/viewjob?jk=011a557357e75916",
-    "scraped_at": "2026-04-22T21:04:27.200925"
-  },
-  {
-    "title": "Hindi - Fluent Speakers - AI Training - Sydney, Australia",
-    "company": "Prolific Academic Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=70b962584c6bd2ed",
-    "scraped_at": "2026-04-22T21:04:27.284750"
-  },
-  {
     "title": "Hindi - Fluent Speakers - AI Training - Melbourne, Australia",
     "company": "Prolific Academic Ltd",
     "url": "https://au.indeed.com/viewjob?jk=a9a1a24598c30368",
@@ -5998,5 +5986,17 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=bcf21d744c93fde2",
     "scraped_at": "2026-09-21T20:22:39.734648"
+  },
+  {
+    "title": "Software Asset Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=04ffdc40bec14461",
+    "scraped_at": "2026-09-22T04:29:03.732204"
+  },
+  {
+    "title": "Data Analytics & Intelligence Analyst",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=a2be2f71e4b52401",
+    "scraped_at": "2026-09-22T04:29:03.734115"
   }
 ]
