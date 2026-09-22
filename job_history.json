@@ -1,11 +1,5 @@
 [
   {
-    "title": "Hindi - Fluent Speakers - AI Training - Melbourne, Australia",
-    "company": "Prolific Academic Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=a9a1a24598c30368",
-    "scraped_at": "2026-04-22T21:04:27.285183"
-  },
-  {
     "title": "Hindi - Fluent Speakers - AI Training - Brisbane, Australia",
     "company": "Prolific Academic Ltd",
     "url": "https://au.indeed.com/viewjob?jk=55b3aab0a54223d5",
@@ -5998,5 +5992,11 @@
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=a2be2f71e4b52401",
     "scraped_at": "2026-09-22T04:29:03.734115"
+  },
+  {
+    "title": "Health Information Analyst",
+    "company": "The Royal Victorian Eye & Ear Hospital",
+    "url": "https://au.indeed.com/viewjob?jk=470b8c6b107e220b",
+    "scraped_at": "2026-09-22T13:19:12.864085"
   }
 ]
