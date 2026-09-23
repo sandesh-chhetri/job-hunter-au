@@ -1,23 +1,5 @@
 [
   {
-    "title": "Hindi - Fluent Speakers - AI Training - Melbourne, Australia",
-    "company": "Prolific Academic Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=b951e606299ea842",
-    "scraped_at": "2026-04-22T21:04:27.286041"
-  },
-  {
-    "title": "Hindi - Fluent Speakers - AI Training - Perth, Australia",
-    "company": "Prolific Academic Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=e57a5ec26c3875c5",
-    "scraped_at": "2026-04-22T21:04:27.286464"
-  },
-  {
-    "title": "Hindi - Fluent Speakers - AI Training - Brisbane, Australia",
-    "company": "Prolific Academic Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=67732cddd8d152bd",
-    "scraped_at": "2026-04-22T21:04:27.286868"
-  },
-  {
     "title": "Hindi - Fluent Speakers - AI Training - Perth, Australia",
     "company": "Prolific Academic Ltd",
     "url": "https://au.indeed.com/viewjob?jk=25f8ce01e23789cf",
@@ -5998,5 +5980,23 @@
     "company": "City of Rockingham WA",
     "url": "https://au.indeed.com/viewjob?jk=2b4e2e58143f9fc3",
     "scraped_at": "2026-09-22T19:41:36.665066"
+  },
+  {
+    "title": "Clinical Support Officer \u2013 Midwife Group Practice",
+    "company": "NT Health",
+    "url": "https://au.indeed.com/viewjob?jk=bf86589c14e146ce",
+    "scraped_at": "2026-09-23T04:25:48.066832"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Zencontrol",
+    "url": "https://au.indeed.com/viewjob?jk=dec06ec555bb31dc",
+    "scraped_at": "2026-09-23T04:25:48.127937"
+  },
+  {
+    "title": "AI & Modern Engineering Architect",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=861d99edb165da5a",
+    "scraped_at": "2026-09-23T04:25:48.137597"
   }
 ]
