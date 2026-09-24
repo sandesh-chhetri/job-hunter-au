@@ -1,35 +1,5 @@
 [
   {
-    "title": "AI Trainer - Graphical Abstract - Physics (Remote - Adelaide)",
-    "company": "Prolific Academic Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=f370f498256d0059",
-    "scraped_at": "2026-04-22T21:04:27.294426"
-  },
-  {
-    "title": "AI Trainer - Graphical Abstract - Physics (Remote - Sydney)",
-    "company": "Prolific Academic Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=08ffaf888e43fa1d",
-    "scraped_at": "2026-04-22T21:04:27.295571"
-  },
-  {
-    "title": "AI Trainer - Graphical Abstract - Physics (Remote - Perth)",
-    "company": "Prolific Academic Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=57a0efa9de7ef217",
-    "scraped_at": "2026-04-22T21:04:27.296012"
-  },
-  {
-    "title": "Field Service Technician",
-    "company": "ASI Solutions",
-    "url": "https://au.indeed.com/viewjob?jk=d82e2c06a0667c9a",
-    "scraped_at": "2026-04-23T03:33:31.455280"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=b0f2cec25395d7e5",
-    "scraped_at": "2026-04-23T03:33:31.462550"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=f7c5efe6638018cf",
@@ -5998,5 +5968,35 @@
     "company": "Vinarchy",
     "url": "https://au.indeed.com/viewjob?jk=4a37ac4cc1ff8f24",
     "scraped_at": "2026-09-23T22:52:59.782248"
+  },
+  {
+    "title": "IT Support Technician",
+    "company": "ITECHNOLOGY AUSTRALIA",
+    "url": "https://au.indeed.com/viewjob?jk=23fb641bdee044d3",
+    "scraped_at": "2026-09-24T13:28:49.966077"
+  },
+  {
+    "title": "Field Service Technician (Onsite)",
+    "company": "ASI Solutions",
+    "url": "https://au.indeed.com/viewjob?jk=9706b602084e8d92",
+    "scraped_at": "2026-09-24T13:28:49.966842"
+  },
+  {
+    "title": "Project Controls Assistant Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=61ece80eb54a05f3",
+    "scraped_at": "2026-09-24T13:28:50.006479"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Signature Hospitality Group",
+    "url": "https://au.indeed.com/viewjob?jk=b6ee3017b167ce67",
+    "scraped_at": "2026-09-24T13:28:50.045139"
+  },
+  {
+    "title": "Technical Specialist Workers Compensation",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=ce64e8d8a9dc7b2c",
+    "scraped_at": "2026-09-24T13:28:50.048375"
   }
 ]
