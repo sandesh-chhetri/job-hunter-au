@@ -1,11 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=f7c5efe6638018cf",
-    "scraped_at": "2026-04-23T03:33:31.462947"
-  },
-  {
     "title": "Cloud Platform Engineer",
     "company": "Reserve Bank of Australia",
     "url": "https://au.indeed.com/viewjob?jk=7630f35724bcdeeb",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=ce64e8d8a9dc7b2c",
     "scraped_at": "2026-09-24T13:28:50.048375"
+  },
+  {
+    "title": "Hardship Customer Support Executive",
+    "company": "Optus",
+    "url": "https://au.indeed.com/viewjob?jk=7e3914740f83c2e1",
+    "scraped_at": "2026-09-24T19:56:15.750706"
   }
 ]
