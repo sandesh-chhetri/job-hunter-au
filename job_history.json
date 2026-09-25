@@ -1,35 +1,5 @@
 [
   {
-    "title": "Cloud Platform Engineer",
-    "company": "Reserve Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=7630f35724bcdeeb",
-    "scraped_at": "2026-04-23T03:33:31.529646"
-  },
-  {
-    "title": "Software Tester",
-    "company": "Wipro Australia",
-    "url": "https://au.indeed.com/viewjob?jk=8a60f2a2d03deb78",
-    "scraped_at": "2026-04-23T03:33:31.533088"
-  },
-  {
-    "title": "Health Support Officer",
-    "company": "Medibank",
-    "url": "https://au.indeed.com/viewjob?jk=eeb72af1a292f201",
-    "scraped_at": "2026-04-23T06:12:13.330671"
-  },
-  {
-    "title": "Program Assistant, CYF. Permanent Full Time",
-    "company": "Life Without Barriers",
-    "url": "https://au.indeed.com/viewjob?jk=b4d2a215d16972df",
-    "scraped_at": "2026-04-23T06:12:13.357381"
-  },
-  {
-    "title": "Program Assistant, CYF. Permanent Full Time",
-    "company": "Life Without Barriers",
-    "url": "https://au.indeed.com/viewjob?jk=6e65e32fef5bc3f1",
-    "scraped_at": "2026-04-23T06:12:13.357966"
-  },
-  {
     "title": "Finance Systems Officer",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=7e176b9d44f344e9",
@@ -5998,5 +5968,35 @@
     "company": "Optus",
     "url": "https://au.indeed.com/viewjob?jk=7e3914740f83c2e1",
     "scraped_at": "2026-09-24T19:56:15.750706"
+  },
+  {
+    "title": "Care Integration Nurse",
+    "company": "Medibank",
+    "url": "https://au.indeed.com/viewjob?jk=310b2f34266224e9",
+    "scraped_at": "2026-09-25T13:34:31.584725"
+  },
+  {
+    "title": "Smokemart & Gift Box Palmerston - Sales Assistant",
+    "company": "Smokemart & GiftBox - OTR Group",
+    "url": "https://au.indeed.com/viewjob?jk=df87e2a6ffca1230",
+    "scraped_at": "2026-09-25T13:34:31.606153"
+  },
+  {
+    "title": "Support Consultant",
+    "company": "ELMO Software",
+    "url": "https://au.indeed.com/viewjob?jk=0c7e82aae3c76908",
+    "scraped_at": "2026-09-25T13:34:31.607184"
+  },
+  {
+    "title": "Social Worker",
+    "company": "Medibank",
+    "url": "https://au.indeed.com/viewjob?jk=74f4f7438530151f",
+    "scraped_at": "2026-09-25T13:34:31.612772"
+  },
+  {
+    "title": "Sales Planning Analyst",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=822eeb277188a1d3",
+    "scraped_at": "2026-09-25T13:34:31.647233"
   }
 ]
