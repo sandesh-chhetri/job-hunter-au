@@ -2,12 +2,6 @@
   {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=f6efacd200d75c87",
-    "scraped_at": "2026-04-23T09:52:09.297261"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=7cd5444d0a0bfcdb",
     "scraped_at": "2026-04-23T09:52:09.297658"
   },
@@ -5998,5 +5992,11 @@
     "company": "Dnata",
     "url": "https://au.indeed.com/viewjob?jk=2cc97dde0ddf93c7",
     "scraped_at": "2026-09-25T23:15:32.213651"
+  },
+  {
+    "title": "System Engineer",
+    "company": "Hitachi Rail",
+    "url": "https://au.indeed.com/viewjob?jk=2a099e6d601b87a0",
+    "scraped_at": "2026-09-26T04:38:12.542559"
   }
 ]
