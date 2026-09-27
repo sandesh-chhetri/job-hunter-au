@@ -1,11 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=7cd5444d0a0bfcdb",
-    "scraped_at": "2026-04-23T09:52:09.297658"
-  },
-  {
     "title": "Records and AML/CTF Administrator (Hybrid or Remote)",
     "company": "Commonwealth Superannuation Corporation (CSC)",
     "url": "https://au.indeed.com/viewjob?jk=63ccfc85093334d0",
@@ -5998,5 +5992,11 @@
     "company": "Hitachi Rail",
     "url": "https://au.indeed.com/viewjob?jk=2a099e6d601b87a0",
     "scraped_at": "2026-09-26T04:38:12.542559"
+  },
+  {
+    "title": "AI Engineer - Intelligence & Protection",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=9118d087842d759d",
+    "scraped_at": "2026-09-27T04:58:03.251178"
   }
 ]
