@@ -1,35 +1,5 @@
 [
   {
-    "title": "IT Service Analyst",
-    "company": "VGW Australia",
-    "url": "https://au.indeed.com/viewjob?jk=25e539eef39560d2",
-    "scraped_at": "2026-04-23T09:52:09.334173"
-  },
-  {
-    "title": "Content Officer",
-    "company": "Water Corporation",
-    "url": "https://au.indeed.com/viewjob?jk=3159a89ff30db3f6",
-    "scraped_at": "2026-04-23T09:52:09.343977"
-  },
-  {
-    "title": "DevOps Cloud & Infrastructure Engineer",
-    "company": "Corporate Travel Management",
-    "url": "https://au.indeed.com/viewjob?jk=5936bf037e5a45e5",
-    "scraped_at": "2026-04-23T09:52:09.360426"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=874707ad919805e9",
-    "scraped_at": "2026-04-23T17:28:04.689920"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=1cab27ad4b4daa58",
-    "scraped_at": "2026-04-23T17:28:04.690316"
-  },
-  {
     "title": "Data Analyst",
     "company": "Aussie Founders Club",
     "url": "https://au.indeed.com/viewjob?jk=8cd8f1a0c3ebe42e",
@@ -5998,5 +5968,35 @@
     "company": "Mobilunity",
     "url": "https://au.indeed.com/viewjob?jk=ebd2baf0da4554c0",
     "scraped_at": "2026-09-28T04:59:06.081723"
+  },
+  {
+    "title": "Analyst, Zoom, VC and AV Engineer",
+    "company": "NAB - National Australia Bank",
+    "url": "https://au.indeed.com/viewjob?jk=0f7052be1da095dd",
+    "scraped_at": "2026-09-28T16:41:22.931283"
+  },
+  {
+    "title": "Registered Nurse (Full Time)",
+    "company": "NRF HEALTH",
+    "url": "https://au.indeed.com/viewjob?jk=bb45309760523a17",
+    "scraped_at": "2026-09-28T16:41:22.951467"
+  },
+  {
+    "title": "Web Developer",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=7650266e29d83fd4",
+    "scraped_at": "2026-09-28T16:41:22.982731"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "4DMedical",
+    "url": "https://au.indeed.com/viewjob?jk=865e5c99ba8ad29c",
+    "scraped_at": "2026-09-28T16:41:22.983192"
+  },
+  {
+    "title": "Knowledge Specialist",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=f110f7f4ac61a008",
+    "scraped_at": "2026-09-28T16:41:22.984709"
   }
 ]
