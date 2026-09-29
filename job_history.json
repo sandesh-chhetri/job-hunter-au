@@ -1,23 +1,5 @@
 [
   {
-    "title": "Data Analyst",
-    "company": "Aussie Founders Club",
-    "url": "https://au.indeed.com/viewjob?jk=8cd8f1a0c3ebe42e",
-    "scraped_at": "2026-04-23T17:28:04.712364"
-  },
-  {
-    "title": "Financial Analyst",
-    "company": "NT Government - Department of Tourism and Hospitality",
-    "url": "https://au.indeed.com/viewjob?jk=e56299b47e5940f0",
-    "scraped_at": "2026-04-23T21:00:44.814856"
-  },
-  {
-    "title": "Rangelands Monitoring Officer",
-    "company": "Department of Agriculture and Fisheries",
-    "url": "https://au.indeed.com/viewjob?jk=ca1c78de6424f221",
-    "scraped_at": "2026-04-23T21:00:44.855239"
-  },
-  {
     "title": "Japanese - Fluent Speakers - AI Training - Australia",
     "company": "Prolific Academic Ltd",
     "url": "https://au.indeed.com/viewjob?jk=7eeee6a9a4b2a871",
@@ -5998,5 +5980,23 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=f110f7f4ac61a008",
     "scraped_at": "2026-09-28T16:41:22.984709"
+  },
+  {
+    "title": "Technical Support Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=30a912f7532e39d3",
+    "scraped_at": "2026-09-29T10:34:46.754960"
+  },
+  {
+    "title": "Data Modeller",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=1d7c0f63022d42fd",
+    "scraped_at": "2026-09-29T10:34:46.837367"
+  },
+  {
+    "title": "Road Occupancy Assessor",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=f3ce2974ba46dae6",
+    "scraped_at": "2026-09-29T10:34:46.838334"
   }
 ]
