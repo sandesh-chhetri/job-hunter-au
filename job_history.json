@@ -1,17 +1,5 @@
 [
   {
-    "title": "German - Fluent Speakers - AI Training - Australia",
-    "company": "Prolific Academic Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=703d69b806cfea88",
-    "scraped_at": "2026-04-23T21:00:44.877625"
-  },
-  {
-    "title": "Claims Officer - Liability",
-    "company": "QBE",
-    "url": "https://au.indeed.com/viewjob?jk=6096c59377ddd02c",
-    "scraped_at": "2026-04-24T03:35:48.377614"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=f4097af1fc6f7797",
@@ -5998,5 +5986,17 @@
     "company": "CENTRAL AUSTRALIAN ABORIGINAL CONGRESS",
     "url": "https://au.indeed.com/viewjob?jk=04ce58ba76adb993",
     "scraped_at": "2026-09-30T05:12:18.540366"
+  },
+  {
+    "title": "Port Controller",
+    "company": "BHP",
+    "url": "https://au.indeed.com/viewjob?jk=89c2823a4b1c139b",
+    "scraped_at": "2026-09-30T14:50:16.184033"
+  },
+  {
+    "title": "Administration Support Officer",
+    "company": "Sunshine Coast Regional Council",
+    "url": "https://au.indeed.com/viewjob?jk=b901bdea7ff2f27e",
+    "scraped_at": "2026-09-30T14:50:16.194744"
   }
 ]
