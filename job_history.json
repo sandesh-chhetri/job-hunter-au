@@ -1,17 +1,5 @@
 [
   {
-    "title": "Clinical Psychologist - Chronic Pain Service - St Vincent's Public Hospital, Sydney",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=1f8f3bab8d948c5f",
-    "scraped_at": "2026-04-24T03:35:48.410280"
-  },
-  {
-    "title": "RFQ - .NET Developer",
-    "company": "NTT DATA",
-    "url": "https://au.indeed.com/viewjob?jk=18f4fdbd4ac02e95",
-    "scraped_at": "2026-04-24T06:16:38.543740"
-  },
-  {
     "title": "Founding AI / Software Engineer",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=420098239baee4da",
@@ -5998,5 +5986,17 @@
     "company": "Allianz",
     "url": "https://au.indeed.com/viewjob?jk=7b4a6596fd255358",
     "scraped_at": "2026-09-30T20:43:23.475167"
+  },
+  {
+    "title": "Technical Support & Sales Specialist \u2013 Gate Automation & Access Control",
+    "company": "Alpha Automation",
+    "url": "https://au.indeed.com/viewjob?jk=156dcc78fe5f33c8",
+    "scraped_at": "2026-10-01T05:27:21.252829"
+  },
+  {
+    "title": "Business Administrator \u2013 Office of General Counsel",
+    "company": "Allens",
+    "url": "https://au.indeed.com/viewjob?jk=c9c4b1baa8315617",
+    "scraped_at": "2026-10-01T05:27:21.260406"
   }
 ]
