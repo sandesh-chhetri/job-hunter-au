@@ -1,23 +1,5 @@
 [
   {
-    "title": "Founding AI / Software Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=420098239baee4da",
-    "scraped_at": "2026-04-24T06:16:38.550268"
-  },
-  {
-    "title": "Coastal Infrastructure Maintenance Specialist Regional",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=4b95205b9ff0238f",
-    "scraped_at": "2026-04-24T06:16:38.553100"
-  },
-  {
-    "title": "Field Officer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=ee52afe34e74e60a",
-    "scraped_at": "2026-04-24T06:16:38.553618"
-  },
-  {
     "title": "Coastal Infrastructure Maintenance Specialist Metro",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=81150b3bd698cf7d",
@@ -5998,5 +5980,23 @@
     "company": "Allens",
     "url": "https://au.indeed.com/viewjob?jk=c9c4b1baa8315617",
     "scraped_at": "2026-10-01T05:27:21.260406"
+  },
+  {
+    "title": "Service Desk Administrator - Audio Visual",
+    "company": "Centorrino Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=5839d7d8243d7de2",
+    "scraped_at": "2026-10-01T15:20:40.247992"
+  },
+  {
+    "title": "ServiceNow Developer",
+    "company": "Centelon",
+    "url": "https://au.indeed.com/viewjob?jk=ba737bfa3e369117",
+    "scraped_at": "2026-10-01T15:20:40.276029"
+  },
+  {
+    "title": "Developer Programmer",
+    "company": "INJ GLOBAL PTY LTD",
+    "url": "https://au.indeed.com/viewjob?jk=8a65a0bf0ace908a",
+    "scraped_at": "2026-10-01T15:20:40.297994"
   }
 ]
