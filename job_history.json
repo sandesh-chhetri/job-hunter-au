@@ -1,23 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=9033737d26d89943",
-    "scraped_at": "2026-04-26T16:55:24.787842"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=7c3654be10412825",
-    "scraped_at": "2026-04-27T03:48:13.792669"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=70dac793818c595e",
-    "scraped_at": "2026-04-27T03:48:13.793062"
-  },
-  {
     "title": "Process Re\u2011engineering Business Analyst",
     "company": "NCS",
     "url": "https://au.indeed.com/viewjob?jk=c87209495bc538b5",
@@ -5998,5 +5980,23 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=4025a351ab3678fd",
     "scraped_at": "2026-10-05T17:03:20.413874"
+  },
+  {
+    "title": "Locker Technical Specialist - Spanish/English",
+    "company": "KeyNest",
+    "url": "https://au.indeed.com/viewjob?jk=899291dee23e564a",
+    "scraped_at": "2026-10-06T11:10:34.729498"
+  },
+  {
+    "title": "Associate Business Analyst - Feeds",
+    "company": "HUB24",
+    "url": "https://au.indeed.com/viewjob?jk=25480092139ab339",
+    "scraped_at": "2026-10-06T11:10:34.787168"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=33b4799c5351ff31",
+    "scraped_at": "2026-10-06T11:10:34.790031"
   }
 ]
