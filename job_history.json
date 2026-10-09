@@ -1,17 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=7fd2b8959f92ab04",
-    "scraped_at": "2026-04-28T17:53:17.765417"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=e3d7edbf68a9d6aa",
-    "scraped_at": "2026-04-28T17:53:17.765811"
-  },
-  {
     "title": "First Nations Warehouse Support",
     "company": "Outback Stores",
     "url": "https://au.indeed.com/viewjob?jk=65ace726af85a06c",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=b999aa921ced11f3",
     "scraped_at": "2026-10-09T05:45:23.272917"
+  },
+  {
+    "title": "IT Support Technician",
+    "company": "ITECHNOLOGY AUSTRALIA",
+    "url": "https://au.indeed.com/viewjob?jk=f955cc4484ac13ba",
+    "scraped_at": "2026-10-09T15:11:18.308431"
+  },
+  {
+    "title": "Intake Officer / Administration Officer",
+    "company": "Medibank",
+    "url": "https://au.indeed.com/viewjob?jk=a3a32f192fdcf01f",
+    "scraped_at": "2026-10-09T15:11:18.330800"
   }
 ]
