@@ -1,11 +1,5 @@
 [
   {
-    "title": "First Nations Warehouse Support",
-    "company": "Outback Stores",
-    "url": "https://au.indeed.com/viewjob?jk=65ace726af85a06c",
-    "scraped_at": "2026-04-28T21:13:40.500819"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=eb102e974d74ec62",
@@ -5998,5 +5992,11 @@
     "company": "Medibank",
     "url": "https://au.indeed.com/viewjob?jk=a3a32f192fdcf01f",
     "scraped_at": "2026-10-09T15:11:18.330800"
+  },
+  {
+    "title": "Receptionist",
+    "company": "Lifecare",
+    "url": "https://au.indeed.com/viewjob?jk=2670c912df0a7ed6",
+    "scraped_at": "2026-10-10T19:57:58.433385"
   }
 ]
