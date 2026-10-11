@@ -1,11 +1,5 @@
 [
   {
-    "title": "Claims Officer - Liability",
-    "company": "QBE",
-    "url": "https://au.indeed.com/viewjob?jk=f6591730d0b663ab",
-    "scraped_at": "2026-04-29T10:13:02.801293"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=ce8e9abe12a7e4bb",
@@ -5998,5 +5992,11 @@
     "company": "Medibank",
     "url": "https://au.indeed.com/viewjob?jk=6353f69e4a1255f1",
     "scraped_at": "2026-10-11T05:22:49.188034"
+  },
+  {
+    "title": "TEMPORARY SSO2 - LIMESTONE COAST TECHNICAL COLLEGE - ACCOMMODATION OFFICER",
+    "company": "Department for Education, South Australia",
+    "url": "https://au.indeed.com/viewjob?jk=ec58e448904ce3c4",
+    "scraped_at": "2026-10-11T20:08:20.005599"
   }
 ]
