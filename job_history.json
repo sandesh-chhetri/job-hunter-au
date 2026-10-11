@@ -1,17 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=eb102e974d74ec62",
-    "scraped_at": "2026-04-29T03:50:00.223273"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=34f9dba54c67e086",
-    "scraped_at": "2026-04-29T03:50:00.223675"
-  },
-  {
     "title": "Claims Officer - Liability",
     "company": "QBE",
     "url": "https://au.indeed.com/viewjob?jk=f6591730d0b663ab",
@@ -5998,5 +5986,17 @@
     "company": "Lifecare",
     "url": "https://au.indeed.com/viewjob?jk=2670c912df0a7ed6",
     "scraped_at": "2026-10-10T19:57:58.433385"
+  },
+  {
+    "title": "IT Support Engineer",
+    "company": "Metcash",
+    "url": "https://au.indeed.com/viewjob?jk=b9aba304697684f2",
+    "scraped_at": "2026-10-11T05:22:49.165601"
+  },
+  {
+    "title": "Health & Wellbeing Clinician 1",
+    "company": "Medibank",
+    "url": "https://au.indeed.com/viewjob?jk=6353f69e4a1255f1",
+    "scraped_at": "2026-10-11T05:22:49.188034"
   }
 ]
