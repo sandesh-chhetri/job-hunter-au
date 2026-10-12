@@ -1,17 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=ce8e9abe12a7e4bb",
-    "scraped_at": "2026-04-29T10:13:02.815781"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=129392dcf684e215",
-    "scraped_at": "2026-04-29T10:13:02.816175"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions (OTS)",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=6a37d7de36079965",
@@ -5998,5 +5986,17 @@
     "company": "Department for Education, South Australia",
     "url": "https://au.indeed.com/viewjob?jk=ec58e448904ce3c4",
     "scraped_at": "2026-10-11T20:08:20.005599"
+  },
+  {
+    "title": "Developer Programmer",
+    "company": "Dipole Consulting Group Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=6d11010cf7581b7b",
+    "scraped_at": "2026-10-12T17:41:23.924736"
+  },
+  {
+    "title": "Reporting Data Analyst",
+    "company": "NT Government - Department of Education and Training",
+    "url": "https://au.indeed.com/viewjob?jk=1d2c2349592a9ffd",
+    "scraped_at": "2026-10-12T17:41:23.962956"
   }
 ]
