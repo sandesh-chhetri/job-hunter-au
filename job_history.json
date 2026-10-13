@@ -1,17 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions (OTS)",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=6a37d7de36079965",
-    "scraped_at": "2026-04-29T10:13:02.816580"
-  },
-  {
-    "title": "Customer Experience Officer - Fixed Term",
-    "company": "City of Palmerston",
-    "url": "https://au.indeed.com/viewjob?jk=9b27853ac545fc32",
-    "scraped_at": "2026-04-29T10:13:02.847422"
-  },
-  {
     "title": "Program Administrator",
     "company": "AKG Australia",
     "url": "https://au.indeed.com/viewjob?jk=9274055b08cfa662",
@@ -5998,5 +5986,17 @@
     "company": "NT Government - Department of Education and Training",
     "url": "https://au.indeed.com/viewjob?jk=1d2c2349592a9ffd",
     "scraped_at": "2026-10-12T17:41:23.962956"
+  },
+  {
+    "title": "NDIS Support Officer",
+    "company": "Barcaldine Regional Council",
+    "url": "https://au.indeed.com/viewjob?jk=003e177ca080e9b3",
+    "scraped_at": "2026-10-13T01:56:45.948595"
+  },
+  {
+    "title": "Financial Analyst",
+    "company": "NT Government - Department of Education and Training",
+    "url": "https://au.indeed.com/viewjob?jk=553e5104ff7a0a45",
+    "scraped_at": "2026-10-13T01:56:45.967999"
   }
 ]
