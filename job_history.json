@@ -1,29 +1,5 @@
 [
   {
-    "title": "Program Administrator",
-    "company": "AKG Australia",
-    "url": "https://au.indeed.com/viewjob?jk=9274055b08cfa662",
-    "scraped_at": "2026-04-29T10:13:02.851717"
-  },
-  {
-    "title": "Shore Excursions Administrator",
-    "company": "Carnival Cruise Line",
-    "url": "https://au.indeed.com/viewjob?jk=1eec3f621de1dc6a",
-    "scraped_at": "2026-04-29T14:21:34.597707"
-  },
-  {
-    "title": "Human Factors Specialist",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=d225378338de36e5",
-    "scraped_at": "2026-04-29T14:21:34.630844"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=2d49c0eb4103e117",
-    "scraped_at": "2026-04-29T17:44:58.317933"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=54650f3ff8d88cba",
@@ -5998,5 +5974,29 @@
     "company": "NT Government - Department of Education and Training",
     "url": "https://au.indeed.com/viewjob?jk=553e5104ff7a0a45",
     "scraped_at": "2026-10-13T01:56:45.967999"
+  },
+  {
+    "title": "Application Support Analyst",
+    "company": "RLDatix",
+    "url": "https://au.indeed.com/viewjob?jk=4b886fbcdbacbc3b",
+    "scraped_at": "2026-10-13T11:37:38.535120"
+  },
+  {
+    "title": "IT Support Officer",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=2d4d880d16051060",
+    "scraped_at": "2026-10-13T11:37:38.563219"
+  },
+  {
+    "title": "Data and Information Analyst",
+    "company": "CODIDA",
+    "url": "https://au.indeed.com/viewjob?jk=9718ec73bf4e0834",
+    "scraped_at": "2026-10-13T11:37:38.583482"
+  },
+  {
+    "title": "Software Developers (UI developer)",
+    "company": "EzzyBills",
+    "url": "https://au.indeed.com/viewjob?jk=ca30d73cf7a29cfe",
+    "scraped_at": "2026-10-13T11:37:38.612489"
   }
 ]
