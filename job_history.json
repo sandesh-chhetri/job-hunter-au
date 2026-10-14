@@ -1,29 +1,5 @@
 [
   {
-    "title": "Storesperson",
-    "company": "Dnata",
-    "url": "https://au.indeed.com/viewjob?jk=03792cfcdb8c73dc",
-    "scraped_at": "2026-04-29T21:14:21.324880"
-  },
-  {
-    "title": "Trade Support Analyst/ Engineer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=17074c768830c0a1",
-    "scraped_at": "2026-04-30T03:51:22.536304"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=67081431885625f1",
-    "scraped_at": "2026-04-30T03:51:22.549513"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=b482d05e9e603483",
-    "scraped_at": "2026-04-30T03:51:22.549913"
-  },
-  {
     "title": "Dutch - Fluent Speakers - AI Training - Sydney, Australia",
     "company": "Prolific Academic Ltd",
     "url": "https://au.indeed.com/viewjob?jk=f658b332255d3f96",
@@ -5998,5 +5974,29 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=3245a56ac13df912",
     "scraped_at": "2026-10-14T04:31:57.317035"
+  },
+  {
+    "title": "Specialist, IT Technical Support - Adelaide",
+    "company": "IHG Hotels & Resorts",
+    "url": "https://au.indeed.com/viewjob?jk=989da4547e1688b6",
+    "scraped_at": "2026-10-14T13:33:29.200961"
+  },
+  {
+    "title": "Commercial Der Technical Support Officer",
+    "company": "Western Power",
+    "url": "https://au.indeed.com/viewjob?jk=d9c971903260dfc2",
+    "scraped_at": "2026-10-14T13:33:29.205355"
+  },
+  {
+    "title": "ICT Network & Systems Administrator",
+    "company": "Essential Healthcare Group",
+    "url": "https://au.indeed.com/viewjob?jk=04e49c3afc9b422f",
+    "scraped_at": "2026-10-14T13:33:29.220141"
+  },
+  {
+    "title": "Junior Data Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=668b616dacca91e3",
+    "scraped_at": "2026-10-14T13:33:29.243174"
   }
 ]
