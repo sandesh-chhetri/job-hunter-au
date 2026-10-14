@@ -1,11 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=54650f3ff8d88cba",
-    "scraped_at": "2026-04-29T17:44:58.318341"
-  },
-  {
     "title": "Storesperson",
     "company": "Dnata",
     "url": "https://au.indeed.com/viewjob?jk=03792cfcdb8c73dc",
@@ -5998,5 +5992,11 @@
     "company": "EzzyBills",
     "url": "https://au.indeed.com/viewjob?jk=ca30d73cf7a29cfe",
     "scraped_at": "2026-10-13T11:37:38.612489"
+  },
+  {
+    "title": "IT Support Engineer I, Operations Technology Solutions",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=3245a56ac13df912",
+    "scraped_at": "2026-10-14T04:31:57.317035"
   }
 ]
