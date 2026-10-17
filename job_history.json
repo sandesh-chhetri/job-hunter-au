@@ -1,11 +1,5 @@
 [
   {
-    "title": "Software Support Consultant",
-    "company": "Sybiz Software Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=63b0f6f50dc4cd90",
-    "scraped_at": "2026-05-01T09:54:08.307538"
-  },
-  {
     "title": "Enrolled Nurse - Aged Care",
     "company": "SA Health",
     "url": "https://au.indeed.com/viewjob?jk=fee37204b003fe67",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=daf02c84ea5c331c",
     "scraped_at": "2026-10-17T18:21:06.469821"
+  },
+  {
+    "title": "Software and Applications Programmer",
+    "company": "AI Talent",
+    "url": "https://au.indeed.com/viewjob?jk=aa8dd0f979c2383d",
+    "scraped_at": "2026-10-17T22:08:39.233665"
   }
 ]
