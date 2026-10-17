@@ -1,11 +1,5 @@
 [
   {
-    "title": "ICT Customer Support Officer",
-    "company": "Sleepeezee Bedding",
-    "url": "https://au.indeed.com/viewjob?jk=e3e0ffd05cef5450",
-    "scraped_at": "2026-05-01T09:54:08.234279"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=7986970a06d083c7",
@@ -5998,5 +5992,11 @@
     "company": "NT Government - Department of Logistics and Infrastructure",
     "url": "https://au.indeed.com/viewjob?jk=597755ba1b213c49",
     "scraped_at": "2026-10-16T13:09:25.337774"
+  },
+  {
+    "title": "Database Administrator",
+    "company": "Booze&Barrels Investment Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=51cac10e202df6dd",
+    "scraped_at": "2026-10-17T04:00:52.932832"
   }
 ]
