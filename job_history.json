@@ -1,23 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=7986970a06d083c7",
-    "scraped_at": "2026-05-01T09:54:08.235290"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=eeec9492e9d75363",
-    "scraped_at": "2026-05-01T09:54:08.235672"
-  },
-  {
-    "title": "Risk Systems Analyst",
-    "company": "ANZ",
-    "url": "https://au.indeed.com/viewjob?jk=5847d413442a92a3",
-    "scraped_at": "2026-05-01T09:54:08.282534"
-  },
-  {
     "title": "Statistical Forecast Analyst",
     "company": "ALDI",
     "url": "https://au.indeed.com/viewjob?jk=13fcdb92f0c12aaf",
@@ -5998,5 +5980,23 @@
     "company": "Booze&Barrels Investment Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=51cac10e202df6dd",
     "scraped_at": "2026-10-17T04:00:52.932832"
+  },
+  {
+    "title": "Network Administrator",
+    "company": "AI Talent",
+    "url": "https://au.indeed.com/viewjob?jk=3e24fc863452ddd0",
+    "scraped_at": "2026-10-17T12:05:33.639385"
+  },
+  {
+    "title": "Web Administrator",
+    "company": "AI Talent",
+    "url": "https://au.indeed.com/viewjob?jk=ef9be9cdd609a6f2",
+    "scraped_at": "2026-10-17T12:05:33.677770"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "AI Talent",
+    "url": "https://au.indeed.com/viewjob?jk=0033f0b62235da69",
+    "scraped_at": "2026-10-17T12:05:33.683186"
   }
 ]
