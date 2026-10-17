@@ -1,11 +1,5 @@
 [
   {
-    "title": "Statistical Forecast Analyst",
-    "company": "ALDI",
-    "url": "https://au.indeed.com/viewjob?jk=13fcdb92f0c12aaf",
-    "scraped_at": "2026-05-01T09:54:08.287030"
-  },
-  {
     "title": "Software Support Consultant",
     "company": "Sybiz Software Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=63b0f6f50dc4cd90",
@@ -5998,5 +5992,11 @@
     "company": "AI Talent",
     "url": "https://au.indeed.com/viewjob?jk=0033f0b62235da69",
     "scraped_at": "2026-10-17T12:05:33.683186"
+  },
+  {
+    "title": "Project Schedule Assistant Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=daf02c84ea5c331c",
+    "scraped_at": "2026-10-17T18:21:06.469821"
   }
 ]
