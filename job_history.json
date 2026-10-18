@@ -1,11 +1,5 @@
 [
   {
-    "title": "Enrolled Nurse - Aged Care",
-    "company": "SA Health",
-    "url": "https://au.indeed.com/viewjob?jk=fee37204b003fe67",
-    "scraped_at": "2026-05-01T13:45:02.454322"
-  },
-  {
     "title": "Strategy Analyst",
     "company": "RMIT University",
     "url": "https://au.indeed.com/viewjob?jk=67b237f247f47a5c",
@@ -5998,5 +5992,11 @@
     "company": "AI Talent",
     "url": "https://au.indeed.com/viewjob?jk=aa8dd0f979c2383d",
     "scraped_at": "2026-10-17T22:08:39.233665"
+  },
+  {
+    "title": "Part Time Behaviour Support Practitioner",
+    "company": "Ability Action Australia",
+    "url": "https://au.indeed.com/viewjob?jk=44c45e7023d98b9c",
+    "scraped_at": "2026-10-18T12:33:15.373546"
   }
 ]
