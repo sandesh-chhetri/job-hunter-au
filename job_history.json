@@ -1,17 +1,5 @@
 [
   {
-    "title": "Strategy Analyst",
-    "company": "RMIT University",
-    "url": "https://au.indeed.com/viewjob?jk=67b237f247f47a5c",
-    "scraped_at": "2026-05-01T13:45:02.489893"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=f3cccce889cfa5e3",
-    "scraped_at": "2026-05-01T17:06:02.472925"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=a3bf1674794022a9",
@@ -5998,5 +5986,17 @@
     "company": "Ability Action Australia",
     "url": "https://au.indeed.com/viewjob?jk=44c45e7023d98b9c",
     "scraped_at": "2026-10-18T12:33:15.373546"
+  },
+  {
+    "title": "Care Coordinator - Aged Care",
+    "company": "Australian Unity",
+    "url": "https://au.indeed.com/viewjob?jk=7ff06e1041d1b881",
+    "scraped_at": "2026-10-19T04:16:57.442354"
+  },
+  {
+    "title": "Test Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=3228419c63704cc3",
+    "scraped_at": "2026-10-19T04:16:57.517640"
   }
 ]
