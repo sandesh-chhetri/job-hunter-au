@@ -2,12 +2,6 @@
   {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=bd3e0af8a108023a",
-    "scraped_at": "2026-05-03T17:01:01.750564"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=09939676e7a8bec0",
     "scraped_at": "2026-05-04T03:55:02.849335"
   },
@@ -5998,5 +5992,11 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=4676a86837592b8a",
     "scraped_at": "2026-10-26T04:20:47.973536"
+  },
+  {
+    "title": "Full Stack Developer \u2013 Laravel",
+    "company": "Code Squirrel",
+    "url": "https://au.indeed.com/viewjob?jk=c847dfbed38e1974",
+    "scraped_at": "2026-10-26T15:04:09.499973"
   }
 ]
