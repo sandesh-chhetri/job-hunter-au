@@ -2,12 +2,6 @@
   {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=1d9c1f52f7177c83",
-    "scraped_at": "2026-05-03T17:01:01.750178"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=bd3e0af8a108023a",
     "scraped_at": "2026-05-03T17:01:01.750564"
   },
@@ -5998,5 +5992,11 @@
     "company": "Kanda",
     "url": "https://au.indeed.com/viewjob?jk=1fee42cd80c80137",
     "scraped_at": "2026-10-24T12:35:24.962244"
+  },
+  {
+    "title": "Intelligence and Decisions Specialist",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=4676a86837592b8a",
+    "scraped_at": "2026-10-26T04:20:47.973536"
   }
 ]
