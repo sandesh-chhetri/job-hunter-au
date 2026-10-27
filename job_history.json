@@ -1,11 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=6c8019a0a2a676db",
-    "scraped_at": "2026-05-04T03:55:02.849761"
-  },
-  {
     "title": "Maintenance Services Officer",
     "company": "CitiPower and Powercor",
     "url": "https://au.indeed.com/viewjob?jk=d78d6f20bb618afc",
@@ -5998,5 +5992,11 @@
     "company": "Country Fire Authority",
     "url": "https://au.indeed.com/viewjob?jk=08f58ad75c3130ed",
     "scraped_at": "2026-10-27T04:39:49.726576"
+  },
+  {
+    "title": "ICT Support Technician",
+    "company": "Elite Immigration Consultancy Australia",
+    "url": "https://au.indeed.com/viewjob?jk=d2ef7ee2bb879ceb",
+    "scraped_at": "2026-10-27T14:18:16.840784"
   }
 ]
