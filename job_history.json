@@ -1,11 +1,5 @@
 [
   {
-    "title": "Software Engineer - Functional Programming (AU & NZ)",
-    "company": "BELLROY",
-    "url": "https://au.indeed.com/viewjob?jk=c426d0c60a152004",
-    "scraped_at": "2026-05-04T03:55:02.912422"
-  },
-  {
     "title": "Access & Enquiry Officer",
     "company": "genu",
     "url": "https://au.indeed.com/viewjob?jk=14ed436556327bcc",
@@ -5998,5 +5992,11 @@
     "company": "InBody",
     "url": "https://au.indeed.com/viewjob?jk=7ff43f7bd0bf3daa",
     "scraped_at": "2026-10-28T05:13:51.700337"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=17f59295045bd63c",
+    "scraped_at": "2026-10-28T15:00:12.766185"
   }
 ]
