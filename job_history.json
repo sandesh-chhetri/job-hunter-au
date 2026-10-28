@@ -1,11 +1,5 @@
 [
   {
-    "title": "Maintenance Services Officer",
-    "company": "CitiPower and Powercor",
-    "url": "https://au.indeed.com/viewjob?jk=d78d6f20bb618afc",
-    "scraped_at": "2026-05-04T03:55:02.851522"
-  },
-  {
     "title": "Software Engineer - Functional Programming (AU & NZ)",
     "company": "BELLROY",
     "url": "https://au.indeed.com/viewjob?jk=c426d0c60a152004",
@@ -5998,5 +5992,11 @@
     "company": "Elite Immigration Consultancy Australia",
     "url": "https://au.indeed.com/viewjob?jk=d2ef7ee2bb879ceb",
     "scraped_at": "2026-10-27T14:18:16.840784"
+  },
+  {
+    "title": "Customer Success & Technical Support Specialist",
+    "company": "InBody",
+    "url": "https://au.indeed.com/viewjob?jk=7ff43f7bd0bf3daa",
+    "scraped_at": "2026-10-28T05:13:51.700337"
   }
 ]
