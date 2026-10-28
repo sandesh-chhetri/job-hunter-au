@@ -1,11 +1,5 @@
 [
   {
-    "title": "Access & Enquiry Officer",
-    "company": "genu",
-    "url": "https://au.indeed.com/viewjob?jk=14ed436556327bcc",
-    "scraped_at": "2026-05-04T06:47:18.722141"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=bbd75d84ba538adb",
@@ -5998,5 +5992,11 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=17f59295045bd63c",
     "scraped_at": "2026-10-28T15:00:12.766185"
+  },
+  {
+    "title": "Care Coordinator - Aged Care",
+    "company": "Australian Unity",
+    "url": "https://au.indeed.com/viewjob?jk=7396e6ccbb3d2ec8",
+    "scraped_at": "2026-10-28T20:54:57.778617"
   }
 ]
