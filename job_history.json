@@ -1,11 +1,5 @@
 [
   {
-    "title": "Web Developer",
-    "company": "Wintons",
-    "url": "https://au.indeed.com/viewjob?jk=31d32114b8222d25",
-    "scraped_at": "2026-05-04T14:21:11.409260"
-  },
-  {
     "title": "Korean - Fluent Speakers - AI Training - Brisbane, Australia",
     "company": "Prolific Academic Ltd",
     "url": "https://au.indeed.com/viewjob?jk=f69ed1200f09565b",
@@ -5998,5 +5992,11 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=2ddde069beeb765f",
     "scraped_at": "2026-10-29T15:07:20.779609"
+  },
+  {
+    "title": "Bridge Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=13e652b4d32d689a",
+    "scraped_at": "2026-10-29T20:59:29.761866"
   }
 ]
