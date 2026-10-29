@@ -1,29 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=bbd75d84ba538adb",
-    "scraped_at": "2026-05-04T10:21:28.667882"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=35361c47e3dcdb89",
-    "scraped_at": "2026-05-04T10:21:28.668270"
-  },
-  {
-    "title": "Software Tester",
-    "company": "Conn3cted",
-    "url": "https://au.indeed.com/viewjob?jk=1beaff41af0a81bc",
-    "scraped_at": "2026-05-04T10:21:28.733962"
-  },
-  {
-    "title": "Change Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=45648b430e24a471",
-    "scraped_at": "2026-05-04T14:21:11.385465"
-  },
-  {
     "title": "Web Developer",
     "company": "Wintons",
     "url": "https://au.indeed.com/viewjob?jk=31d32114b8222d25",
@@ -5998,5 +5974,29 @@
     "company": "Australian Unity",
     "url": "https://au.indeed.com/viewjob?jk=7396e6ccbb3d2ec8",
     "scraped_at": "2026-10-28T20:54:57.778617"
+  },
+  {
+    "title": "Technical Support Engineer II",
+    "company": "ESET",
+    "url": "https://au.indeed.com/viewjob?jk=e04115be6de5a000",
+    "scraped_at": "2026-10-29T15:07:20.723610"
+  },
+  {
+    "title": "ICT Support Engineer",
+    "company": "yash IT Solutions",
+    "url": "https://au.indeed.com/viewjob?jk=3d6f39bb9310c550",
+    "scraped_at": "2026-10-29T15:07:20.724429"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Bega Cheese",
+    "url": "https://au.indeed.com/viewjob?jk=52da7b670c9bfdd0",
+    "scraped_at": "2026-10-29T15:07:20.777902"
+  },
+  {
+    "title": "Technical Business Analyst - Payments",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=2ddde069beeb765f",
+    "scraped_at": "2026-10-29T15:07:20.779609"
   }
 ]
