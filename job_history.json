@@ -1,35 +1,5 @@
 [
   {
-    "title": "Korean - Fluent Speakers - AI Training - Melbourne, Australia",
-    "company": "Prolific Academic Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=07f71c3c3edbe360",
-    "scraped_at": "2026-05-04T14:21:11.414332"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=a3b745aa54c9f033",
-    "scraped_at": "2026-05-04T17:47:40.497633"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=a4cfe51844187c1f",
-    "scraped_at": "2026-05-04T17:47:40.498022"
-  },
-  {
-    "title": "Securities & Derivatives Intermediate Analyst",
-    "company": "Citi",
-    "url": "https://au.indeed.com/viewjob?jk=c49907775e4f924f",
-    "scraped_at": "2026-05-05T03:36:09.355192"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=0e9f9f7be73bb687",
-    "scraped_at": "2026-05-05T03:36:09.363299"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=ce68c6a90e61b8a4",
@@ -5998,5 +5968,35 @@
     "company": "Essential Tech",
     "url": "https://au.indeed.com/viewjob?jk=a6cfd817b736646e",
     "scraped_at": "2026-10-30T05:24:26.190625"
+  },
+  {
+    "title": "GRC Analyst - AI & OT",
+    "company": "Kmart Australia",
+    "url": "https://au.indeed.com/viewjob?jk=dc283cfbb8569fe8",
+    "scraped_at": "2026-10-30T20:38:19.512532"
+  },
+  {
+    "title": "Software Engineer - Wagering Platform",
+    "company": "Racing and Wagering Western Australia",
+    "url": "https://au.indeed.com/viewjob?jk=9a618712f6a6a2aa",
+    "scraped_at": "2026-10-30T20:38:19.554834"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Open Universities Australia",
+    "url": "https://au.indeed.com/viewjob?jk=be739326ac489fd0",
+    "scraped_at": "2026-10-30T20:38:19.556176"
+  },
+  {
+    "title": "Engineer - SRE",
+    "company": "Xero",
+    "url": "https://au.indeed.com/viewjob?jk=24d6b92e67646a3a",
+    "scraped_at": "2026-10-30T20:38:19.557308"
+  },
+  {
+    "title": "Rail Transport Planner",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=6280ce6fc00aee27",
+    "scraped_at": "2026-10-30T20:38:19.561504"
   }
 ]
