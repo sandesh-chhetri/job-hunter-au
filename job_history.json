@@ -1,17 +1,5 @@
 [
   {
-    "title": "Korean - Fluent Speakers - AI Training - Brisbane, Australia",
-    "company": "Prolific Academic Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=f69ed1200f09565b",
-    "scraped_at": "2026-05-04T14:21:11.413483"
-  },
-  {
-    "title": "Korean - Fluent Speakers - AI Training - Sydney, Australia",
-    "company": "Prolific Academic Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=b668e7337b7c900b",
-    "scraped_at": "2026-05-04T14:21:11.413906"
-  },
-  {
     "title": "Korean - Fluent Speakers - AI Training - Melbourne, Australia",
     "company": "Prolific Academic Ltd",
     "url": "https://au.indeed.com/viewjob?jk=07f71c3c3edbe360",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=13e652b4d32d689a",
     "scraped_at": "2026-10-29T20:59:29.761866"
+  },
+  {
+    "title": "Enrolled Nurse",
+    "company": "Queensland Government",
+    "url": "https://au.indeed.com/viewjob?jk=d6f38b3ac4250d2d",
+    "scraped_at": "2026-10-30T05:24:26.130855"
+  },
+  {
+    "title": "Systems Analyst",
+    "company": "Essential Tech",
+    "url": "https://au.indeed.com/viewjob?jk=a6cfd817b736646e",
+    "scraped_at": "2026-10-30T05:24:26.190625"
   }
 ]
