@@ -1,11 +1,5 @@
 [
   {
-    "title": "Information Security Analyst",
-    "company": "Allens",
-    "url": "https://au.indeed.com/viewjob?jk=1a85e21cd025d80b",
-    "scraped_at": "2026-05-05T06:24:59.748279"
-  },
-  {
     "title": "Service Desk - ITOC Australia",
     "company": "Hewlett Packard Enterprise | HPE",
     "url": "https://au.indeed.com/viewjob?jk=3532e5cb47ae92bb",
@@ -5998,5 +5992,11 @@
     "company": "HUB24",
     "url": "https://au.indeed.com/viewjob?jk=89d7428b8964b511",
     "scraped_at": "2026-10-31T05:08:33.514003"
+  },
+  {
+    "title": "Software Engineer (Backend and Infrastructure)",
+    "company": "Maileroo Group Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=c690ecf0a8681b2f",
+    "scraped_at": "2026-10-31T14:27:41.162403"
   }
 ]
