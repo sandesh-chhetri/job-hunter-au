@@ -1,11 +1,5 @@
 [
   {
-    "title": "Service Desk - ITOC Australia",
-    "company": "Hewlett Packard Enterprise | HPE",
-    "url": "https://au.indeed.com/viewjob?jk=3532e5cb47ae92bb",
-    "scraped_at": "2026-05-05T10:09:27.762383"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=a890aa03f2aa4d25",
@@ -5998,5 +5992,11 @@
     "company": "Maileroo Group Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=c690ecf0a8681b2f",
     "scraped_at": "2026-10-31T14:27:41.162403"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=76792452a04f53a4",
+    "scraped_at": "2026-10-31T23:16:07.165468"
   }
 ]
