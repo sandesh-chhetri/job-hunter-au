@@ -1,11 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=ce68c6a90e61b8a4",
-    "scraped_at": "2026-05-05T03:36:09.363705"
-  },
-  {
     "title": "Information Security Analyst",
     "company": "Allens",
     "url": "https://au.indeed.com/viewjob?jk=1a85e21cd025d80b",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=6280ce6fc00aee27",
     "scraped_at": "2026-10-30T20:38:19.561504"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "HUB24",
+    "url": "https://au.indeed.com/viewjob?jk=89d7428b8964b511",
+    "scraped_at": "2026-10-31T05:08:33.514003"
   }
 ]
