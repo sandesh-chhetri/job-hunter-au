@@ -1,17 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=a890aa03f2aa4d25",
-    "scraped_at": "2026-05-05T10:09:27.764531"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=b2862554fb718764",
-    "scraped_at": "2026-05-05T10:09:27.764917"
-  },
-  {
     "title": "Business Analyst, Service Integrity & Resolution",
     "company": "MUFG",
     "url": "https://au.indeed.com/viewjob?jk=fa899be9cc779a3e",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=76792452a04f53a4",
     "scraped_at": "2026-10-31T23:16:07.165468"
+  },
+  {
+    "title": "Expression of Interest | Claims Officer",
+    "company": "Allianz",
+    "url": "https://au.indeed.com/viewjob?jk=d2512daa978db30e",
+    "scraped_at": "2026-11-01T20:24:37.399709"
+  },
+  {
+    "title": "IT Support - Remote",
+    "company": "Im With You",
+    "url": "https://au.indeed.com/viewjob?jk=8e6444e2e37ed77d",
+    "scraped_at": "2026-11-01T20:24:37.416590"
   }
 ]
