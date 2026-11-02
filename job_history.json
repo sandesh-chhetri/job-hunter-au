@@ -1,17 +1,5 @@
 [
   {
-    "title": "Business Analyst, Service Integrity & Resolution",
-    "company": "MUFG",
-    "url": "https://au.indeed.com/viewjob?jk=fa899be9cc779a3e",
-    "scraped_at": "2026-05-05T10:09:27.804776"
-  },
-  {
-    "title": "Business Analyst, Service Integrity & Resolution",
-    "company": "MUFG",
-    "url": "https://au.indeed.com/viewjob?jk=d3fea73b12501b43",
-    "scraped_at": "2026-05-05T10:09:27.805868"
-  },
-  {
     "title": "Software Development Engineer, Network Health Service (NHS)",
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=decb3e6733738915",
@@ -5998,5 +5986,17 @@
     "company": "Im With You",
     "url": "https://au.indeed.com/viewjob?jk=8e6444e2e37ed77d",
     "scraped_at": "2026-11-01T20:24:37.416590"
+  },
+  {
+    "title": "Office Administrator",
+    "company": "Anand Education Services",
+    "url": "https://au.indeed.com/viewjob?jk=b9dd66643bd749d2",
+    "scraped_at": "2026-11-02T05:37:24.077079"
+  },
+  {
+    "title": "Technical Analyst - Market Data Systems",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=694190d321707c20",
+    "scraped_at": "2026-11-02T05:37:24.082725"
   }
 ]
