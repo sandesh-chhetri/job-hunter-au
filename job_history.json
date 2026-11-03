@@ -1,17 +1,5 @@
 [
   {
-    "title": "Software Development Engineer, Network Health Service (NHS)",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=decb3e6733738915",
-    "scraped_at": "2026-05-05T10:09:27.830551"
-  },
-  {
-    "title": "Garment Technologist - Womenswear",
-    "company": "The Just Group",
-    "url": "https://au.indeed.com/viewjob?jk=9792a53343b31be4",
-    "scraped_at": "2026-05-05T10:09:27.834394"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=24e441377952175a",
@@ -5998,5 +5986,17 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=694190d321707c20",
     "scraped_at": "2026-11-02T05:37:24.082725"
+  },
+  {
+    "title": "Network Administrator",
+    "company": "Gems IT Solutions Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=ee82b3d6189dd3f4",
+    "scraped_at": "2026-11-03T02:08:37.945247"
+  },
+  {
+    "title": "Accounting Officer - Distribution",
+    "company": "Outback Stores",
+    "url": "https://au.indeed.com/viewjob?jk=5bd1aed34647c7d5",
+    "scraped_at": "2026-11-03T02:08:37.968649"
   }
 ]
