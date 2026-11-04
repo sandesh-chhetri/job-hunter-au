@@ -1,29 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=24e441377952175a",
-    "scraped_at": "2026-05-05T17:44:20.321123"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=e3b85e77d55aa776",
-    "scraped_at": "2026-05-05T17:44:20.321533"
-  },
-  {
-    "title": "Cloud Engineer and Devops",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=ba4865030c907891",
-    "scraped_at": "2026-05-05T17:44:20.353576"
-  },
-  {
-    "title": "Program Administrator",
-    "company": "AKG Australia",
-    "url": "https://au.indeed.com/viewjob?jk=816a710e341eac36",
-    "scraped_at": "2026-05-05T17:44:20.354011"
-  },
-  {
     "title": "INTEGRATION DEVELOPER",
     "company": "HBF Health",
     "url": "https://au.indeed.com/viewjob?jk=2f65efef2c353ccf",
@@ -5998,5 +5974,29 @@
     "company": "Outback Stores",
     "url": "https://au.indeed.com/viewjob?jk=5bd1aed34647c7d5",
     "scraped_at": "2026-11-03T02:08:37.968649"
+  },
+  {
+    "title": "Accounts Receivable Officer, Corporate Services",
+    "company": "Victorian Government",
+    "url": "https://au.indeed.com/viewjob?jk=0a181ecf61083a16",
+    "scraped_at": "2026-11-04T11:58:48.880213"
+  },
+  {
+    "title": "Accounts Receivable Officer, Corporate Services",
+    "company": "Department of Justice and Community Safety",
+    "url": "https://au.indeed.com/viewjob?jk=430dc980983354e9",
+    "scraped_at": "2026-11-04T11:58:48.881700"
+  },
+  {
+    "title": "Data/ Functional Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=8f4e0f4ad1da3864",
+    "scraped_at": "2026-11-04T11:58:48.952918"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=68613752f644887d",
+    "scraped_at": "2026-11-04T11:58:48.954290"
   }
 ]
