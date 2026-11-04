@@ -1,11 +1,5 @@
 [
   {
-    "title": "INTEGRATION DEVELOPER",
-    "company": "HBF Health",
-    "url": "https://au.indeed.com/viewjob?jk=2f65efef2c353ccf",
-    "scraped_at": "2026-05-05T17:44:20.357053"
-  },
-  {
     "title": "FinCrime Analyst (Investigator)",
     "company": "Revolut",
     "url": "https://au.indeed.com/viewjob?jk=9f2519f90aad7ecb",
@@ -5998,5 +5992,11 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=68613752f644887d",
     "scraped_at": "2026-11-04T11:58:48.954290"
+  },
+  {
+    "title": "Sales Support Officer",
+    "company": "Elders",
+    "url": "https://au.indeed.com/viewjob?jk=9b5ec20182a11b06",
+    "scraped_at": "2026-11-04T19:41:00.386795"
   }
 ]
