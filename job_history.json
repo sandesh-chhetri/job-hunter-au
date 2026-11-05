@@ -1,23 +1,5 @@
 [
   {
-    "title": "FinCrime Analyst (Investigator)",
-    "company": "Revolut",
-    "url": "https://au.indeed.com/viewjob?jk=9f2519f90aad7ecb",
-    "scraped_at": "2026-05-05T17:44:20.363763"
-  },
-  {
-    "title": "FinCrime Analyst (Investigator)",
-    "company": "Revolut",
-    "url": "https://au.indeed.com/viewjob?jk=39e4b71c852a1d04",
-    "scraped_at": "2026-05-05T17:44:20.364335"
-  },
-  {
-    "title": "IT Support Engineer",
-    "company": "Inniti Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=4d54d8c1d8f2f620",
-    "scraped_at": "2026-05-06T03:51:27.097153"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=a68b3b3bb0b8d22e",
@@ -5998,5 +5980,23 @@
     "company": "Elders",
     "url": "https://au.indeed.com/viewjob?jk=9b5ec20182a11b06",
     "scraped_at": "2026-11-04T19:41:00.386795"
+  },
+  {
+    "title": "Asset Systems & Process Analyst",
+    "company": "Horizon Power",
+    "url": "https://au.indeed.com/viewjob?jk=cb4a072d749124d0",
+    "scraped_at": "2026-11-05T12:04:45.385038"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=4d62c24e364efc2f",
+    "scraped_at": "2026-11-05T12:04:45.406733"
+  },
+  {
+    "title": "Work Health & Safety Practitioner",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=0c0d9f1f25055685",
+    "scraped_at": "2026-11-05T12:04:45.408915"
   }
 ]
