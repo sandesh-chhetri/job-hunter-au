@@ -1,23 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=a68b3b3bb0b8d22e",
-    "scraped_at": "2026-05-06T03:51:27.099111"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=48cb40fa762c8a2f",
-    "scraped_at": "2026-05-06T03:51:27.099492"
-  },
-  {
-    "title": "Psychologist or Provisional Psychologist (NDIS)",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=fea2967bd1a1e47c",
-    "scraped_at": "2026-05-06T03:51:27.103358"
-  },
-  {
     "title": "Business Systems Support Officer",
     "company": "NT Government - Department of Corporate and Digital Development",
     "url": "https://au.indeed.com/viewjob?jk=13a19ef917be9763",
@@ -5998,5 +5980,23 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=0c0d9f1f25055685",
     "scraped_at": "2026-11-05T12:04:45.408915"
+  },
+  {
+    "title": "Performance and Systems Improvement Analyst",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=2f5ec3cced64f51b",
+    "scraped_at": "2026-11-10T21:44:46.893558"
+  },
+  {
+    "title": "Data Analyst - LMS",
+    "company": "Country Fire Authority",
+    "url": "https://au.indeed.com/viewjob?jk=ac06503a7d70f55f",
+    "scraped_at": "2026-11-10T21:44:46.908596"
+  },
+  {
+    "title": "Web Developer - hosting transition, WordPress support, headless builds",
+    "company": "Strategic Digital",
+    "url": "https://au.indeed.com/viewjob?jk=6390fcbbf0469275",
+    "scraped_at": "2026-11-10T21:44:46.924970"
   }
 ]
