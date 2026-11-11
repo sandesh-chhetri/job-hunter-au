@@ -1,11 +1,5 @@
 [
   {
-    "title": "Security Analyst",
-    "company": "Coles Group",
-    "url": "https://au.indeed.com/viewjob?jk=eaccd4718d310676",
-    "scraped_at": "2026-05-06T06:38:03.534460"
-  },
-  {
     "title": "Risk Governance Analyst",
     "company": "TEACHERS MUTUAL BANK",
     "url": "https://au.indeed.com/viewjob?jk=1482dfbbcdd18a0d",
@@ -5998,5 +5992,11 @@
     "company": "ENOVIS",
     "url": "https://au.indeed.com/viewjob?jk=2d82ecdc7a2b83c4",
     "scraped_at": "2026-11-11T16:00:31.722907"
+  },
+  {
+    "title": "ICT Business Analyst",
+    "company": "Talent connector Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=4ae76a124d093f0b",
+    "scraped_at": "2026-11-11T22:38:26.452667"
   }
 ]
