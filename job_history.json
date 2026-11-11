@@ -1,17 +1,5 @@
 [
   {
-    "title": "Business Systems Support Officer",
-    "company": "NT Government - Department of Corporate and Digital Development",
-    "url": "https://au.indeed.com/viewjob?jk=13a19ef917be9763",
-    "scraped_at": "2026-05-06T03:51:27.140971"
-  },
-  {
-    "title": "Data Warehouse Developer",
-    "company": "NT Government - Department of Corporate and Digital Development",
-    "url": "https://au.indeed.com/viewjob?jk=1bb415e6e029280e",
-    "scraped_at": "2026-05-06T03:51:27.162373"
-  },
-  {
     "title": "Security Analyst",
     "company": "Coles Group",
     "url": "https://au.indeed.com/viewjob?jk=eaccd4718d310676",
@@ -5998,5 +5986,17 @@
     "company": "Strategic Digital",
     "url": "https://au.indeed.com/viewjob?jk=6390fcbbf0469275",
     "scraped_at": "2026-11-10T21:44:46.924970"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Emergence Insurance",
+    "url": "https://au.indeed.com/viewjob?jk=6bfcd1151b9848a1",
+    "scraped_at": "2026-11-11T16:00:31.694535"
+  },
+  {
+    "title": "Quality Assurance Engineer",
+    "company": "ENOVIS",
+    "url": "https://au.indeed.com/viewjob?jk=2d82ecdc7a2b83c4",
+    "scraped_at": "2026-11-11T16:00:31.722907"
   }
 ]
