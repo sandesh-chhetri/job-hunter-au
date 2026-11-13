@@ -1,23 +1,5 @@
 [
   {
-    "title": "WORKFORCE SUPPORT OFFICER - CASUAL - NEWCASTLE OR SYDNEY, NSW",
-    "company": "Lifestyle Solutions",
-    "url": "https://au.indeed.com/viewjob?jk=28f87f2799d37478",
-    "scraped_at": "2026-05-06T10:25:26.627878"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=10f98a5601e9a52d",
-    "scraped_at": "2026-05-06T10:25:26.644139"
-  },
-  {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=cd3f0f9c36ab91f2",
-    "scraped_at": "2026-05-06T10:25:26.644544"
-  },
-  {
     "title": "Software Engineering Specialist .NET",
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=0db6247c24fad470",
@@ -5998,5 +5980,23 @@
     "company": "Country Fire Authority",
     "url": "https://au.indeed.com/viewjob?jk=f9c1ae4d02f6f5cc",
     "scraped_at": "2026-11-12T16:43:51.981092"
+  },
+  {
+    "title": "Business Analyst Melbourne, Victoria",
+    "company": "Bupa",
+    "url": "https://au.indeed.com/viewjob?jk=8323bf30dce5bc25",
+    "scraped_at": "2026-11-13T12:01:33.065552"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Optus",
+    "url": "https://au.indeed.com/viewjob?jk=500faf68a83a88c5",
+    "scraped_at": "2026-11-13T12:01:33.101284"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Infintra Digital Solutions",
+    "url": "https://au.indeed.com/viewjob?jk=5d7372cf71942713",
+    "scraped_at": "2026-11-13T12:01:33.106460"
   }
 ]
