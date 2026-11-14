@@ -1,11 +1,5 @@
 [
   {
-    "title": "Aged Care Co-ordinator",
-    "company": "NT Health",
-    "url": "https://au.indeed.com/viewjob?jk=6f4a0e3ae441d50c",
-    "scraped_at": "2026-05-06T17:48:20.808981"
-  },
-  {
     "title": "Data Warehouse Developer",
     "company": "NT Government - Department of Corporate and Digital Development",
     "url": "https://au.indeed.com/viewjob?jk=78edd44f11df1b38",
@@ -5998,5 +5992,11 @@
     "company": "Cadence Connect",
     "url": "https://au.indeed.com/viewjob?jk=57debd9a477ebacc",
     "scraped_at": "2026-11-13T21:53:02.001805"
+  },
+  {
+    "title": "Customer Support Analyst | East Coast Australia | Legal Tech",
+    "company": "ActionStep",
+    "url": "https://au.indeed.com/viewjob?jk=20025fa4c0296107",
+    "scraped_at": "2026-11-14T05:56:54.946090"
   }
 ]
