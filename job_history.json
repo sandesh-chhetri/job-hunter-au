@@ -1,11 +1,5 @@
 [
   {
-    "title": "Data Warehouse Developer",
-    "company": "NT Government - Department of Corporate and Digital Development",
-    "url": "https://au.indeed.com/viewjob?jk=78edd44f11df1b38",
-    "scraped_at": "2026-05-06T17:48:20.810001"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=2c6fd363b6905d80",
@@ -5998,5 +5992,11 @@
     "company": "ActionStep",
     "url": "https://au.indeed.com/viewjob?jk=20025fa4c0296107",
     "scraped_at": "2026-11-14T05:56:54.946090"
+  },
+  {
+    "title": "Merchandise Optimisation Analyst",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=a2e05638a97e31c6",
+    "scraped_at": "2026-11-15T05:58:16.564374"
   }
 ]
