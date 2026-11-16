@@ -1,17 +1,5 @@
 [
   {
-    "title": "IT Support Engineer I, Operations Technology Solutions",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=0e67f65e4c15b0bb",
-    "scraped_at": "2026-05-06T17:48:20.824754"
-  },
-  {
-    "title": "Compliance Officer",
-    "company": "NT Government - Department of Tourism and Hospitality",
-    "url": "https://au.indeed.com/viewjob?jk=5b0f164206bce784",
-    "scraped_at": "2026-05-06T17:48:20.871499"
-  },
-  {
     "title": "Finance and Administration Officer",
     "company": "MEGT Australia Ltd",
     "url": "https://au.indeed.com/viewjob?jk=20947f4a274519ba",
@@ -5998,5 +5986,17 @@
     "company": "Sydney Anglican Services",
     "url": "https://au.indeed.com/viewjob?jk=2865f6c3c1ba89c8",
     "scraped_at": "2026-11-15T15:33:02.157256"
+  },
+  {
+    "title": "Logistics Coordinator",
+    "company": "Optus",
+    "url": "https://au.indeed.com/viewjob?jk=ba8a7b5aaa804832",
+    "scraped_at": "2026-11-16T05:58:05.882189"
+  },
+  {
+    "title": "Administration Officer",
+    "company": "Government of South Australia",
+    "url": "https://au.indeed.com/viewjob?jk=74e6d165ecd54cff",
+    "scraped_at": "2026-11-16T05:58:05.905262"
   }
 ]
