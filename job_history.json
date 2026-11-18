@@ -1,11 +1,5 @@
 [
   {
-    "title": "Google Cloud Platform (GCP) Data Engineer",
-    "company": "Duxxel",
-    "url": "https://au.indeed.com/viewjob?jk=ad1d1ee9ea371641",
-    "scraped_at": "2026-05-07T06:45:06.609649"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=dc8d676b11600eb3",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=eecb767a0c414e39",
     "scraped_at": "2026-11-17T13:00:21.121239"
+  },
+  {
+    "title": "Hiring L1, L2 Support Engineer casual for Brisbane",
+    "company": "Swift Computers Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=df7579a3159ab469",
+    "scraped_at": "2026-11-18T06:58:30.182966"
   }
 ]
