@@ -1,11 +1,5 @@
 [
   {
-    "title": "Benefits, Recognition and Mobility Advisor",
-    "company": "Optus",
-    "url": "https://au.indeed.com/viewjob?jk=4cd3a7f3ea795352",
-    "scraped_at": "2026-05-11T04:10:11.027593"
-  },
-  {
     "title": "IT Support Engineer I, Operations Technology Solutions",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=280f850d174a877c",
@@ -5998,5 +5992,11 @@
     "company": "Royal Automobile Club of WA",
     "url": "https://au.indeed.com/viewjob?jk=67d05586a3583081",
     "scraped_at": "2026-11-24T02:50:35.100920"
+  },
+  {
+    "title": "Software Engineer \u2013 Customer Protection & Support",
+    "company": "Neuronimbus Digital Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=99d1b19a10c3b992",
+    "scraped_at": "2026-11-25T00:31:49.832904"
   }
 ]
