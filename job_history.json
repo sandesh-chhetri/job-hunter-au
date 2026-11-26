@@ -1,11 +1,5 @@
 [
   {
-    "title": "SmokeMart & GiftBox Palmerston Gateway - Sales Assistant",
-    "company": "Otr Group",
-    "url": "https://au.indeed.com/viewjob?jk=5fcbd7e72f40457f",
-    "scraped_at": "2026-05-11T11:32:18.678665"
-  },
-  {
     "title": "Finance Business Analyst",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=b0df45bb80308409",
@@ -5998,5 +5992,11 @@
     "company": "Cadence Connect",
     "url": "https://au.indeed.com/viewjob?jk=8606f4c4f9b176b9",
     "scraped_at": "2026-11-25T14:05:32.896144"
+  },
+  {
+    "title": "Insights Analyst - Home Lending",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=d61c70a26cefe82d",
+    "scraped_at": "2026-11-26T13:43:03.428090"
   }
 ]
