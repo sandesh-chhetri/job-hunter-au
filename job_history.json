@@ -1,11 +1,5 @@
 [
   {
-    "title": "Finance Business Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=b0df45bb80308409",
-    "scraped_at": "2026-05-11T11:32:18.713897"
-  },
-  {
     "title": "Network Support Engineer",
     "company": "Total IT Global",
     "url": "https://au.indeed.com/viewjob?jk=325df02b7fc0b6ed",
@@ -5998,5 +5992,11 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=d61c70a26cefe82d",
     "scraped_at": "2026-11-26T13:43:03.428090"
+  },
+  {
+    "title": "IT Support and Operations",
+    "company": "V4 Services Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=a4c143b9ccd989ef",
+    "scraped_at": "2026-11-28T07:33:51.197737"
   }
 ]
